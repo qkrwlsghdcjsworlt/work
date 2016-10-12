@@ -7,10 +7,10 @@ title: arCHive
 
 2016
 
-[`Aug`](https://jinhong-park.github.io/blog/201608.html) &nbsp; &nbsp; [`Sep`](https://jinhong-park.github.io/blog/201609.html) &nbsp; &nbsp; [`Oct`](https://jinhong-park.github.io/blog/201610.html)
+[`Aug`]({{ site.baseurl }}/201608.html) &nbsp; &nbsp;
+[`Sep`]({{ site.baseurl }}/201609.html) &nbsp; &nbsp;
+[`Oct`]({{ site.baseurl }}/201610.html)
 
 ---
 
-#### [Home](/blog) - [Links](/blog/Links.html) - arCHive 
-
-
+#### [Home]({{ site.baseurl }}) - [Links]({{ site.baseurl }}/Links.html) - arCHive 
