@@ -1,0 +1,24 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+#permalink:           pretty
+#relative_permalinks: true
+gems:
+  - jekyll-gist
+  - jekyll-paginate
+# Setup
+title:               논문 리뷰
+tagline:             '하루 일 논문'
+description:         '아이디어 창고 및 논문리뷰, 각종 노트 공간'
+url:                  https://jinhong-park.github.io/work
+baseurl:             '/work'
+paginate:            20
+
+# About/contact
+author:
+  name:              Jin-Hong Park
+  url:                https://jinhong-park.github.io/work
+  email:             jinhong.park@snu.ac.kr
+
+# Custom vars
+version:             1.0.0

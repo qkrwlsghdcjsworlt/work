@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "tight-binding model based on symmetry"
+date:   2016-07-18 21:00:00 +0900
+categories: tight-binding model
+
+---
+
+
+symmetry를 기반으로 허용되는 tight-binding 항을 찾고 있다. 이승훈 note를 기반으로 공부하고 있다. 오랜 이해의 과정은 뒤로하고 방금 깨달은 것을 요약하면, \\( a_{00} (k_x, k_y) \\) 과 \\( a_{0x} (k_x, k_y) \\)  의 두가지 조건이 다음과 같이 동일한데
+\\[ a_{00} (k_x, k_y) = a_{00} (-k_x, -k_y),~ a_{00} (k_x, k_y) = a_{00} (k_y, k_x),\\]
+\\[ a_{0x} (k_x, k_y) = a_{0x} (-k_x, -k_y),~ a_{0x} (k_x, k_y) = a_{0x} (k_y, k_x),  \\]
+
+가장 낮은 order의 허용 되는 term이
+
+\\[ a_{00} (k_x, k_y) = t_{00} \cos k_x \cos k_y, \\]
+\\[ a_{0x} (k_x, k_y) = t_{0x} (\cos k_x + \cos k_y) \\]
+
+으로 왜 다른지 궁금했는데, 그 이유는 \\( \tau \\) index와 관련이 있었다.
+\\( \tau_0 \\)의 경우는 `같은 sublattice` 끼리의 hopping 이므로 next-nearest-neighbor hopping이어야 되고, \\( \tau_x \\) 는 `다른 sublattice` 끼리의 hopping 이므로 nearest-neighbor hopping이면 가능하다. 그래서 \\( a_{00} (k_x, k_y) \\) 와  \\( a_{0x} (k_x, k_y) \\) 이 다른것이다.
+
+	

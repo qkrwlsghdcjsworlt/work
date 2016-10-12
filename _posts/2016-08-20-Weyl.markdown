@@ -1,0 +1,71 @@
+---
+layout: post
+title:  "Weyl"
+date:   2016-08-20 11:00:00 +0900
+categories: Weyl
+
+---
+
+`16-Dwivedi-Weyl-semimetal-time-reversal-symmetric-arXiv.pdf`
+를 보다가 상당히 introduction이 흥미로워서 참고문헌들을 정리해본다.
+
+1.Robustness Weyl nodes
+
+> Weyl nodes cannot be gapped without annihilating them in pairs, either by breaking the translation invariance or by  adding interations.
+
+`11-Wan`, Xiangang Wan, Ari M. Turner, Ashvin Vishwanath, and Sergey Y. Savrasov,PRB [Topological semimetal and Fermi-arc surface states in the electronic structure of pyrochlore iridates](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.83.205101)
+
+`15-witten` [Three Lectures On Topological Phases Of Matter](https://arxiv.org/abs/1510.07698)
+
+2.Recent experimental realization
+
+> a resurgance of interest owing to their recent realization in tantalum arsenide(TaAs) and in photonic crystals.
+
+1. `15-Huang`, nature comm. [A Weyl Fermion semimetal with surface Fermi arcs in the transition metal monopnictide TaAs class](http://www.nature.com/ncomms/2015/150612/ncomms8373/pdf/ncomms8373.pdf)
+
+2. `15-Lv`, PRX, [Experimental Discovery of Weyl Semimetal TaAs](http://journals.aps.org/prx/pdf/10.1103/PhysRevX.5.031013) 
+
+3. `15-Xu`, Science, [Discovery of a Weyl fermion semimetal and topological Fermi arcs](http://science.sciencemag.org/content/349/6248/613)
+
+4. `15-Lu`, Science, [Experimental observation of Weyl points](http://science.sciencemag.org/content/349/6248/622)
+
+5. `13-Lu`, nature photonics, [Weyl points and line nodes in gyroid photonic crystals](http://www.nature.com/nphoton/journal/v7/n4/full/nphoton.2013.42.html)
+
+3.Line node
+
+> If a Hamiltonian is symmetric under both of time-reversal and inversion symmetry, we generically get line nodes, which are closed loops in the Brillouin zoe along which the bulk gap closes and hence the Berry curvature is singular.
+
+
+1. Bernevig book
+
+2. `15-Ramamurthy`, PRB, [Patterns of electromagnetic response in topological semimetals](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.085105)
+
+4.Electromagnetic response
+
+> The WSMs exhibit nontrivial (quasi-topological) electromagnetic(EM) response.
+
+1. `15-Ramamurthy`, PRB, [Patterns of electromagnetic response in topological semimetals](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.085105)
+
+2. `13-Hosur`, arXiv, [Recent developments in transport phenomena in Weyl semimetals](http://arxiv.org/abs/1309.4464v1)
+
+5.anomalous Hall effect
+
+> anomalous Hall effect requires broken time-reversal symmetry.
+
+`13-Chen`, PRB, [Axion response in Weyl semimetals](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.88.125105)
+
+6.chiral magnetic effect and a realization of the chiral anomaly (Adler-Bell-Jackiw)
+
+> CME requires that both time-reversal and inversion be broken.
+
+1. `15-Ramamurthy`, PRB, [Patterns of electromagnetic response in topological semimetals](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.085105)
+
+2. `12-Zyuzin1, PRB, [Topological response in Weyl semimetals and the chiral anomaly](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.86.115133)
+3. `14-Parameswaran`, PRX, [Probing the Chiral Anomaly with Nonlocal Transport in Three-DimensionalTopological Semimetals](http://journals.aps.org/prx/abstract/10.1103/PhysRevX.4.031035)
+7.Fermi Arcs
+> WSMs exhibit _Fermi arcs_, a continous curve of gapless modes connecting the Weyl nodes of opposite chirality(projected onto the surface Brillouin zone)
+`16-Dwivedi`,PRB, [Of bulk and boundaries: Generalized transfer matrices for tight-binding models](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.134304)
+
+
+
+

@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "S. White"
+date:   2016-05-04 21:10:00 +0900
+categories: update
+
+---
+리누스 토발즈도 존경하지만, Steven White도 존경한다.
+
+[DMRG]
+
+[DMRG]:http://hedrock.ps.uci.edu/

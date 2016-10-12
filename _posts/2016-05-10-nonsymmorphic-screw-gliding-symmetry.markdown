@@ -1,0 +1,76 @@
+---
+layout: post
+title:  "nonsymmorphic"
+date:   2016-08-08 13:10:00 +0900
+categories: update
+
+---
+
+nonsymmorphic symmetry를 가지는 모델을 공부하는데 도대체 nonsymmorphic이란 무엇일까?
+
+어떤 논문을 보면 잘 이해할 수 있을까? Ashvin 논문?
+구글 검색을 해보자.
+[Topological nonsymmorphic crystalline insulators]에 자세한 설명을 볼수있다. `13-Liu-nonsymmorphic`
+
+> Nonsymmorphic crystals possess symmetry operations combining a point symmetry operation and a non-primitive translation operation, which cannot be removed by choosing the origin of crystals.
+
+이 non-primitive translation 을 어떤 논문에서는 fractional translation으로 표현하였다.[Nonsymmorphic Symmetries and Their Consequences] `12-Liao-nonsymmorphic`
+
+>  The “fractional” translation vectors v(α) depend on the choice of the origin. 
+
+
+이 symmetry의 효과는 band에 degeneracy를 준다는데 있다.
+
+> It is known that nonsymmorphic symmetries can “stick bands together” and yield extra degeneracies.
+
+그전까지 topological crystalline insulator연구는 point symmetry operation 과 translation operatrion 따로 고려했는데, 최근 연구결과 이 둘을 동시에 고려해야 band를 붙일 수 있고, 그러한 symmetry가 nonsymmorphic symmetry인 것이다.
+
+> Most studies of TCIs have been focusing on point groups or symmorphic part of space groups and it is still unclear if nonsymmorphic symmetries can yield new TCIs.
+
+
+
+그리고 topological property의 origin을 Z2-invariant로 두고 그전 두가지 연구결과를 인용하였다.
+[Z2 Topological Order and the Quantum Spin Hall Effect]
+
+[Topological insulators with inversion symmetry]
+
+
+왜 nonsymmorphic symmetry를 연구하는 것일까? 숨겨진 
+crystal symmetry를 알아서 좋은 점이 무엇이 있을까? symmetry를 깨면 energy band의 degeneracy 가 깨어지고 band splitting 이 일어난다. 대표적인 예가 Rashba spin-orbit splitting 이 있는데, inversion symmetry 가 깨어지면 spin up, spin down 에너지 밴드가 깨어지고, momentum 이 다른 스핀값에 고정된다. 
+Rashba splitting에서 보듯이 에너지 밴드가 갈라지게 되면 완벽하게 떨어지는 것이 아니다. high-symmetry k-point는 여전히 degeneracy를 유지하면서 에너지 밴드가 갈라진다. 
+
+그럼 결정구조가 nonsymmorphic symmetry를 가지는 시스템은 어떨까? symmetry가 있으면 system에 degeneracy가 있게 되고 이 nonsymmorphic symmetry를 깨게 되면 에너지 밴드가 다 갈라지는 것이 아니라 어떤 k-point만 남기고 깨지게 된다. 이렇게 해서 Weyl point든지 Dirac point를 만들수 있다. 그렇기 때문에 system 에 숨겨진 nonsymmorphic symmetry가 무엇인지 찾는 것이다.
+
+---
+
+16/08/08
+
+16-Chen 기혜영교수님 group 논문을 읽고 정리해본다. 일단 논문은 3차원에서의 이야기이고, 두개의 수직인 glide symmetry가 있으면 ring형태의 line node가 생긴다는 것이다. 
+
+1. 먼저 출발은 하나의 glide symmetry가 invariant한 plane을 찾는 것이다. 그 plane의 임의의 TRIM point 에서는 이 glide symmetry에 대해 2개의 eigenvalue가 존재한다. 
+
+2. 하나의 eigenvalue에 대해서 다른 수직인 glide operation을 생각할 수 있고, 이 두번째 glide operation에 해당하는 eigenvector는 서로 수직함을 보일 수 있다. 즉 첫번째 glide symmetry에 해당하는 eigenvalue는 두번째 glide symmetry에 의해 pair를 이루고 두번째 glide symmetry에 의해 degenerate되어 있다. \\( (\phi_1, \phi_3) \\). 이 pair는 time-reversal 과 inversion symmetry에 의해 Kramers pair를 갖는다. \\( (\phi_1, \phi_3, \Theta \phi_1, \Theta \phi_3 ) \\) 와 \\( (\phi_2, \phi_4, \Theta \phi_2, \Theta \phi_4 ) \\) 이러한 pair로 degenerate되어 있다.
+
+3. 이제 다른 brillouin zone boundary를 생각해보자. 그 BZ boundary 조건에 따라 정해지는 첫번째 glide operator와 두번째 glide symmetry operator commutation relation 에 의해 \\( \phi_1 \\) 의 두번째 glide symmetry operator 파트너가 더이상 \\( \phi_3 \\) 이 아니라 첫번째 glide symmetry 에 대한 반대 eigenvalue를 갖는 eigenvector임을 알 수 있다. 즉 \\( \phi_2 \\)  즉 2에서 BZ boundary로 오면서 partner change가 일어난다. 여기서 level crossing 이 일어난다. 
+ 
+4. 수직인 지점의 BZ boundary에서도 역시 partner change가 일어난다. 그래서 첫번째 TRIM point를 주변으로 line node가 생기게 된다.
+
+이런 논의는 3D에 대해 ring의 line node가 생긴다는 것이고, TRIM point와 BZ boundary 사이에서는 level crossing 이 꼭 있어야 한다는 것을 증명한 것이고, 그 line node관계식을 찾은 것은 아니다. 
+
+내가 하고 싶은 것은 왜 이 line crossing이 BZ boundary에서 일어나는가를 보이는 것이다. 이것을 어떻게, 왜 2D에서 가능할지 생각해봐야겠다.
+
+
+
+
+
+---
+
+
+[Topological nonsymmorphic crystalline insulators]:http://journals.aps.org/prb/abstract/10.1103/PhysRevB.90.085304
+
+[Nonsymmorphic Symmetries and Their Consequences]:http://web.mit.edu/bolin/www/nonsymmorphic_symmetry.pdf
+
+[Z2 Topological Order and the Quantum Spin Hall Effect]:http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.95.146802
+
+
+[Topological insulators with inversion symmetry]:http://journals.aps.org/prb/abstract/10.1103/PhysRevB.76.045302

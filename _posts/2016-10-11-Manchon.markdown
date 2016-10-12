@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Manchon's non-adiabatic damping"
+date:   2016-10-11 11:00:00 +0900
+categories: spintronics
+
+---
+
+[PRB 로부터 Manchon 논문 리뷰의뢰가 들어왔다.](/public/manchon/BW12823.pdf)
+보나마나 accept이고, 배울게 많은 논문이다.
+참고문헌들을 정리해 본다.
+
+처음 도입부 시작은 non-centrosymmetric transition metal ferromagnet에서 ultrafast 한 current-induced  **domain wall motion** 이 가능하다는 얘기부터 시작한다. 
+
+1.`08-Moore` [High domain wall velocities induced by current in ultrathin Pt/Co/AlOx wires with
+    perpendicular magnetic anisotropy, APL](/public/manchon/08-Moore-current-induced-DW-motion-non-centrosymmetric-APL.pdf)
+
+2.`11-Miron` [Fast current-induced domain-wall motion controlled by the Rashba effect](/public/manchon/11-Miron-Fast-DW-Rashba-effect-nmat.pdf) 
+
+3.`13-Emori` [Current-driven dynamics of chiral ferromagnetic domain walls](/public/manchon/13-Emori-DMI-nmat.pdf)
+
+4.`15-Yang` [Domain-wall velocities of up to 750 m s−1 driven by exchange-coupling torque in synthetic antiferromagnets](/public/manchon/15-Yang-DW-ultrafast-nnano.pdf)
+
+그리고 **skyrmion system** 은 current-induced motion에서 very low depinning current threshold 를 언급한다.
+
+1.`10-Jonietz` [Spin Transfer Torques in MnSi at Ultralow Current Densities](/public/manchon/10-Jonietz-spin-transfer-torque-science.pdf)
+
+2.`12-Schulz` [Emergent electrodynamics of skyrmions in a chiral magnet](/public/manchon/12-Schulz-dynamical-skyrmion-nphys.pdf)
+
+3.`12-Yu` [Skyrmion flow near room temperature in an ultralow current density](/public/manchon/12-Yu-RT-skyrmion-flow-ncomms.pdf)
+
+skyrmion은 **topological defect** 임을 언급하고,
+
+1.`13-Nagaosa` [Topological properties and dynamics of magnetic skyrmions](/public/manchon/13-nagaosa-skyrmion-nnano.pdf)
+
+**magnetic vortex** 와 유사함이 있음을 강조한다. 
+
+1.`06-He` [Current-driven vortex domain wall dynamics by micromagnetic simulations](/public/manchon/06-He-current-driven-DW-simulation-PRB.pdf)
+
+2.`06-Thomas` [Oscillatory dependence of current-driven magnetic domain wall motion on current pulse length](/public/manchon/06-Thomas-current-driven-DW-nature.pdf)
+
+3.`10-Eltschka` [Nonadiabatic Spin Torque Investigated Using Thermally Activated
+Magnetic Domain Wall Dynamics
+](/public/manchon/10-Eltschka-nonadiabatic-spin-torque-DW-PRL.pdf)

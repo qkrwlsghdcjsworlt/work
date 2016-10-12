@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "STM"
+date:   2016-07-22 12:00:00 +0900
+categories: transport
+
+---
+16.5.12
+
+STM measurement에서 metal tip일때의 신호와 SC tip일때의 신호차이는 어떤 의미를 가질까?
+
+`SC-tip.pdf` 논문을 찾았다. /my_project/STM 에서 확인할것.
+
+
+이 생각의 시초는 예레나가 최근에 발표한 논문때문에 생각하게 되었다.
+
+`simple-tight-binding-dIdV.pdf` 논문도 찾았다. 나중에 공부해보자.
+
+
+---
+
+16.07.21
+
+QPI 역시 이것의 연장선상에서 생각할 수 있을 것이다.
+
+nature physics 에 게제된 QPI 논문을 읽어보았다.
+
+16-Torre-QPI-nphys.pdf
+
+conduction band의 d-wave 성격을 알 수 있다는 게 주요요지인거 같다.
+
+---
+
+
+16.7.22
+
+홍종배 교수님께서 간단한 quantum dot 모델로 부터 STS 실험을 재생산하는데 성공하신 논문을 발표하셨다.
+quantum dot의 electron이 tip과 초전도체 entangled 되어있고, 여기에 대한 transport신호를 모델계산을 수행하셨다. 
+
+한가지 재밌는 점은 bilayer graphene 에 대한 STS 실험결과를 모사하셨는데, gap 이 있는 듯한 data를 제시하셨다. 이 gap의 원인은 무엇일까?
+
+그러려면 bilayer graphene이 어떤 성질을 갖는지 부터 살펴봐야할 것이다.
+
+그러기 위해서 논문들을 찾아보았다.
+
+/my_project/STM 에 저장해보자.
+
+

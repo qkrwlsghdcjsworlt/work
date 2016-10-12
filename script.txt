@@ -1,0 +1,2 @@
+cd /Users/parkjinhong/Google\ Drive/downg/lanyon-master
+make

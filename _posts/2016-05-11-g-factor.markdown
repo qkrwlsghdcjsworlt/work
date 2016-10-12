@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "g-factor"
+date:   2016-05-11 21:10:00 +0900
+categories: update
+
+---
+
+g-factor에 관한 새로운 논문.
+
+[Electric dipole spin resonance in systems with a valley-dependent g-factor]
+
+
+g-factor anisotropy에 대해서 일본 리켄에서 연구했었는데, 그때의 문제를 제기한 논문이 nature communication 에 출판 되었다. 그래서 관련논문을 [링크](http://www.nature.com/ncomms/2016/160415/ncomms11170/pdf/ncomms11170.pdf)한다.
+
+
+model 이라고 하는 것을 [링크](http://yacoby.physics.harvard.edu/Publications/Dephasing%20time%20of%20GaAs%20electron-spin%20qubits%20coupled%20to%20a%20nuclear%20bath%20exceeding%20200%20us_2010.pdf)한다.
+
+
+[Electric dipole spin resonance in systems with a valley-dependent g-factor]:http://journals.aps.org/prb/accepted/1d078Od5Db71df24086927433906b0792f18de55e

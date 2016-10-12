@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "MathJax"
+date:   2016-05-10 23:10:00 +0900
+categories: update
+
+---
+
+
+Inline formula using parens, \\({x}^{2} {y}^{2}=1\\), or with dollar signs, \\({x}^{2} {y}^{2}=1\\).
+
+Display with escaped brackets:
+
+\\[ {e}^{i\pi } 333=0 \label{testme} \\]
+
+\\[{x}_{1,2}={-b \pm \sqrt{ {b}^{2} - 4ac } \over 2a}\\]

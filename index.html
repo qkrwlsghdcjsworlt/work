@@ -1,0 +1,44 @@
+---
+layout: default
+title: Home
+---
+
+  
+
+<!--
+        <article class="post-item">
+          <span class="post-meta date-label">{{ post.date | date: "%b %d" }}</span>
+          <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></div>
+        </article>
+-->
+
+
+  <div class="post">
+    <ul class="post-list">
+    {% for post in paginator.posts %}
+      <li>
+        <h3>
+          <a class="post-link" href="{{  site.baseurl }}{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> </h3>
+           <span class = "post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+  </div>
+
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}/">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>

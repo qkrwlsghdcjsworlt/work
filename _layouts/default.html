@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  {% include head.html %}
+
+  <body class="theme-base-0b">
+
+
+    {% include sidebar.html %}
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+            <small>{{ site.tagline }}</small>
+          </h3>
+        </div>
+
+        <div class="container">
+          <class="masthead-title">
+        <h3>
+          <a class="post-link" href="{{  site.baseurl }}/tremblay.html">tremblay</a>  &nbsp; &nbsp;   <a class="post-link" href="{{  site.baseurl }}/iridates-note.html">Iridates note</a> &nbsp; &nbsp; <a class="post-link" href="{{  site.baseurl }}/BiAg.html">BiAg</a>  &nbsp; &nbsp; <a class="post-link" href="{{  site.baseurl }}/conferences.html">conferences</a> 
+
+        </h3>
+      </div>
+
+
+      </div>
+
+
+
+
+      <div class="container content">
+        {{ content }}
+      </div>
+
+
+<!--
+<div class="wrap">
+
+        <div class="container">
+           <h2>Categories</h2>
+      </div>
+
+    <div class="container content">
+           {% for category in site.categories %}
+          <li> <a name="{{ category | first }}">{{ category | first }}</a>
+           <ul>
+               {% for posts in category %}
+                {% for post in posts %}
+                   <ul><a href="{{ post.url }}">{{ post.title }}</a></ul>
+                  {% endfor %}
+
+                 {% endfor %}
+
+
+           </ul>
+           </li>
+          {% endfor %}
+    </div>
+ </div>
+-->
+
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script>
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+
+
+
+  </body>
+</html>

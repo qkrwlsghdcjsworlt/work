@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Majorana"
+date:   2016-07-26 18:00:00 +0900
+categories: majorana
+
+---
+
+Das Sarma 그룹에서 다음과 같은 논문을 냈음.
+
+S. Das Sarma, Amit Nag, and Jay D. Sau
+Phys. Rev. B 94, 035143 (2016) [How to infer non-Abelian statistics and topological visibility from tunneling conductance properties of realistic Majorana nanowires](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.035143)
+
+한번 읽어볼 가치가 있어보인다. 이 논문을 보니 전에 Kouvehowen 이 언급했던 majorana 논문을 읽고 싶은 생각이 든다.
+
+10-Lutchyn-Majorana-PRL.pdf
+
+10-Oreg-Helical-Liquid-majorana-PRL.pdf
+
+---
+
+Marra 최근 논문
+
+16-Marra-DW-magnetic-texture-arXiv.pdf 이것도 한번 읽어보자.
+
+
+

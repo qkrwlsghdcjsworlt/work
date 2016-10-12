@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "LDOS"
+date:   2016-05-04 14:42:00 +0900
+categories: jekyll update
+---
+LDOS 계산과 관련된 두개 논문을 링크해둔다.
+
+[최근 arXiv 논문]
+
+[2010년 PRL 논문]
+
+[최근 arXiv 논문]:http://arxiv.org/abs/1605.00696
+[2010년 PRL 논문]:http://journals.aps.org/prl/pdf/10.1103/PhysRevLett.105.167006
