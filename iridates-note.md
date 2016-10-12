@@ -118,3 +118,8 @@ Wannier function 에 glide mirror operator를 act하는 것이 있어서 연습�
 그전에 mean-field 계산으로 각도에 따른 스핀 방향을 계산해보았다. rotation angle 이 0 도 일때는 c-axis ordering이 자연스럽게 얻어졌다.
 
 rotation angle 이 0이 아니게 되면, 스핀은 ab-plane으로 눕게 되고, 하나의 값으로 수렴하는게 아니라, flustrated 한 경향을 보인다.
+
+
+10/12 (수)
+
+기혜영교수님 논문에 나온대로 U를 넣고 mean-field 방법으로 계산했을 때 결과가 똑같이 나올까 계산하려한다. [그러기 위해선 Hamiltonian 을 정확하게 알 필요가 있다.]({{ site.baseurl }}/public/iridatesnotes/Kee-Ir214-Hamiltonian.pdf)
