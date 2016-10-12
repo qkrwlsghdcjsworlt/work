@@ -6,13 +6,13 @@ title: tremblay
 May 30 to June 10, 2016
 Sherbrooke, Québec, Canada
 
-* Poster advertisement [PDF](/public/tremblay/Combines_1_pagers.pdf) 
+* Poster advertisement [PDF]({{ site.baseurl }}/public/tremblay/Combines_1_pagers.pdf) 
 
 Monday May 30, 2016
 
 * Claude Spino, Welcome [PDF](/public/tremblay/WelcomeClaudeSpino.pdf)
-* André-Marie Tremblay, Introduction [PDF](/public/tremblay/1605_Introduction_to_the_school.pdf) 
-* André-Marie Tremblay, Lecture Notes [PDF](/public/tremblay/N-corps-2014.pdf) 
+* André-Marie Tremblay, Introduction [PDF](/public/tremblay/1605_Introduction_to_the_school.pdf)
+* André-Marie Tremblay, Lecture Notes [PDF](/public/tremblay/N-corps-2014.pdf)
 * André-Marie Tremblay, Hand-wrtitten Lecture Notes [PDF](/public/tremblay/Handwritten_lecture_notes_on_Refresher_Many-Body_theory_Tremblay.pdf)
     [PDF (updated June 9, 2016)](/public/tremblay/Handwritten-lecture-notes-on-Refresher-Many-Body-theory-Tremblay-updated.pdf)
 * Michel Côté, Introduction to DFT [PDF (2.8 MB)](/public/tremblay/intro_dft.pdf)
@@ -64,7 +64,7 @@ Thursday June 9, 2016
 -> iTensor 잘 작동한다. 다만, 연구실에 있는 iMac이랑 macbook 이랑 호환은 안 되는 거 같지만 iTensor main 폴더에서 make 를 실행하면 compile 잘 되는 것을 확인할 수 있다.
 
 
-Sep., 2016 
+Sep., 2016
 
 ### My study on KWANT
 
@@ -73,7 +73,7 @@ kwant compile이 안 되었는데,
 /Library/python/3.5~~~~ 이하 이걸 지우고
 
 > `export LANG=en_US.UTF-8`
-> 
+>
 `export LC_ALL=en_US.UTF-8`
 
 
@@ -96,4 +96,3 @@ kwant compile이 안 되었는데,
 [KWANT](https://kwant-project.org/doc/1.0/tutorial/tutorial1) 인터넷 문서인데, 따라서 공부하면 아주 유익할 듯 하다.
 
 기본적인 [kwant](https://kwant-project.org/) 홈페이지
-
