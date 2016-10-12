@@ -12,7 +12,7 @@ ctioga2를 설치했다. [homepage](http://ctioga2.sourceforge.net/index.html)
 
 새로운 스타일의 그림을 원할때 시도해보면 좋을 거 같다.
 
-[기본적인 명령어는 다음과 같다.](/public/ctioga2/ctioga.sh)
+[기본적인 명령어는 다음과 같다.]({{ site.baseurl }}/public/ctioga2/ctioga.sh)
 
 문제는 illustration으로 옮기고 나면, font 문제가 있는데, [이것은 다음에서 찾아서 고쳤다.](http://stackoverflow.com/questions/9992275/ggplot2-pdf-import-in-adobe-illustrator-missing-font-adobepistd)
 
