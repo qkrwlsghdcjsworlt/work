@@ -10,15 +10,15 @@ gems:
 title:               논문 리뷰
 tagline:             '하루 일 논문'
 description:         '아이디어 창고 및 논문리뷰, 각종 노트 공간'
-url:                  https://jinhong-park.github.io/work
+url:                  https://qkrwlsghdcjsworlt.github.io/work
 baseurl:             '/work'
 paginate:            20
 
 # About/contact
 author:
-  name:              Jin-Hong Park
-  url:                https://jinhong-park.github.io/work
-  email:             jinhong.park@snu.ac.kr
+  name:              JHP
+  url:                https://qkrwlsghdcjsworlt.github.io/work
+  email:              
 
 # Custom vars
 version:             1.0.0
