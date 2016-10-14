@@ -120,6 +120,10 @@ Wannier function 에 glide mirror operator를 act하는 것이 있어서 연습�
 rotation angle 이 0이 아니게 되면, 스핀은 ab-plane으로 눕게 되고, 하나의 값으로 수렴하는게 아니라, flustrated 한 경향을 보인다.
 
 
-10/12 (수) 
+10/12 (수)
 
 기혜영교수님 논문에 나온대로 U를 넣고 mean-field 방법으로 계산했을 때 결과가 똑같이 나올까 계산하려한다. [그러기 위해선 Hamiltonian 을 정확하게 알 필요가 있다.]({{ site.baseurl }}/public/iridatesnotes/Kee-Ir214-Hamiltonian.pdf)
+
+10/14 (금)
+
+mean-field 계산을 하고 있는데 드디어 half filling의 의미를 알거 같다. 가장 낮은 두개의 에너지 레벨의 A site 의 spin moments와 B site 의 spin moments 를 계산한 후 합치고 이것을 k-sum 해주어야 제대로된 계산을 할 수 있다.
