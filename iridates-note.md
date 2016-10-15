@@ -127,3 +127,7 @@ rotation angle 이 0이 아니게 되면, 스핀은 ab-plane으로 눕게 되고
 10/14 (금)
 
 mean-field 계산을 하고 있는데 드디어 half filling의 의미를 알거 같다. 가장 낮은 두개의 에너지 레벨의 A site 의 spin moments와 B site 의 spin moments 를 계산한 후 합치고 이것을 k-sum 해주어야 제대로된 계산을 할 수 있다.
+
+10/15 (토)
+
+half-filling 전략을 쓰면, BZ을 정하고, 그렇게 얻은 에너지 밴드를 내림차순으로 정리한다음 절반되는 상대의 에너지를 받아들인다. 이런식으로 하면 어떤 k points 는 모든 에너지 레벨이 포함되기도 하고, 어떤 k points는 하나도 포함되지 않기도 한다. 
