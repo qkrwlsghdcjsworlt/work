@@ -328,9 +328,18 @@ a.sidebar-nav-item:focus {
   display: block;
   margin-right: 0.2rem;
   margin-bottom: 0.7rem;
-  margin-top: -1rem;
+  margin-top: -0.8rem;
   color: #9a9a9a;
 }
+
+.post-date-title {
+  display: block;
+  margin-right: 0.2rem;
+  margin-bottom: -1.8rem;
+  margin-top: 1.5rem;
+  color: #268bd2;
+}
+
 
 .post-item {
   margin-bottom: 0.2em;
