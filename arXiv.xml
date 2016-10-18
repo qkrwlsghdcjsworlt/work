@@ -1,61 +1,395 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <link href="http://arxiv.org/api/query?search_query%3Dall%3Aelectron%26id_list%3D%26start%3D0%26max_results%3D1" rel="self" type="application/atom+xml"/>
-  <title type="html">ArXiv Query: search_query=all:electron&amp;id_list=&amp;start=0&amp;max_results=1</title>
-  <id>http://arxiv.org/api/cHxbiOdZaP56ODnBPIenZhzg5f8</id>
+  <link href="http://arxiv.org/api/query?search_query%3Dall%3Askyrmion%26id_list%3D%26start%3D0%26max_results%3D10" rel="self" type="application/atom+xml"/>
+  <title type="html">ArXiv Query: search_query=all:skyrmion&amp;id_list=&amp;start=0&amp;max_results=10</title>
+  <id>http://arxiv.org/api/geeNEGlNK8iPWHU/uGlce+Cy29A</id>
   <updated>2016-10-18T00:00:00-04:00</updated>
-  <opensearch:totalResults xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">116817</opensearch:totalResults>
+  <opensearch:totalResults xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">1335</opensearch:totalResults>
   <opensearch:startIndex xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">0</opensearch:startIndex>
-  <opensearch:itemsPerPage xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">1</opensearch:itemsPerPage>
+  <opensearch:itemsPerPage xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">10</opensearch:itemsPerPage>
   <entry>
-    <id>http://arxiv.org/abs/cond-mat/0102536v1</id>
-    <updated>2001-02-28T20:12:09Z</updated>
-    <published>2001-02-28T20:12:09Z</published>
-    <title>Impact of Electron-Electron Cusp on Configuration Interaction Energies</title>
-    <summary>  The effect of the electron-electron cusp on the convergence of configuration
-interaction (CI) wave functions is examined. By analogy with the
-pseudopotential approach for electron-ion interactions, an effective
-electron-electron interaction is developed which closely reproduces the
-scattering of the Coulomb interaction but is smooth and finite at zero
-electron-electron separation. The exact many-electron wave function for this
-smooth effective interaction has no cusp at zero electron-electron separation.
-We perform CI and quantum Monte Carlo calculations for He and Be atoms, both
-with the Coulomb electron-electron interaction and with the smooth effective
-electron-electron interaction. We find that convergence of the CI expansion of
-the wave function for the smooth electron-electron interaction is not
-significantly improved compared with that for the divergent Coulomb interaction
-for energy differences on the order of 1 mHartree. This shows that, contrary to
-popular belief, description of the electron-electron cusp is not a limiting
-factor, to within chemical accuracy, for CI calculations.
+    <id>http://arxiv.org/abs/1005.2488v4</id>
+    <updated>2011-03-29T12:35:45Z</updated>
+    <published>2010-05-14T09:48:42Z</published>
+    <title>Non-existence of Skyrmion-Skyrmion and Skyrmion-anti-Skyrmion static
+  equilibria</title>
+    <summary>  We consider classical static Skyrmion-anti-Skyrmion and Skyrmion-Skyrmion
+configurations, symmetric with respect to a reflection plane, or symmetric up
+to a $G$-parity transformation respectively. We show that the stress tensor
+component completely normal to the reflection plane, and hence its integral
+over the plane, is negative definite or positive definite respectively.
+Classical Skyrmions always repel classical Skyrmions and classical Skyrmions
+always attract classical anti-Skyrmions and thus no static equilibrium, whether
+stable or unstable, is possible in either case. No other symmetry assumption is
+made and so our results also apply to multi-Skyrmion configurations. Our
+results are consistent with existing analyses of Skyrmion forces at large
+separation, and with numerical results on Skymion-anti-Skyrmion configurations
+in the literature which admit a different reflection symmetry. They also hold
+for the massive Skyrme model. We also point out that reflection symmetric
+self-gravitating Skyrmions or black holes with Skyrmion hair cannot rest in
+symmetric equilibrium with self-gravitating anti-Skyrmions.
 </summary>
     <author>
-      <name>David Prendergast</name>
-      <arxiv:affiliation xmlns:arxiv="http://arxiv.org/schemas/atom">Department of Physics</arxiv:affiliation>
+      <name>G. W. Gibbons</name>
     </author>
     <author>
-      <name>M. Nolan</name>
-      <arxiv:affiliation xmlns:arxiv="http://arxiv.org/schemas/atom">NMRC, University College, Cork, Ireland</arxiv:affiliation>
+      <name>C. M. Warnick</name>
     </author>
     <author>
-      <name>Claudia Filippi</name>
-      <arxiv:affiliation xmlns:arxiv="http://arxiv.org/schemas/atom">Department of Physics</arxiv:affiliation>
+      <name>W. W. Wong</name>
+    </author>
+    <arxiv:doi xmlns:arxiv="http://arxiv.org/schemas/atom">10.1063/1.3523469</arxiv:doi>
+    <link title="doi" href="http://dx.doi.org/10.1063/1.3523469" rel="related"/>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">v2 Typos corrected, refs added. v3 Journal version</arxiv:comment>
+    <arxiv:journal_ref xmlns:arxiv="http://arxiv.org/schemas/atom">J. Math. Phys. 52:012905,2011</arxiv:journal_ref>
+    <link href="http://arxiv.org/abs/1005.2488v4" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1005.2488v4" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="hep-th" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-th" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.MP" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1403.7283v10</id>
+    <updated>2015-01-13T01:47:19Z</updated>
+    <published>2014-03-28T06:12:19Z</published>
+    <title>Skyrmion-skyrmion and skyrmion-edge repulsions in skyrmion-based
+  racetrack memory</title>
+    <summary>  Magnetic skyrmions are promising for building next-generation magnetic
+memories and spintronic devices due to their stability, small size and the
+extremely low currents needed to move them. In particular, skyrmion-based
+racetrack memory is attractive for information technology, where skyrmions are
+used to store information as data bits instead of traditional domain walls.
+Here we numerically demonstrate the impacts of skyrmion-skyrmion and
+skyrmion-edge repulsions on the feasibility of skyrmion-based racetrack memory.
+The reliable and practicable spacing between consecutive skyrmionic bits on the
+racetrack as well as the ability to adjust it are investigated. Clogging of
+skyrmionic bits is found at the end of the racetrack, leading to the reduction
+of skyrmion size. Further, we demonstrate an effective and simple method to
+avoid the clogging of skyrmionic bits, which ensures the elimination of
+skyrmionic bits beyond the reading element. Our results give guidance for the
+design and development of future skyrmion-based racetrack memory.
+</summary>
+    <author>
+      <name>Xichao Zhang</name>
     </author>
     <author>
-      <name>Stephen Fahy</name>
-      <arxiv:affiliation xmlns:arxiv="http://arxiv.org/schemas/atom">Department of Physics</arxiv:affiliation>
+      <name>G. P. Zhao</name>
     </author>
     <author>
-      <name>J. C. Greer</name>
-      <arxiv:affiliation xmlns:arxiv="http://arxiv.org/schemas/atom">NMRC, University College, Cork, Ireland</arxiv:affiliation>
+      <name>Hans Fangohr</name>
     </author>
-    <arxiv:doi xmlns:arxiv="http://arxiv.org/schemas/atom">10.1063/1.1383585</arxiv:doi>
-    <link title="doi" href="http://dx.doi.org/10.1063/1.1383585" rel="related"/>
-    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">11 pages, 6 figures, 3 tables, LaTeX209, submitted to The Journal of
-  Chemical Physics</arxiv:comment>
-    <arxiv:journal_ref xmlns:arxiv="http://arxiv.org/schemas/atom">J. Chem. Phys. 115, 1626 (2001)</arxiv:journal_ref>
-    <link href="http://arxiv.org/abs/cond-mat/0102536v1" rel="alternate" type="text/html"/>
-    <link title="pdf" href="http://arxiv.org/pdf/cond-mat/0102536v1" rel="related" type="application/pdf"/>
+    <author>
+      <name>J. Ping Liu</name>
+    </author>
+    <author>
+      <name>W. X. Xia</name>
+    </author>
+    <author>
+      <name>J. Xia</name>
+    </author>
+    <author>
+      <name>F. J. Morvan</name>
+    </author>
+    <arxiv:doi xmlns:arxiv="http://arxiv.org/schemas/atom">10.1038/srep07643</arxiv:doi>
+    <link title="doi" href="http://dx.doi.org/10.1038/srep07643" rel="related"/>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">15 pages, 6 figures</arxiv:comment>
+    <arxiv:journal_ref xmlns:arxiv="http://arxiv.org/schemas/atom">Sci. Rep. 5, 7643</arxiv:journal_ref>
+    <link href="http://arxiv.org/abs/1403.7283v10" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1403.7283v10" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1412.0772v2</id>
+    <updated>2015-02-13T14:06:16Z</updated>
+    <published>2014-12-02T03:28:17Z</published>
+    <title>Charged skyrmions on the surface of a topological insulator</title>
+    <summary>  We consider the interplay between magnetic skyrmions in an insulating thin
+film and the Dirac surface states of a 3D topological insulator (TI), coupled
+by proximity effect. The magnetic texture of skyrmions can lead to confinement
+of Dirac states at the skyrmion radius, where out of plane magnetization
+vanishes. This confinement can result in charging of the skyrmion texture. The
+presence of bound states is robust in an external magnetic field, which is
+needed to stabilize skyrmions. It is expected that for relevant experimental
+parameters skyrmions will have a few bound states that can be tuned using an
+external magnetic field. We argue that these charged skyrmions can be
+manipulated directly by an electric field, with skyrmion mobility proportional
+to the number of bound states at the skyrmion radius. Coupling skyrmionic thin
+films to a TI surface can provide a more direct and efficient way of
+controlling skyrmion motion in insulating materials. This provides a new
+dimension in the study of skyrmion manipulation.
+</summary>
+    <author>
+      <name>Hilary M. Hurst</name>
+    </author>
+    <author>
+      <name>Dmitry K. Efimkin</name>
+    </author>
+    <author>
+      <name>Jiadong Zang</name>
+    </author>
+    <author>
+      <name>Victor Galitski</name>
+    </author>
+    <arxiv:doi xmlns:arxiv="http://arxiv.org/schemas/atom">10.1103/PhysRevB.91.060401</arxiv:doi>
+    <link title="doi" href="http://dx.doi.org/10.1103/PhysRevB.91.060401" rel="related"/>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">additional references, minor corrections</arxiv:comment>
+    <arxiv:journal_ref xmlns:arxiv="http://arxiv.org/schemas/atom">Physical Review B 91, 060401 (2015)</arxiv:journal_ref>
+    <link href="http://arxiv.org/abs/1412.0772v2" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1412.0772v2" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/0906.5583v2</id>
+    <updated>2009-12-01T15:08:07Z</updated>
+    <published>2009-06-30T14:21:33Z</published>
+    <title>Skyrmion--Anti-Skyrmion Chains</title>
+    <summary>  Static axially symmetric sphaleron-type solutions describing chains of
+interpolating Skyrmion--anti-Skyrmions have been constructed numerically. The
+configurations are characterized by two integers n and m, where $\pm n$ are the
+winding numbers of the constituent Skyrmion and anti-Skyrmion and the second
+integer m defines type of the solution, it has zero topological charge for even
+m and for odd values of m the Skyrmion--anti-Skyrmion chain has topological
+charge n. For the vanishing mass term we confirm the existence of such chain
+solutions for winding number $|n| \ge 2$. The similarity with
+monopole--anti-monopole pairs is highlighted.
+</summary>
+    <author>
+      <name>Ya. Shnir</name>
+    </author>
+    <author>
+      <name>D. H. Tchrakian</name>
+    </author>
+    <arxiv:doi xmlns:arxiv="http://arxiv.org/schemas/atom">10.1088/1751-8113/43/2/025401</arxiv:doi>
+    <link title="doi" href="http://dx.doi.org/10.1088/1751-8113/43/2/025401" rel="related"/>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">10 pages, 4 figures, typos corrected, Table 2 added</arxiv:comment>
+    <arxiv:journal_ref xmlns:arxiv="http://arxiv.org/schemas/atom">J.Phys.A43:025401,2010</arxiv:journal_ref>
+    <link href="http://arxiv.org/abs/0906.5583v2" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/0906.5583v2" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="hep-th" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-th" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1405.1568v3</id>
+    <updated>2014-09-24T13:56:22Z</updated>
+    <published>2014-05-07T10:53:35Z</published>
+    <title>Magnon-skyrmion scattering in chiral magnets</title>
+    <summary>  Chiral magnets support topological skyrmion textures due to the
+Dzyaloshinskii-Moriya spin-orbit interaction. In the presence of a sufficiently
+large applied magnetic field, such skyrmions are large amplitude excitations of
+the field-polarized magnetic state. We investigate analytically the interaction
+between such a skyrmion excitation and its small amplitude fluctuations, i.e.,
+the magnons in a clean two-dimensional chiral magnet. The magnon spectrum is
+found to include two magnon-skyrmion bound states corresponding to a breathing
+mode and, for intermediate fields, a quadrupolar mode, which will give rise to
+subgap magnetic and electric resonances. Due to the skyrmion topology, the
+magnons scatter from a Aharonov-Bohm flux density that leads to skew and
+rainbow scattering, characterized by an asymmetric differential cross section
+with, in general, multiple peaks. As a consequence of the skew scattering, a
+finite density of skyrmions will generate a topological magnon Hall effect.
+Using the conservation law for the energy-momentum tensor, we demonstrate that
+the magnons also transfer momentum to the skyrmion. As a consequence, a magnon
+current leads to magnon pressure reflected in a momentum-transfer force in the
+Thiele equation of motion for the skyrmion. This force is reactive and governed
+by the scattering cross sections of the skyrmion; it causes not only a finite
+skyrmion velocity but also a large skyrmion Hall effect. Our results provide,
+in particular, the basis for a theory of skyrmion caloritronics for a dilute
+skyrmion gas in clean insulating chiral magnets.
+</summary>
+    <author>
+      <name>Christoph Schütte</name>
+    </author>
+    <author>
+      <name>Markus Garst</name>
+    </author>
+    <arxiv:doi xmlns:arxiv="http://arxiv.org/schemas/atom">10.1103/PhysRevB.90.094423</arxiv:doi>
+    <link title="doi" href="http://dx.doi.org/10.1103/PhysRevB.90.094423" rel="related"/>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">19 pages, 13 figures; (v2) typos corrected; (v3) clarifications
+  added; extended discussion of the local skyrmion instability as well as of
+  the skyrmion Hall angle</arxiv:comment>
+    <arxiv:journal_ref xmlns:arxiv="http://arxiv.org/schemas/atom">Phys. Rev. B 90, 094423 (2014)</arxiv:journal_ref>
+    <link href="http://arxiv.org/abs/1405.1568v3" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1405.1568v3" rel="related" type="application/pdf"/>
     <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
     <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/0908.3385v1</id>
+    <updated>2009-08-24T08:34:50Z</updated>
+    <published>2009-08-24T08:34:50Z</published>
+    <title>Half-Skyrmion theory for high-temperature superconductivity</title>
+    <summary>  We review the half-Skyrmion theory for copper-oxide high-temperature
+superconductivity. In the theory, doped holes create a half-Skyrmion spin
+texture which is characterized by a topological charge. The formation of the
+half-Skyrmion is described in the single hole doped system, and then the
+half-Skyrmion excitation spectrum is compared with the angle-resolved
+photoemission spectroscopy results in the undoped system. Multi-half-Skyrmion
+configurations are studied by numerical simulations. We show that
+half-Skyrmions carry non-vanishing topological charge density below a critical
+hole doping concentration \sim 30% even in the absence of antiferromagnetic
+long-range order. The magnetic structure factor exhibits incommensurate peaks
+in stripe ordered configurations of half-Skyrmions and anti-half-Skyrmions. The
+interaction mediated by half-Skyrmions leads to d_{x^2-y^2}-wave
+superconductivity. We also describe pseudogap behavior arising from the
+excitation spectrum of a composite particle of a half-Skyrmion and doped hole.
+</summary>
+    <author>
+      <name>Takao Morinari</name>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">To appear in "The Multifaceted Skyrmion" (World Scientific) ed. G.E.
+  Brown and M. Rho; 21 pages, 7 figures</arxiv:comment>
+    <link href="http://arxiv.org/abs/0908.3385v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/0908.3385v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="cond-mat.supr-con" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.supr-con" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1311.6283v1</id>
+    <updated>2013-11-25T13:02:04Z</updated>
+    <published>2013-11-25T13:02:04Z</published>
+    <title>Target-skyrmions and skyrmion clusters in nanowires of chiral magnets</title>
+    <summary>  In bulk non-centrosymmetric magnets the chiral Dzyaloshinskii-Moriya exchange
+stabilizes tubular skyrmions with a reversed magnetization in their centers.
+While the double-twist is favorable in the center of a skyrmion, it gives rise
+to an excess of the energy density at the outskirt. Therefore, magnetic
+anisotropies are required to make skyrmions more favorable than the conical
+spiral state in bulk materials. Using Monte Carlo simulations, we show that in
+magnetic nanowires unusual skyrmions with a doubly twisted core and a number of
+concentric helicoidal undulations (target-skyrmions) are thermodynamically
+stable even in absence of single-ion anisotropies. Such skyrmions are free of
+magnetic charges and, since the angle describing the direction of magnetization
+at the surface depends on the radius of the nanowire and an applied magnetic
+field, they carry a non-integer skyrmion charge s &gt; 1. This state competes with
+clusters of spatially separated s=1 skyrmions. For very small radii, the
+target-skyrmion transforms into a skyrmion with s &lt; 1, that resembles the
+vortex-like state stabilized by surface-induced anisotropies.
+</summary>
+    <author>
+      <name>A. O. Leonov</name>
+    </author>
+    <author>
+      <name>U. K. Rößler</name>
+    </author>
+    <author>
+      <name>M. Mostovoy</name>
+    </author>
+    <arxiv:doi xmlns:arxiv="http://arxiv.org/schemas/atom">10.1051/epjconf/20147505002</arxiv:doi>
+    <link title="doi" href="http://dx.doi.org/10.1051/epjconf/20147505002" rel="related"/>
+    <arxiv:journal_ref xmlns:arxiv="http://arxiv.org/schemas/atom">EPJ Web of Conferences 75, 05002 (2014)</arxiv:journal_ref>
+    <link href="http://arxiv.org/abs/1311.6283v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1311.6283v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1404.3350v1</id>
+    <updated>2014-04-13T07:00:46Z</updated>
+    <published>2014-04-13T07:00:46Z</published>
+    <title>A reversible conversion between a skyrmion and a domain-wall pair in
+  junction geometry</title>
+    <summary>  A skyrmion is a topological texture in the continuum field theory. Recent
+experimental observation of skyrmions in chiral magnet evokes a flourish of its
+extensive study. Skyrmion is expected to be a key component of the next
+generation spintronics device called skyrmionics. On the other hand, there is a
+well established memory device encoded by a sequence of domain walls. A
+skyrmion carries a topological number, whereas a domain wall does not.
+Nevertheless, we show a conversion is possible between a skyrmion and a
+domain-wall pair by connecting wide and narrow nanowires, enabling the
+information transmission between skyrmion device and domain-wall device. Our
+results will be the basis of a hybrid device made of skyrmions and domain
+walls, where the encoded information in domain walls is converted into
+skyrmions, and then read out by converting the skyrmions back to domain walls
+after a functional control of the skyrmions.
+</summary>
+    <author>
+      <name>Yan Zhou</name>
+    </author>
+    <author>
+      <name>Motohiko Ezawa</name>
+    </author>
+    <arxiv:doi xmlns:arxiv="http://arxiv.org/schemas/atom">10.1038/ncomms5652</arxiv:doi>
+    <link title="doi" href="http://dx.doi.org/10.1038/ncomms5652" rel="related"/>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">8 pages, 5 figures</arxiv:comment>
+    <arxiv:journal_ref xmlns:arxiv="http://arxiv.org/schemas/atom">Nature Communications 5, 4652 (2014)</arxiv:journal_ref>
+    <link href="http://arxiv.org/abs/1404.3350v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1404.3350v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1512.05012v1</id>
+    <updated>2015-12-15T23:44:03Z</updated>
+    <published>2015-12-15T23:44:03Z</published>
+    <title>Ginzburg-Landau theory for skyrmions in inversion-symmetric magnets with
+  competing interactions</title>
+    <summary>  Magnetic skyrmions have attracted considerable attention recently for their
+huge potential in spintronic applications. Generally skyrmions are big compared
+to the atomic lattice constant, which allows for the Ginzburg-Landau type
+description in the continuum limit. Such a description successfully captures
+the main experimental observations on skyrmions in B20 compound without
+inversion symmetry. Skyrmions can also exist in inversion-symmetric magnets
+with competing interactions. Here we derive a general Ginzburg-Landau theory
+for skyrmions in these magnets valid in the long wavelength limit. We study the
+unusual static and dynamical properties of skyrmions based on the derived
+Ginzburg-Landau theory. We show that an easy axis spin anisotropy is sufficient
+to stabilize a skyrmion lattice. Interestingly, the skyrmion in
+inversion-symmetric magnets has a new internal degree of freedom associated
+with the rotation of helicity, i.e. the "spin" of the skyrmion as a particle,
+in addition to the usual translational motion of skyrmions (orbital motion).
+The orbital and spin degree of freedoms of an individual skyrmion can couple to
+each other, and give rise to unusual behavior that is absent for the skyrmions
+stabilized by the Dzyaloshinskii-Moriya interaction. The derived
+Ginzburg-Landau theory provides a convenient and general framework to discuss
+skyrmion physics and will facilitate the search for skyrmions in
+inversion-symmetric magnets.
+</summary>
+    <author>
+      <name>Shi-Zeng Lin</name>
+    </author>
+    <author>
+      <name>Satoru Hayami</name>
+    </author>
+    <arxiv:doi xmlns:arxiv="http://arxiv.org/schemas/atom">10.1103/PhysRevB.93.064430</arxiv:doi>
+    <link title="doi" href="http://dx.doi.org/10.1103/PhysRevB.93.064430" rel="related"/>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">15 pages and 13 figures</arxiv:comment>
+    <arxiv:journal_ref xmlns:arxiv="http://arxiv.org/schemas/atom">Phys. Rev. B 93, 064430 (2016)</arxiv:journal_ref>
+    <link href="http://arxiv.org/abs/1512.05012v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1512.05012v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/cond-mat/0002053v1</id>
+    <updated>2000-02-03T12:11:01Z</updated>
+    <published>2000-02-03T12:11:01Z</published>
+    <title>Quantum Critical Dynamics of the Skyrmion Lattice</title>
+    <summary>  Near to filling fraction $\nu=1$, the quantum Hall ferromagnet contains
+multiple Skyrmion spin excitations. This multi-Skyrmion system has a
+tremendously rich quantum-critical structure. This is simplified when Skyrmions
+are pinned by disorder. We calculate the nuclear relaxation rate in this case
+and compare the result with experiment. We discus how such measurements may be
+used to further probe the quantum-critical structure of the multi-Skyrmion
+system.
+</summary>
+    <author>
+      <name>A. G. Green</name>
+      <arxiv:affiliation xmlns:arxiv="http://arxiv.org/schemas/atom">U. of Cambridge</arxiv:affiliation>
+    </author>
+    <arxiv:doi xmlns:arxiv="http://arxiv.org/schemas/atom">10.1103/PhysRevB.61.R16299</arxiv:doi>
+    <link title="doi" href="http://dx.doi.org/10.1103/PhysRevB.61.R16299" rel="related"/>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">9 pages, 3 figures</arxiv:comment>
+    <link href="http://arxiv.org/abs/cond-mat/0002053v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/cond-mat/0002053v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="cond-mat" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat" scheme="http://arxiv.org/schemas/atom"/>
   </entry>
 </feed>
