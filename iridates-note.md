@@ -136,3 +136,5 @@ half-filling 전략을 쓰면, BZ을 정하고, 그렇게 얻은 에너지 밴�
 
 c++ 으로 돌아가는 eigensystem program을 짜고 있는데, 거기서 쓰이는 eigensystem check 에 들어가는 real part와 imaginary part
 [공식]({{ site.baseurl }}/public/iridatesnotes/eigensystem_check_19OCT2016.pdf)
+
+c++ 로 header file을 구분하고, function 을 따로 쓰는 프로그램을 구현하고 있다. 현재는 Hamiltonian 만들고 있는데, interaction 넣기 전까지 끝냈다.
