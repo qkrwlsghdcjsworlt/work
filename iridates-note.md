@@ -130,4 +130,9 @@ mean-field 계산을 하고 있는데 드디어 half filling의 의미를 알거
 
 10/15 (토)
 
-half-filling 전략을 쓰면, BZ을 정하고, 그렇게 얻은 에너지 밴드를 내림차순으로 정리한다음 절반되는 상대의 에너지를 받아들인다. 이런식으로 하면 어떤 k points 는 모든 에너지 레벨이 포함되기도 하고, 어떤 k points는 하나도 포함되지 않기도 한다. 
+half-filling 전략을 쓰면, BZ을 정하고, 그렇게 얻은 에너지 밴드를 내림차순으로 정리한다음 절반되는 상대의 에너지를 받아들인다. 이런식으로 하면 어떤 k points 는 모든 에너지 레벨이 포함되기도 하고, 어떤 k points는 하나도 포함되지 않기도 한다.
+
+10/19 (수)
+
+c++ 으로 돌아가는 eigensystem program을 짜고 있는데, 거기서 쓰이는 eigensystem check 에 들어가는 real part와 imaginary part
+[공식]({{ site.baseurl }}/public/iridatesnotes/eigensystem_check_19OCT2016.pdf)
