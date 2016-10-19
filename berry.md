@@ -4,7 +4,9 @@ title: Berry
 ---
 
 
-I. INTRODUCTION A. Topical overview
+I. INTRODUCTION
+
+A. Topical overview
 
 In 1984, Michael Berry wrote a paper that has generated immense interest throughout the different fields of physics including quantum chemistry (Berry, 1984). This paper is about the adiabatic evolution of an eigenenergy state when the external parameters of a quantum system change slowly and make up a loop in the parameter space. In the absence of degeneracy, the eigenstate will surely come back to itself when finishing the loop, but there will be a phase difference equal to the time integral of the energy  divided by plus an extra, which is now commonly known as the Berry phase.
 
