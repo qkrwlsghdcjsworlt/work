@@ -70,7 +70,8 @@ magnetic vortices 와 skyrmion 의 다른 비슷한 점은 Colossal spin transfe
 
 2.`06-He` [Current-driven vortex domain wall dynamics by micromagnetic simulations]({{ site.baseurl }}/public/manchon/06-He-current-driven-DW-simulation-PRB.pdf)
 
-이제는 magnetic vortices 와 skyrmion 의 다른점을 강조한다. 가장 큰 차이점은 vortices 는 전공간에 퍼져있고,
+이제는 magnetic vortices 와 skyrmion 의 다른점을 강조한다. 가장 큰 차이점은 vortices 는 vortex core 
+와 두개의 transverse wall 로 구성되어있고, 전공간에 퍼져있는 반면,
 
 1.`06-He` [Current-driven vortex domain wall dynamics by micromagnetic simulations]({{ site.baseurl }}/public/manchon/06-He-current-driven-DW-simulation-PRB.pdf)
 
@@ -103,3 +104,19 @@ of isolated magnetic skyrmions in nanostructures]({{ site.baseurl }}/public/manc
 6.`13-Lin` [Manipulation of skyrmions in nanodisks with a current pulse and skyrmion rectifier]({{ site.baseurl }}/public/manchon/13-Lin-manipulation-skyrmion-APL.pdf)
 
 반면 magnetic vortices 는 defect에 훨씬 민감해서 쉽게 pinned 된다.
+
+이런 defect 에 robust 한 성질은 ultra-dense한 memory storage를 만드는데 중요한 역할을 하기 때문에 이러한 robustness의 nature를 이해하는 것이 무엇보다도 중요하다.
+
+1.`13-Fert` [Skyrmions on the track]({{ site.baseurl }}/public/manchon/13-Fert-skyrmion-on-the-track-nnano.pdf)
+
+
+최근 연구 결과에 의하면 이러한 robustness 가 부분적으로는 non-adiabatic torque에 의한것이라는 것이 밝혀졌다.
+
+
+1.`13-Iwasaki` `nature nano` [Current-induced skyrmion dynamics in constricted geometries]({{ site.baseurl }}/public/manchon/13-Iwasaki-skyrmion-nnano.pdf)
+
+non-adiabatic spin transfer torque가 언급된 논문은
+
+1.`04-Zhang` `Li` [Roles of Nonequilibrium Conduction Electrons on the Magnetization Dynamics of Ferromagnets]({{ site.baseurl }}/public/manchon/04-Zhang-Li-nonadiabatic-STT-PRL.pdf)
+
+2.`05-Thiaville` []() EPL
