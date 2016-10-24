@@ -41,4 +41,65 @@ skyrmion은 **topological defect** 임을 언급하고,
 
 3.`10-Eltschka` [Nonadiabatic Spin Torque Investigated Using Thermally Activated
 Magnetic Domain Wall Dynamics
-]({{ site.baseurl }}/public/manchon/10-Eltschka-nonadiabatic-spin-torque-DW-PRL.pdf)
+]({{site.baseurl}}/public/manchon/10-Eltschka-nonadiabatic-spin-torque-DW-PRL.pdf)
+
+4.`10-Heyne` [Direct Determination of Large Spin-Torque Nonadiabaticity in Vortex Core Dynamics]({{site.baseurl}}/public/manchon/10-Heyne-spin-torque-nonadiabaticity-vortex-PRL.pdf)
+
+magnetic vortices 와 skyrmion 모두 magnetic topology에 의해서 flowing electrons 이 topological Hall effect 를 경험하게 된다.
+
+1.`13-Nagaosa` [Topological properties and dynamics of magnetic skyrmions]({{ site.baseurl }}/public/manchon/13-nagaosa-skyrmion-nnano.pdf)
+
+2.`09-Neubauer` [Topological Hall Effect in the A Phase of MnSi]({{ site.baseurl }}/public/manchon/09-Neubauer-topological-Hall-effect-PRL.pdf)
+
+3.`16-Ndiaye` [Topological Hall and Spin Hall Effects in Disordered Skyrmionic Textures]({{ site.baseurl }}/public/manchon/16-Ndiaye-topological-Hall-effect-spin-Hall-effect-disordered-skyrmion-arXiv.pdf)
+
+
+이경우 magnetic texture 역시 Hall effect를 경험하게 되는데, 이경우 skyrmion Hall effect 라 칭한다.
+
+1.`13-Nagaosa` [Topological properties and dynamics of magnetic skyrmions]({{ site.baseurl }}/public/manchon/13-nagaosa-skyrmion-nnano.pdf)
+
+대부분의 경우 magnetic vortices 와 skyrmion 은 비슷한 경향을 보인다. 그예로 universal current-velocity relation 을 들 수 있다.
+
+1.`13-Iwasaki` [Universal current-velocity relation of skyrmion motion in chiral magnets]({{ site.baseurl }}/public/manchon/13-Iwasaki-skyrmion-ncomms.pdf)
+
+2.`13-Iwasaki` [Current-induced skyrmion dynamics in constricted geometries]({{ site.baseurl }}/public/manchon/13-Iwasaki-skyrmion-nnano.pdf)
+
+magnetic vortices 와 skyrmion 의 다른 비슷한 점은 Colossal spin transfer torque가 있다는 것이다 at the edge.
+
+1.`14-Iwasaki` [Colossal Spin Transfer Torque Effect on Skyrmion along the Edge]({{ site.baseurl }}/public/manchon/14-Iwasaki-colossal-spin-transger-torque-skyrmion-nl.pdf)
+
+2.`06-He` [Current-driven vortex domain wall dynamics by micromagnetic simulations]({{ site.baseurl }}/public/manchon/06-He-current-driven-DW-simulation-PRB.pdf)
+
+이제는 magnetic vortices 와 skyrmion 의 다른점을 강조한다. 가장 큰 차이점은 vortices 는 전공간에 퍼져있고,
+
+1.`06-He` [Current-driven vortex domain wall dynamics by micromagnetic simulations]({{ site.baseurl }}/public/manchon/06-He-current-driven-DW-simulation-PRB.pdf)
+
+2.`06-Thomas` [Oscillatory dependence of current-driven magnetic domain wall motion on current pulse length]({{ site.baseurl }}/public/manchon/06-Thomas-current-driven-DW-nature.pdf)
+
+3.`10-Eltschka` [Nonadiabatic Spin Torque Investigated Using Thermally Activated
+Magnetic Domain Wall Dynamics
+]({{site.baseurl}}/public/manchon/10-Eltschka-nonadiabatic-spin-torque-DW-PRL.pdf)
+
+4.`10-Heyne` [Direct Determination of Large Spin-Torque Nonadiabaticity in Vortex Core Dynamics]({{site.baseurl}}/public/manchon/10-Heyne-spin-torque-nonadiabaticity-vortex-PRL.pdf)
+
+skyrmion 은 국소화 되어 있는 상태이다.
+
+1.`13-Nagaosa` [Topological properties and dynamics of magnetic skyrmions]({{ site.baseurl }}/public/manchon/13-nagaosa-skyrmion-nnano.pdf)
+
+이러한 국소성은 pinning state 를 만났을 때 그 행동 양식에 큰 차이점을 보이게 된다.
+texture 를 바꾸고, defect를 피하는 것이다.
+
+1.`13-Iwasaki` [Universal current-velocity relation of skyrmion motion in chiral magnets]({{ site.baseurl }}/public/manchon/13-Iwasaki-skyrmion-ncomms.pdf)
+
+2.`13-Iwasaki` [Current-induced skyrmion dynamics in constricted geometries]({{ site.baseurl }}/public/manchon/13-Iwasaki-skyrmion-nnano.pdf)
+
+3.`14-Iwasaki` [Colossal Spin Transfer Torque Effect on Skyrmion along the Edge]({{ site.baseurl }}/public/manchon/14-Iwasaki-colossal-spin-transger-torque-skyrmion-nl.pdf)
+
+4.`13-Sampaio` [Nucleation, stability and current-induced motion
+of isolated magnetic skyrmions in nanostructures]({{ site.baseurl }}/public/manchon/13-Sampaio-current-induced-motion-skyrmion-nnano.pdf)
+
+5.`12-Everschor` [Rotating skyrmion lattices by spin torques and field or temperature gradients]({{ site.baseurl }}/public/manchon/12-Everschor-rotating-skyrmion-lattices-PRB.pdf)
+
+6.`13-Lin` [Manipulation of skyrmions in nanodisks with a current pulse and skyrmion rectifier]({{ site.baseurl }}/public/manchon/13-Lin-manipulation-skyrmion-APL.pdf)
+
+반면 magnetic vortices 는 defect에 훨씬 민감해서 쉽게 pinned 된다.
