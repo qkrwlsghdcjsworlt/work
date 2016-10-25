@@ -70,7 +70,7 @@ magnetic vortices 와 skyrmion 의 다른 비슷한 점은 Colossal spin transfe
 
 2.`06-He` [Current-driven vortex domain wall dynamics by micromagnetic simulations]({{ site.baseurl }}/public/manchon/06-He-current-driven-DW-simulation-PRB.pdf)
 
-이제는 magnetic vortices 와 skyrmion 의 다른점을 강조한다. 가장 큰 차이점은 vortices 는 vortex core 
+이제는 magnetic vortices 와 skyrmion 의 다른점을 강조한다. 가장 큰 차이점은 vortices 는 vortex core
 와 두개의 transverse wall 로 구성되어있고, 전공간에 퍼져있는 반면,
 
 1.`06-He` [Current-driven vortex domain wall dynamics by micromagnetic simulations]({{ site.baseurl }}/public/manchon/06-He-current-driven-DW-simulation-PRB.pdf)
@@ -119,4 +119,32 @@ non-adiabatic spin transfer torque가 언급된 논문은
 
 1.`04-Zhang` `Li` [Roles of Nonequilibrium Conduction Electrons on the Magnetization Dynamics of Ferromagnets]({{ site.baseurl }}/public/manchon/04-Zhang-Li-nonadiabatic-STT-PRL.pdf)
 
-2.`05-Thiaville` []() EPL
+2.`05-Thiaville` ` EPL`[Micromagnetic understanding of current-driven domain wall motion in patterned nanowires]({{ site.baseurl }}/public/manchon/05-Thiaville-nonadiabatic-spin-torque-EPL.pdf)
+
+Transverse walls 에 대한 non-adiabatic parameter는 꽤 작지만, magnetic vortices에 대한 non-adiabatic parameter는 상당히 크다는 것이 알려져 있다.
+
+1.`06-Thomas` [Oscillatory dependence of current-driven magnetic domain wall motion on current pulse length]({{ site.baseurl }}/public/manchon/06-Thomas-current-driven-DW-nature.pdf)
+
+2.`10-Eltschka` [Nonadiabatic Spin Torque Investigated Using Thermally Activated
+Magnetic Domain Wall Dynamics
+]({{site.baseurl}}/public/manchon/10-Eltschka-nonadiabatic-spin-torque-DW-PRL.pdf)
+
+3.`10-Heyne` [Direct Determination of Large Spin-Torque Nonadiabaticity in Vortex Core Dynamics]({{site.baseurl}}/public/manchon/10-Heyne-spin-torque-nonadiabaticity-vortex-PRL.pdf)
+
+4.`15-Bisig` [Enhanced Non-Adiabaticity in Vortex Cores due to the Emergent Hall Effect]({{site.baseurl}}/public/manchon/15-Bisig-non-adiabaticity-vortices-arXiv.pdf)
+
+
+저자에 의하면 skyrmion 에 대한 non-adiabaticity는 알려진바가 없다. 하지만, 예상하기를 magnetic vortices 와 비슷한 크기가 아닐까하는 추측은 있다. 최근의 활발한 실험 연구를 통해 그 값이 밝혀지기를 바란다.
+
+실험들
+1.`15-Jiang` [Blowing magnetic skyrmion bubbles]({{site.baseurl}}/public/manchon/15-Jiang-Blowing-skyrmion-bubbles-science.pdf)
+
+2.`15-Chen` `Room temperature skyrmion` [Room temperature skyrmion ground state stabilized through interlayer exchange coupling]({{site.baseurl}}/public/manchon/15-Chen-RT-skyrmion-APL.pdf)
+
+3.`16-Boulle` `Room temperature skyrmion` [Room-temperature chiral magnetic skyrmions in ultrathin magnetic nanostructures]({{site.baseurl}}/public/manchon/16-Boulle-RT-skyrmion-nnano.pdf)
+
+
+4.`16-Moreau-Lichaire` `Room temperature skyrmion` [Additive interfacial chiral interaction in multilayers for stabilization of small individual skyrmions at
+room temperature]({{site.baseurl}}/public/manchon/16-Moreau-Lichaire-RT-skyrmion-nnano.pdf)
+
+5.`16-Woo` `Room temperature skyrmion`[Observation of room-temperature magnetic skyrmions and their current-driven dynamics in ultrathin metallic ferromagnets]({{site.baseurl}}/public/manchon/16-Woo-room-tem-skyrmion-Nmat.pdf)
