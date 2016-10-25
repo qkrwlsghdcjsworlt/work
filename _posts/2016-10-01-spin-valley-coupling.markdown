@@ -34,3 +34,12 @@ categories: spintronics
 [PhysRevLett.99.236809](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.99.236809) Valley-Contrasting Physics in Graphene: Magnetic Moment and Topological Transport `07-Xiao`
 
 [PhysRevB.77.235406](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.77.235406) Valley-dependent optoelectronics from inversion symmetry breaking `08-Yao`
+
+
+
+
+10/25 (화)
+
+압박이 느껴져서 [PhysRevLett.108.196802](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.196802) `12-Xiao` 이 논문의 tight-binding 으로 부터 [Berry curvature을 유도해보았다.]({{ site.baseurl }}/public/spin-valley/Berry_curvature-25OCT2016.pdf)
+
+다음에는 OAM을 구할 차례이다.
