@@ -1,0 +1,140 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 10.4' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      3408,        130]
+NotebookOptionsPosition[      2764,        101]
+NotebookOutlinePosition[      3120,        117]
+CellTagsIndexPosition[      3077,        114]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{"4", "*", "0.067"}]], "Input",
+ CellChangeTimes->{{3.6863602808841047`*^9, 3.686360285297851*^9}}],
+
+Cell[BoxData["0.268`"], "Output",
+ CellChangeTimes->{3.6863602858966846`*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{"Vdd\[Pi]", " ", "=", " ", 
+    RowBox[{"-", "1.0"}]}], ";", " ", 
+   RowBox[{"Vdd\[Sigma]", " ", "=", " ", "1.5"}], ";", " ", 
+   RowBox[{"Vdd\[Delta]", " ", "=", " ", "0.25"}], ";", "  ", 
+   RowBox[{"\[Theta]", "=", 
+    RowBox[{"11", "*", 
+     RowBox[{"Pi", "/", "180"}]}]}], ";"}], "  "}], "\[IndentingNewLine]", 
+ RowBox[{
+  FractionBox["2", "3"], 
+  RowBox[{"(", 
+   RowBox[{"Vdd\[Pi]", "+", "Vdd\[Delta]", "+", 
+    RowBox[{"Vdd\[Pi]", " ", 
+     SuperscriptBox[
+      RowBox[{"Cos", "[", 
+       RowBox[{"2", " ", "\[Theta]"}], "]"}], "2"]}], "+", 
+    RowBox[{"Vdd\[Sigma]", " ", 
+     SuperscriptBox[
+      RowBox[{"Sin", "[", 
+       RowBox[{"2", "\[Theta]"}], "]"}], "2"]}]}], ")"}]}]}], "Input",
+ CellChangeTimes->{{3.686363159957438*^9, 3.686363161372943*^9}}],
+
+Cell[BoxData[
+ RowBox[{"-", "0.932783166948876`"}]], "Output",
+ CellChangeTimes->{3.686363161884592*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  FractionBox["4", "3"], 
+  RowBox[{"(", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"(", 
+      RowBox[{"Vdd\[Pi]", "+", "Vdd\[Delta]"}], ")"}], " ", 
+     RowBox[{"Cos", "[", 
+      RowBox[{"2", "\[Theta]"}], "]"}]}], "+", 
+    RowBox[{"Vdd\[Sigma]", " ", 
+     SuperscriptBox[
+      RowBox[{"Cos", "[", 
+       RowBox[{"2", "\[Theta]"}], "]"}], "2"]}], "-", 
+    RowBox[{"Vdd\[Pi]", " ", 
+     SuperscriptBox[
+      RowBox[{"Sin", "[", 
+       RowBox[{"2", "\[Theta]"}], "]"}], "2"]}]}], ")"}]}]], "Input"],
+
+Cell[BoxData["0.9792627455460965`"], "Output",
+ CellChangeTimes->{3.686363213622734*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  FractionBox["4", "3"], " ", 
+  RowBox[{"(", 
+   RowBox[{"Vdd\[Pi]", "+", "Vdd\[Delta]"}], ")"}], " ", 
+  RowBox[{"Sin", "[", 
+   RowBox[{"2", "\[Theta]"}], "]"}]}]], "Input"],
+
+Cell[BoxData[
+ RowBox[{"-", "0.374606593415912`"}]], "Output",
+ CellChangeTimes->{3.686363256236487*^9}]
+}, Open  ]]
+},
+WindowSize->{808, 910},
+WindowMargins->{{4, Automatic}, {Automatic, 4}},
+FrontEndVersion->"10.4 for Mac OS X x86 (32-bit, 64-bit Kernel) (February 25, \
+2016)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 121, 2, 28, "Input"],
+Cell[704, 26, 77, 1, 28, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[818, 32, 823, 22, 67, "Input"],
+Cell[1644, 56, 104, 2, 28, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1785, 63, 528, 17, 49, "Input"],
+Cell[2316, 82, 88, 1, 28, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[2441, 88, 200, 6, 49, "Input"],
+Cell[2644, 96, 104, 2, 62, "Output"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+

@@ -138,3 +138,10 @@ c++ 으로 돌아가는 eigensystem program을 짜고 있는데, 거기서 쓰�
 [공식]({{ site.baseurl }}/public/iridatesnotes/eigensystem_check_19OCT2016.pdf)
 
 c++ 로 header file을 구분하고, function 을 따로 쓰는 프로그램을 구현하고 있다. 현재는 Hamiltonian 만들고 있는데, interaction 넣기 전까지 끝냈다.
+
+
+10/25(화)
+
+mean-field계산은 어느정도 잘 돌아가는 거 같고,  rotation angle에 따른 phase transition point를 찾는 것이 임무이다.
+그러기 위해서는 tight-binding parameter를 잘 비교해봐야할 거 같다.
+간단한 [mathematica file]({{ site.baseurl }}/public/iridatesnotes/comparing_11Hamiltonian-rotationHamiltonian.nb)
