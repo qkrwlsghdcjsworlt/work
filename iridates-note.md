@@ -93,6 +93,11 @@ rotation에 따른 slater Koster parameter가 어떻게 바뀌는지 살펴보�
 
 [d_{yz} x축에 대해서 하나 계산해봄]({{ site.baseurl }}/public/iridatesnotes/tight-binding1.pdf)
 
+> 10/31 (토) 새로운 Slater Koster parameter를 추가한다. \\( E_{xy,xy} \\) Slater Koster parameter 이다. \\( \delta \\)-bonding xy, xy orbital 사이 hopping 에는 없을 거라고 생각했는데, 있어야 할 듯하여 추가하였다.
+[Exy,xy Slater Koster parameters]({{ site.baseurl }}/public/iridatesnotes/Rotation-slater-Koster-Exyxy.pdf)
+
+
+
 10/03 (월)
 
 Tremblay 두개의 논문
