@@ -17,6 +17,6 @@ s-orbital 과 p-orbital 사이의 coupling을 다음과 같이 쓸 수 있을 �
 
 s-orbital 과 sp_z -orbital 사이의 coupling을 계산해보았다.
 
-[hand-writing-note]({{ site.baseurl }}/public/iridatesnotes/SK-spz-hybrids-2016Nov10.pdf)
+[hand-writing-note]({{ site.baseurl }}/public/BiAg/SK-spz-hybrids-2016Nov10.pdf)
 
-[hybrids1]({{ site.baseurl }}/public/iridatesnotes/hybrids1.pdf)
+[hybrids1]({{ site.baseurl }}/public/BiAg/hybrids1.pdf)
