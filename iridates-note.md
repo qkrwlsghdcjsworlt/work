@@ -150,3 +150,8 @@ c++ 로 header file을 구분하고, function 을 따로 쓰는 프로그램을 
 mean-field계산은 어느정도 잘 돌아가는 거 같고,  rotation angle에 따른 phase transition point를 찾는 것이 임무이다.
 그러기 위해서는 tight-binding parameter를 잘 비교해봐야할 거 같다.
 간단한 [mathematica file]({{ site.baseurl }}/public/iridatesnotes/comparing_11Hamiltonian-rotationHamiltonian.nb)
+
+
+11/10(목)
+
+mean-field 계산을 c++ 프로그램으로 돌릴려고 한다. 그전에 [mean-field decoupling of Hubbard interaction]({{ site.baseurl }}/public/iridatesnotes/mean-field-decoupling.pdf)을 정리해 둘 필요가 있을 거 같다.
