@@ -154,4 +154,4 @@ mean-field계산은 어느정도 잘 돌아가는 거 같고,  rotation angle에
 
 11/10(목)
 
-mean-field 계산을 c++ 프로그램으로 돌릴려고 한다. 그전에 [mean-field decoupling of Hubbard interaction]({{ site.baseurl }}/public/iridatesnotes/mean-field-decoupling.pdf)을 정리해 둘 필요가 있을 거 같다.
+mean-field 계산을 c++ 프로그램으로 돌릴려고 한다. 그전에 [mean-field decoupling of Hubbard interaction]({{ site.baseurl }}/public/iridatesnotes/mean-field-decoupling-2016Nov10.pdf)을 정리해 둘 필요가 있을 거 같다.
