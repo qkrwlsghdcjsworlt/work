@@ -156,3 +156,36 @@ mean-field계산은 어느정도 잘 돌아가는 거 같고,  rotation angle에
 
 mean-field 계산을 c++ 프로그램으로 돌릴려고 한다. 그전에 [mean-field decoupling of Hubbard interaction]({{ site.baseurl }}/public/iridatesnotes/mean-field-decoupling-2016Nov10.pdf)을 정리해 둘 필요가 있을 거 같다.
 논문은 여기서 [`16-Lambert`]({{ site.baseurl }}/public/iridatesnotes/16-Lambert-QPI-pyrochlore-iridates-PRB.pdf) 참고했음. `13-Carter` 이것 역시.
+
+
+11/16(수)
+
+[mean-field-Hubbard model arXiv]({{ site.baseurl }}/public/iridatesnotes/14-Claveau-mean-field-Hubbard-model-arXiv.pdf) 이논문도 따라가 볼 필요가 있다.
+
+>
+[k space sampling]({{ site.baseurl }}/public/iridatesnotes/89-Methfessel-high-precision-sampling-PRB.pdf) High-precision sampling for brillouin-zone integration in metals `89-Methfessel`
+>
+[Slater MIT]({{ site.baseurl }}/public/iridatesnotes/51-Slater-magnetic-effects-HF-eq-PR.pdf) Magnetic effects and the hartree-fock equation `51-Slater`
+>
+[mean-field, Hirsch]({{ site.baseurl }}/public/iridatesnotes/85-Hirsch-2D-Hubbard-mean-field-PRB.pdf) Two-dimensional hubbard model: Numerical simulation study. `85-Hirsch`
+>
+[Stoner model]({{ site.baseurl }}/public/iridatesnotes/35-Stoner-PRSLSA.pdf) Collective electron specific heat and spin para
+magnetism in metals. `35-Stoner`
+>
+[AFM mean-field]({{ site.baseurl }}/public/iridatesnotes/84-Lee-AFM-mean-field-theory-PRB.pdf)  Anti
+ferromagnetic classical XY model: A mean-field analysis `84-Lee`
+>
+[mean-field, Lin Hirsch]({{ site.baseurl }}/public/iridatesnotes/87-Lin-Hirsch-mean-field-PRB.pdf) `87-Lin`
+>
+[spin-1 three degenerate orbitals]({{ site.baseurl }}/public/iridatesnotes/02-Matteo-spin-1-effective-Hamiltonian-PRB.pdf) Spin-1 effective hamiltonian with three degenerate orbitals: An application to the case of \\( \mathrm{V}_2\mathrm{O}_3 \\)
+>
+[Anderson]({{ site.baseurl }}/public/iridatesnotes/61-anderson-Localized-magnetic-states-in-metals-PR.pdf) Localized magnetic states in metals `61-anderson`
+>
+[HTCS Emery]({{ site.baseurl }}/public/iridatesnotes/87-Emery-HTCS-oxides-PRL.pdf) Theory of high-Tc superconductivity in oxides `87-Emery`
+>
+[Varma pairing instability]({{ site.baseurl }}/public/iridatesnotes/97-Varma-non-Fermi-Liquid-states-pairing-instability-PRB.pdf) Non-fermi-liquid states and pairing instabili
+ty of a general model of copper oxide metals `97-Varma`
+>
+[LaMnO3 magnetic, orbital ordering]({{ site.baseurl }}/public/iridatesnotes/99-Feiner-magnetic-orbital-ordering-LMO-PRB.pdf) Electronic origin of magnetic and orbital ordering in insulating \\( \mathrm{LaMnO}_3\\) `99-Feiner`
+>
+[Metal insulator transition]({{ site.baseurl }}/public/iridatesnotes/98-Imada-Metal-insulator-transition-RMP.pdf) Metal-insulator transitions `98-Imada`
