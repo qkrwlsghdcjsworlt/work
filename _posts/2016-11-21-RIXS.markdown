@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "RIXS"
+date:   2016-11-21 11:00:00 +0900
+categories: experiment
+
+---
+
+
+김범현 박사님 세미나를 듣고 논문을 정리해본다.
+
+\\( \mathrm{Na}_2 \mathrm{IrO}_3 \\) [ honeycomb (2012)]({{ site.baseurl }}/public/RIXS/12-Mazin-Ir213-PRL.pdf)
+
+\\( \alpha- \mathrm{RuCl}_3 \\) [Plumb PRB 90, 041112 (2014)]({{ site.baseurl }}/public/RIXS/14-Plumb-Mott-insulator-honeycomb-PRB.pdf)
+
+[RIXS Ament RMP(2011) ]({{ site.baseurl }}/public/RIXS/11-Ament-RIXS-RMP.pdf)
