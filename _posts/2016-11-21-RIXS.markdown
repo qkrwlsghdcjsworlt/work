@@ -14,3 +14,5 @@ categories: experiment
 \\( \alpha- \mathrm{RuCl}_3 \\) [Plumb PRB 90, 041112 (2014)]({{ site.baseurl }}/public/RIXS/14-Plumb-Mott-insulator-honeycomb-PRB.pdf)
 
 [RIXS Ament RMP(2011) ]({{ site.baseurl }}/public/RIXS/11-Ament-RIXS-RMP.pdf)
+
+[Green ft's method topological]({{ site.baseurl }}/public/RIXS/12-Wang-interaction-Greens-ft-PRX.pdf)
