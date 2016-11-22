@@ -16,3 +16,5 @@ categories: experiment
 [RIXS Ament RMP(2011) ]({{ site.baseurl }}/public/RIXS/11-Ament-RIXS-RMP.pdf)
 
 [Green ft's method topological]({{ site.baseurl }}/public/RIXS/12-Wang-interaction-Greens-ft-PRX.pdf)
+
+[발표 자료 필기]({{ site.baseurl }}/public/RIXS/161114-Kim-hexagonal.pdf)
