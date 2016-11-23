@@ -13,6 +13,10 @@ title: study
 
 [논문 검색하다 찾은 책]({{ site.baseurl }}/public/study/QM/quantum-physics-2nd-eisbergresnick.pdf)
 
+
+numerical 하게 문제를 풀었는데, 경계조건을 대입해야될 거 같음.
+
+
 ---
 
 
