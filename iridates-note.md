@@ -200,3 +200,7 @@ M Capone, Sergio Caprara 이 두사람 논문을 따라가 볼 필요도 있을 
 
 perfect nesting 을 찾다가 다음 논문을 찾았음.
 [chubukov graphene chiral superconductor]({{ site.baseurl }}/public/iridatesnotes/12-Nandkishore-graphene-chiral-superconductor-nphys.pdf)
+
+다음 lecture series 역시 공부하는데 도움이 될 거 같다.
+[1]({{ site.baseurl }}/public/iridatesnotes/chapter12.pdf)
+[2]({{ site.baseurl }}/public/iridatesnotes/chapter14.pdf)
