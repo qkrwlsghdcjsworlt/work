@@ -197,3 +197,6 @@ ty of a general model of copper oxide metals `97-Varma`
 [Mott metal-insulator transition in the half-filled Hubbard model on the triangular lattice]({{ site.baseurl }}/public/iridatesnotes/01-Capone-Mott-transition-triangular-lattice-PRB.pdf)
 
 M Capone, Sergio Caprara 이 두사람 논문을 따라가 볼 필요도 있을 거 같다.
+
+perfect nesting 을 찾다가 다음 논문을 찾았음.
+[chubukov graphene chiral superconductor]({{ site.baseurl }}/public/iridatesnotes/12-Nandkishore-graphene-chiral-superconductor-nphys.pdf)
