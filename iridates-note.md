@@ -189,3 +189,9 @@ ty of a general model of copper oxide metals `97-Varma`
 [LaMnO3 magnetic, orbital ordering]({{ site.baseurl }}/public/iridatesnotes/99-Feiner-magnetic-orbital-ordering-LMO-PRB.pdf) Electronic origin of magnetic and orbital ordering in insulating \\( \mathrm{LaMnO}_3\\) `99-Feiner`
 >
 [Metal insulator transition]({{ site.baseurl }}/public/iridatesnotes/98-Imada-Metal-insulator-transition-RMP.pdf) Metal-insulator transitions `98-Imada`
+
+
+11/24
+
+삼각격자에서 Mott transition 에 대해 연구한 이 논문도 괜찮은 참고 자료인거 같다.
+[Mott metal-insulator transition in the half-filled Hubbard model on the triangular lattice]({{ site.baseurl }}/public/iridatesnotes/01-Capone-Mott-transition-triangular-lattice-PRB.pdf) 
