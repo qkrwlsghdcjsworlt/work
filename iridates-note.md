@@ -194,4 +194,4 @@ ty of a general model of copper oxide metals `97-Varma`
 11/24
 
 삼각격자에서 Mott transition 에 대해 연구한 이 논문도 괜찮은 참고 자료인거 같다.
-[Mott metal-insulator transition in the half-filled Hubbard model on the triangular lattice]({{ site.baseurl }}/public/iridatesnotes/01-Capone-Mott-transition-triangular-lattice-PRB.pdf) 
+[Mott metal-insulator transition in the half-filled Hubbard model on the triangular lattice]({{ site.baseurl }}/public/iridatesnotes/01-Capone-Mott-transition-triangular-lattice-PRB.pdf)
