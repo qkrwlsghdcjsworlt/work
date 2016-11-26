@@ -1,2 +1,2 @@
-cd /Users/parkjinhong/Google\ Drive/downg/lanyon-master
-make
+open -a opera http://qkrwlsghdcjsworlt.github.io/todo http://qkrwlsghdcjsworlt.github.io/work
+cd /Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/latex/mean-field-PRB/ && atom /Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/latex/mean-field-PRB/iridates.tex
