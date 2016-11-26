@@ -20,7 +20,7 @@ categories: experiment
 [발표 자료 필기]({{ site.baseurl }}/public/RIXS/161114-Kim-hexagonal.pdf)
 
 
-김흥식 박사님 발표도 비슷한 물질에 대한 거라서 참고자료들을 같이 적어 본다.
+[김흥식 박사님 발표]({{ site.baseurl }}/public/RIXS/1611-Kim-HS-spin-liquid.pdf)도 비슷한 물질에 대한 거라서 참고자료들을 같이 적어 본다.
 
 [PRL.105.027204]({{ site.baseurl }}/public/RIXS/10-Chaloupka-Kitaev-Heisenberg-model-honeycomb-PRL.pdf) Kitaev-Heisenberg Model on a Honeycomb Lattice: Possible Exotic Phases in Iridium Oxides A2IrO3
 
