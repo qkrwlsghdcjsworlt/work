@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "RIXS"
+title:  "honeycomb Iridates"
 date:   2016-11-21 11:00:00 +0900
 categories: experiment
 
@@ -18,3 +18,22 @@ categories: experiment
 [Green ft's method topological]({{ site.baseurl }}/public/RIXS/12-Wang-interaction-Greens-ft-PRX.pdf)
 
 [발표 자료 필기]({{ site.baseurl }}/public/RIXS/161114-Kim-hexagonal.pdf)
+
+
+김흥식 박사님 발표도 비슷한 물질에 대한 거라서 참고자료들을 같이 적어 본다.
+
+[PRL.105.027204]({{ site.baseurl }}/public/RIXS/10-Chaloupka-Kitaev-Heisenberg-model-honeycomb-PRL.pdf) Kitaev-Heisenberg Model on a Honeycomb Lattice: Possible Exotic Phases in Iridium Oxides A2IrO3
+
+[PhysRevLett.102.017205]({{ site.baseurl }}/public/RIXS/09-Jackeli-Khaliullin-Ir-PRL.pdf) Mott Insulators in the Strong Spin-Orbit Coupling Limit:
+From Heisenberg to a Quantum Compass and Kitaev Models
+
+[PhysRevB.78.094403]({{ site.baseurl }}/public/RIXS/08-Chen-hyper-Kagome-AFM-PRB.pdf) Spin-orbit effects in Na4Ir3O8: A hyper-kagome lattice antiferromagnet
+
+[PhysRevLett.108.127204]({{ site.baseurl }}/public/RIXS/12-Choi-spin-wave-Ir213-PRL.pdf) Spin Waves and Revised Crystal Structure of Honeycomb Iridate Na2IrO3
+
+[PhysRevLett.112.077204]({{ site.baseurl }}/public/RIXS/14-Rau-Honeycomb-Iridate-PRL.pdf) Generic Spin Model for the Honeycomb Iridates beyond the Kitaev Limit
+
+
+[PhysRevB.79.024426]({{ site.baseurl }}/public/RIXS/09-Mandal-kitaev-model-3D-PRB.pdf) Exactly solvable Kitaev model in three dimensions
+
+[PhysRevB.90.205116]({{ site.baseurl }}/public/RIXS/14-Biffin-hyperhoneycomb-Kitaev-lattice-PRB.pdf) Unconventional magnetic order on the hyperhoneycomb Kitaev lattice in β-Li2IrO3:Full solution via magnetic resonant x-ray diffraction
