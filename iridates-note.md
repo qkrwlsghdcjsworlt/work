@@ -204,3 +204,9 @@ perfect nesting 을 찾다가 다음 논문을 찾았음.
 다음 lecture series 역시 공부하는데 도움이 될 거 같다.
 [1]({{ site.baseurl }}/public/iridatesnotes/chapter12.pdf)
 [2]({{ site.baseurl }}/public/iridatesnotes/chapter14.pdf)
+
+
+11/27
+
+
+[Hatree-Fock approximation 검색하다가 발견한 website](https://www.eng.fsu.edu/~dommelen/quantum/style_a/contents.html)
