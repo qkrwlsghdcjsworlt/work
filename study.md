@@ -11,6 +11,9 @@ title: study
 
 [particle in a box 2]({{ site.baseurl }}/public/study/QM/Particle-in-a-box2.pdf)
 
+[particle in a box 3 continuity equation]({{ site.baseurl }}/public/study/QM/Particle-in-a-box3-continuity-equation.pdf)
+
+
 [논문 검색하다 찾은 책]({{ site.baseurl }}/public/study/QM/quantum-physics-2nd-eisbergresnick.pdf)
 
 
