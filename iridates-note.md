@@ -215,3 +215,5 @@ perfect nesting 을 찾다가 다음 논문을 찾았음.
 12/01
 
 Iridate 에서 magnetic ordering을 어떻게 다루었는지 살펴보자.
+
+회의중 Glazer 가 제안한 간단한 [rotation tilting distortion 에 대해서 살펴보자.](({{ site.baseurl }}/public/iridatesnotes/75-Glazer-perovskite-structure-ActaCryst.pdf)
