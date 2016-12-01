@@ -220,3 +220,13 @@ Iridate 에서 magnetic ordering을 어떻게 다루었는지 살펴보자.
 
 
 stoner instability 와 flat-band ferromagnetism 에 대해서 생각해봐야겠다.
+
+[Khomskii 의 콜로퀴엄]({{ site.baseurl }}/public/iridatesnotes/Khomskii-talk.pdf)
+
+[Khomskii 의 crystal splitting 에 관한 논문 arXiv]({{ site.baseurl }}/public/iridatesnotes/05-Khomskii-arXiv.pdf)
+
+[Khomskii 의 crystal splitting 에 관한 논문 출판 버전]({{ site.baseurl }}/public/iridatesnotes/05-Khomskii-PhysScr.pdf)
+
+Mostovoy의 M-O-M 각도가 90, [edge-sharing octahedral에 대해 연구한 논문]({{ site.baseurl }}/public/iridatesnotes/02-Mostovoy-orbital-ordering-90-Exchange-PRL.pdf)
+
+참고로 riken에서 종종 보았던 Kugel의 [face-sharing octahedral 역시 있어서 참고해둔다.]({{ site.baseurl }}/public/iridatesnotes/14-Kugel-face-sharing-octahedral-arXiv.pdf)
