@@ -210,3 +210,8 @@ perfect nesting 을 찾다가 다음 논문을 찾았음.
 
 
 [Hatree-Fock approximation 검색하다가 발견한 website](https://www.eng.fsu.edu/~dommelen/quantum/style_a/contents.html)
+
+
+12/01
+
+Iridate 에서 magnetic ordering을 어떻게 다루었는지 살펴보자.
