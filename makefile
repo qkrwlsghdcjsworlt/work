@@ -1,4 +1,5 @@
 all:
+	open -a opera http://localhost:4000
 	jekyll serve --baseurl '' --watch
 
 upload:
