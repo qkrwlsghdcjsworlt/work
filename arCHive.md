@@ -10,7 +10,8 @@ title: arCHive
 [`Aug`]({{ site.baseurl }}/201608.html) &nbsp; &nbsp;
 [`Sep`]({{ site.baseurl }}/201609.html) &nbsp; &nbsp;
 [`Oct`]({{ site.baseurl }}/201610.html) &nbsp; &nbsp;
-[`Nov`]({{ site.baseurl }}/201611.html)
+[`Nov`]({{ site.baseurl }}/201611.html) &nbsp; &nbsp;
+[`Dec`]({{ site.baseurl }}/201612.html)
 
 ---
 
