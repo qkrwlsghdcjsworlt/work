@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "chiral matter 2016"
+date:   2016-12-05 11:00:00 +0900
+categories: conference
+
+---
+
+## X. Dai, Pseudo scalar phonons and chiral magnetic effect in Weyl semimetal
+
+[1609.05442](http://arxiv.org/abs/1609.05442) Detecting Chiral Magnetic Effect by Lattice Dynamics
+
+main message : Chiral magnetic effect detected by Pseudo scalar phonons.
+
+Topological semimetal : metal with vanishing Fermi surface. insulator with vanishing energy gap. band crossing at Fermi level.
+
+Semi-metals defined above can all described by topological invariance.
+
+Weyl, Dirac nodal line. Dirac metal
+
+Principal axis
+\\( \hat{v} = \hat{L} \hat{\lambda} \hat{R} \\)
+
+
+\\( H = \sum_{\alpha, \beta = x,y,z}  v_{\alpha \beta} \sigma_{\alpha} k_{\beta} = \sum_i \lambda_i \overline{k}_i \overline{\sigma}_i \\)
+
+
+Fermi arc 를 어떻게 이해할 수 있을까?
+Weyl point 가 있으면 Weyl point를 감싸는 cylindal를 생각할 수 있을 것이다. Weyl point 를 monopole 로 생각할 수 있으므로 cylindal 의 고정된 kz에 대해서 닫힌 원을 통과하는 flux는 winding number 가 정수를 가질 것이다. 이것이 chern number인데, 1을 가지면, -1 을 가지는 Weyl point 역시 pair를 이룬다. Weyl point 를 하나만 포함하면 감싸는 cylindal의 크기에 상관없이 chern number는 항상 고정된 정수를 갖는데, 두개의 Weyl point를 포함하는 순간 chern number 는 사라진다. 
+
+ 
