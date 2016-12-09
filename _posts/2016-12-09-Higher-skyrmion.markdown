@@ -12,4 +12,4 @@ categories: skyrmion
 
 [PRL 101, 156402 (2008)]({{ site.baseurl }}/public/skyrmion/08-Martin-Batista-QHE-triangular-lattice-PRL.pdf)  Itinerant Electron-Driven Chiral Magnetic Ordering and Spontaneous Quantum Hall Effect in Triangular Lattice Models `08-Martin-Batista`
 
-[J. Phys. Soc. Jpn. 79, 083711 (2010)]({{ site.baseurl }}/public/skyrmion/) Spin Chirality Ordering and Anomalous Hall Effect in the Ferromagnetic Kondo Lattice Model on a Triangular Lattice `10-Akagi`
+[J. Phys. Soc. Jpn. 79, 083711 (2010)]({{ site.baseurl }}/public/skyrmion/10-Akagi-spin-chirality-ordering-triangular-lattice-jpsj.pdf) Spin Chirality Ordering and Anomalous Hall Effect in the Ferromagnetic Kondo Lattice Model on a Triangular Lattice `10-Akagi`
