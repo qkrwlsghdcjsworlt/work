@@ -8,7 +8,7 @@ categories: numerics
 
 [nature01496](http://www.nature.com/nature/journal/v422/n6932/abs/nature01496.html) QPI in superconducting state `03-McElroy`
 
-Relating atomic-scale electronic phenomena to wave-like quasiparticle states in superconducting \\( \mathrm{Bi}_2 \mathrm{Sr}_2 \mathrm{CaCu}_2 \mathrm{O}_{8+\delta} \\)
+Relating atomic-scale electronic phenomena to wave-like quasiparticle states in superconducting \\( \mathrm{Bi}_{2}\mathrm{Sr}_2\mathrm{CaCu}_2\mathrm{O}{8+\delta} \\) 
 
 [C. Varma](http://www.nature.com/nature/journal/v468/n7321/full/468184a.html?from_TRM_site=Yttrium) High-temperature superconductivity: Mind the pseudogap `nature 468 184 (2010)`
 
@@ -16,4 +16,3 @@ Relating atomic-scale electronic phenomena to wave-like quasiparticle states in 
 
 
 Psuedo gap + magnetic field -> vortex core + \\( {}_{\sim \sim \sim} \\)
-
