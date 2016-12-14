@@ -14,5 +14,14 @@ categories: magnetism
 자기장을 키워가며 자성을 측정하면 hysteresis현상이 없다.
 이것을 어떻게 이해할 수 있을까?
 자기장을 키워감에 따라 AFM-unknown-FM 상전이를 한다고 한다.
-만약 이 알수 없는 상태가 skyrmion 이나 다른 topological nontrivial spin texture에 의한 것이면 굉장히 흥미로운 스핀상태일 거 같다. 
+만약 이 알수 없는 상태가 skyrmion 이나 다른 topological nontrivial spin texture에 의한 것이면 굉장히 흥미로운 스핀상태일 거 같다.
 우선 sd model 로 부터 magnetoresistance를 어떻게 계산하는지 살펴보아야겠다.
+
+12/14
+
+일단 키워드 `tight-binding` 과 `magnetoresistance` 로 논문을 검색해보았다.
+다음 논문을 찾았다.[PHYSICAL REVIEW B 78, 094428  (2008)]({{ site.baseurl }}/public/MR/08-Silva-tight-binding-magnetoresistance-PRB.pdf) Simple tight-binding theory for magnetoresistance in perfect sandwiched structures `Portugal group`
+
+그리고 쥬진 논문 토론 섹션에도 [PHYSICAL REVIEW B 86, 115133 (2012)]({{ site.baseurl }}/public/etc/12-Zyuzin-Weyl-chiral-anomaly-PRB.pdf) tight-binding 모델로 부터 J를 구하고, 이것이 자기장에 대한 함수임을 보이는 부분이 있다. `12-Zyuzin` `Burkov`
+
+[PRL 113, 247203 (2014)]({{ site.baseurl }}/public/MR/14-Burkov-diffusive-magnetotransport-PRL.pdf) Chiral Anomaly and Diffusive Magnetotransport in Weyl Metals `14-Burkov` `PRL`
