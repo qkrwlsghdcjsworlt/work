@@ -25,3 +25,9 @@ categories: magnetism
 그리고 쥬진 논문 토론 섹션에도 [PHYSICAL REVIEW B 86, 115133 (2012)]({{ site.baseurl }}/public/etc/12-Zyuzin-Weyl-chiral-anomaly-PRB.pdf) tight-binding 모델로 부터 J를 구하고, 이것이 자기장에 대한 함수임을 보이는 부분이 있다. `12-Zyuzin` `Burkov`
 
 [PRL 113, 247203 (2014)]({{ site.baseurl }}/public/MR/14-Burkov-diffusive-magnetotransport-PRL.pdf) Chiral Anomaly and Diffusive Magnetotransport in Weyl Metals `14-Burkov` `PRL`
+
+MR은 아니지만, AHE 에 대한 논문도 일단 스크랩해두자.
+
+[PHYSICAL REVIEW B 89, 155104 (2014)]({{ site.baseurl }}/public/MR/14-Burkov-topological-response-FM-PRB.pdf) Topological response in ferromagnets `14-Burkov`
+
+[PHYSICAL REVIEW B 88, 125110 (2013)]({{ site.baseurl }}/public/MR/13-Chen-Weyl-FM-PRB.pdf) Weyl fermions and the anomalous Hall effect in metallic ferromagnets `13-Chen`
