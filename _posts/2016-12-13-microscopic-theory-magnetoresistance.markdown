@@ -31,3 +31,12 @@ MR은 아니지만, AHE 에 대한 논문도 일단 스크랩해두자.
 [PHYSICAL REVIEW B 89, 155104 (2014)]({{ site.baseurl }}/public/MR/14-Burkov-topological-response-FM-PRB.pdf) Topological response in ferromagnets `14-Burkov`
 
 [PHYSICAL REVIEW B 88, 125110 (2013)]({{ site.baseurl }}/public/MR/13-Chen-Weyl-FM-PRB.pdf) Weyl fermions and the anomalous Hall effect in metallic ferromagnets `13-Chen`
+
+
+12/15
+
+내가 해야 될 것을 간단히 정리했다.
+자성은 Ce으로 부터 나오는 것이고, lattice structure는 검색으로 알아봐야할 거 같다.
+Kondo lattice model로 할 것이냐 말것이냐는 아직 모르겠다.
+
+[scan note 2016/12/15]({{ site.baseurl }}/public/MR/Todo_161215.pdf)
