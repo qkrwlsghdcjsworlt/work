@@ -230,3 +230,12 @@ stoner instability 와 flat-band ferromagnetism 에 대해서 생각해봐야겠
 Mostovoy의 M-O-M 각도가 90, [edge-sharing octahedral에 대해 연구한 논문]({{ site.baseurl }}/public/iridatesnotes/02-Mostovoy-orbital-ordering-90-Exchange-PRL.pdf)
 
 참고로 riken에서 종종 보았던 Kugel의 [face-sharing octahedral 역시 있어서 참고해둔다.]({{ site.baseurl }}/public/iridatesnotes/14-Kugel-face-sharing-octahedral-arXiv.pdf)
+
+
+
+12/22
+
+조환범씨랑 회의를 하던중 [ICSD](http://icsd.kisti.re.kr/icsd/icsd_chemistry.jsp) 라는 것을 알았는데, 물질만 입력하면, 그물질이 가지는 crystal structure가 주르륵 나왔다.
+
+이걸로 material search를 할 수 있을거같다.
+
