@@ -239,3 +239,7 @@ Mostovoy의 M-O-M 각도가 90, [edge-sharing octahedral에 대해 연구한 논
 
 이걸로 material search를 할 수 있을거같다.
 
+
+12/23
+
+교수님께서 옥타헤드론에서 실험적으로 회전을 어떻게 실현시킬 것인가를 발표하셨다. [관련 웹페이지]({{ site.baseurl }}/magnetism/2016/12/23/octahedron-rotation.html)
