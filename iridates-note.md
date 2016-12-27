@@ -243,3 +243,13 @@ Mostovoy의 M-O-M 각도가 90, [edge-sharing octahedral에 대해 연구한 논
 12/23
 
 교수님께서 옥타헤드론에서 실험적으로 회전을 어떻게 실현시킬 것인가를 발표하셨다. [관련 웹페이지]({{ site.baseurl }}/magnetism/2016/12/23/octahedron-rotation.html)
+
+
+12/27
+
+spin susceptibility와 magnetism 의 관계를 다음과 같은 논문에서도 다루었다.
+
+1. [1612.07633](https://arxiv.org/abs/1612.07633) Unravelling incommensurate magnetism and the path to intrinsic topological
+superconductivity in iron-pnictides `16-Christensen`
+
+2. 일본그룹 high-topological number 스커미온 논문
