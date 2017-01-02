@@ -253,3 +253,9 @@ spin susceptibility와 magnetism 의 관계를 다음과 같은 논문에서도 
 superconductivity in iron-pnictides `16-Christensen`
 
 2. 일본그룹 high-topological number 스커미온 논문
+
+
+2017/01/02
+
+tight-binding 계산할 때 사각격자의 대각성분끼리의 hopping을 다룰 때 cos kx cos ky에 비례하는 항이 나오는 이유.
+[scan note]({{ site.baseurl }}/public/iridatesnotes/scannote_tight-binding-cross-points.pdf)
