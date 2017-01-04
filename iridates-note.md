@@ -259,3 +259,13 @@ superconductivity in iron-pnictides `16-Christensen`
 
 tight-binding 계산할 때 사각격자의 대각성분끼리의 hopping을 다룰 때 cos kx cos ky에 비례하는 항이 나오는 이유.
 [scan note]({{ site.baseurl }}/public/iridatesnotes/scannote_tight-binding-cross-points.pdf)
+
+
+
+01/04
+
+벡터 각도 구하는 공식
+
+[capture]({{ site.baseurl }}/public/iridatesnotes/ArcCos.png)
+
+[mathematica]({{ site.baseurl }}/public/iridatesnotes/ArcCos.nb)

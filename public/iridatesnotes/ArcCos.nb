@@ -1,0 +1,144 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 10.4' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      3802,        134]
+NotebookOptionsPosition[      3153,        106]
+NotebookOutlinePosition[      3509,        122]
+CellTagsIndexPosition[      3466,        119]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[{
+ RowBox[{"2", "nd", " ", "cos", " ", "law"}], "\[IndentingNewLine]", 
+ RowBox[{
+  SuperscriptBox["a", "2"], "=", 
+  RowBox[{
+   SuperscriptBox["b", "2"], "+", 
+   SuperscriptBox["c", "2"], "-", 
+   RowBox[{"2", "bc", " ", 
+    RowBox[{"Cos", "[", "\[Theta]", "]"}]}]}]}]}], "Input",
+ CellChangeTimes->{{3.692482476313549*^9, 3.6924825105543623`*^9}}],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"mA", "=", 
+   RowBox[{"{", 
+    RowBox[{"0.3", ",", 
+     RowBox[{"-", "0.3"}], ",", "0.0"}], "}"}]}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"mB", "=", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"-", "0.3"}], ",", "0.3", ",", "0.0"}], "}"}]}], ";"}]}], "Input",\
+
+ CellChangeTimes->{{3.6924821034397287`*^9, 3.692482169710413*^9}, {
+  3.692482254696377*^9, 3.692482256560663*^9}, {3.692482422995863*^9, 
+  3.6924824246531487`*^9}, {3.6924825163268003`*^9, 3.6924825166434526`*^9}, {
+  3.692498283699746*^9, 3.6924982857781363`*^9}}],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"ArcCos", "[", 
+   RowBox[{"-", 
+    FractionBox[
+     RowBox[{"(", 
+      RowBox[{
+       RowBox[{
+        RowBox[{"(", 
+         RowBox[{"mA", "-", "mB"}], ")"}], ".", 
+        RowBox[{"(", 
+         RowBox[{"mA", "-", "mB"}], ")"}]}], "-", 
+       RowBox[{"mA", ".", "mA"}], "-", 
+       RowBox[{"mB", ".", "mB"}]}], ")"}], 
+     RowBox[{"2", 
+      RowBox[{"Sqrt", "[", 
+       RowBox[{"mA", ".", "mA"}], "]"}], 
+      RowBox[{"Sqrt", "[", 
+       RowBox[{"mB", ".", "mB"}], "]"}]}]]}], "]"}], "*", 
+  RowBox[{"180", "/", "Pi"}]}]], "Input",
+ CellChangeTimes->{{3.692482287142613*^9, 3.692482381705634*^9}, {
+  3.692482433310177*^9, 3.692482436281316*^9}, {3.692498270229179*^9, 
+  3.6924982742254553`*^9}}],
+
+Cell[BoxData["180.`"], "Output",
+ CellChangeTimes->{{3.69248236407749*^9, 3.6924823823601522`*^9}, {
+  3.69248242743222*^9, 3.692482436888431*^9}, {3.69249827990522*^9, 
+  3.6924982885526123`*^9}}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"0.471239", "*", 
+  RowBox[{"180", "/", "Pi"}]}]], "Input",
+ CellChangeTimes->{{3.692510021539158*^9, 3.69251002735388*^9}}],
+
+Cell[BoxData["27.0000058419654`"], "Output",
+ CellChangeTimes->{3.692510027880149*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"0.575959", "*", 
+  RowBox[{"180", "/", "Pi"}]}]], "Input",
+ CellChangeTimes->{{3.692510258204791*^9, 3.6925102613492937`*^9}}],
+
+Cell[BoxData["33.00001987257538`"], "Output",
+ CellChangeTimes->{3.6925102618943233`*^9}]
+}, Open  ]],
+
+Cell[BoxData["0.575959"], "Input",
+ CellChangeTimes->{{3.6925103159313917`*^9, 3.69251031593218*^9}}]
+},
+WindowSize->{808, 911},
+WindowMargins->{{4, Automatic}, {Automatic, 4}},
+FrontEndVersion->"10.4 for Mac OS X x86 (32-bit, 64-bit Kernel) (February 25, \
+2016)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 365, 9, 48, "Input"],
+Cell[926, 31, 585, 16, 46, "Input"],
+Cell[CellGroupData[{
+Cell[1536, 51, 745, 22, 50, "Input"],
+Cell[2284, 75, 197, 3, 28, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[2518, 83, 147, 3, 28, "Input"],
+Cell[2668, 88, 86, 1, 28, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[2791, 94, 150, 3, 28, "Input"],
+Cell[2944, 99, 89, 1, 28, "Output"]
+}, Open  ]],
+Cell[3048, 103, 101, 1, 28, "Input"]
+}
+]
+*)
+
+(* End of internal cache information *)
+
