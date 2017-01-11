@@ -1,10 +1,20 @@
 ---
 layout: post
 title:  "STM"
-date:   2016-07-22 12:00:00 +0900
+date:   2017-01-11 12:00:00 +0900
 categories: transport
 
 ---
+
+17.01.11
+
+[ncomms13974](http://www.nature.com/articles/ncomms13974) 논문으로 부터 TaAs 에 tip을 가하면 초전도가 생긴다는 것을 리포트했고, 참고문헌에 [PhysRevLett.116.096801](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.096801) Hassan 그룹에서 Fermi arc 에 spin polarized 상태가 있다는 것을 찾았다.
+
+이 PRL 를 인용한 논문중에 모이스너 그룹에서 [PhysRevB.94.165146](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.165146) `16-Lambert-QPI` 논문을 썼고, 이 논문의 reference 중에서 [PhysRevB.93.041109](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.041109) Kourtis 가 Fermi arc 를 QPI 로 측정하는 논문을 썼다.
+
+그리고 이논문의 참고 문헌 중에 산타바바라 그룹에서 쓴 [PhysRevB.68.014508](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.68.014508) `03-Capriotti` 논문이 있는데, 이논문이 아주 유용해 보인다.
+---
+
 16.5.12
 
 STM measurement에서 metal tip일때의 신호와 SC tip일때의 신호차이는 어떤 의미를 가질까?
@@ -35,7 +45,7 @@ conduction band의 d-wave 성격을 알 수 있다는 게 주요요지인거 같
 16.7.22
 
 홍종배 교수님께서 간단한 quantum dot 모델로 부터 STS 실험을 재생산하는데 성공하신 논문을 발표하셨다.
-quantum dot의 electron이 tip과 초전도체 entangled 되어있고, 여기에 대한 transport신호를 모델계산을 수행하셨다. 
+quantum dot의 electron이 tip과 초전도체 entangled 되어있고, 여기에 대한 transport신호를 모델계산을 수행하셨다.
 
 한가지 재밌는 점은 bilayer graphene 에 대한 STS 실험결과를 모사하셨는데, gap 이 있는 듯한 data를 제시하셨다. 이 gap의 원인은 무엇일까?
 
@@ -44,5 +54,3 @@ quantum dot의 electron이 tip과 초전도체 entangled 되어있고, 여기에
 그러기 위해서 논문들을 찾아보았다.
 
 /my_project/STM 에 저장해보자.
-
-
