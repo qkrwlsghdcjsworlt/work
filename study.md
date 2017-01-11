@@ -24,6 +24,10 @@ numerical 하게 문제를 풀었는데, 경계조건을 대입해야될 거 같
 
 뭔가 이 [노트]({{ site.baseurl }}/public/study/QM/schrodinger.pdf)와 [웹사이트](http://www.physics.usyd.edu.au/teach_res/mp/quantum/)에 정답이 있을 거 같다.
 
+적분
+---
+3차원에 대한 적분은 다음과 같이 하면 될 것이다.[3D integral scan]({{ site.baseurl }}/public/study/integral/3D-integral.pdf)
+
 
 
 ---
