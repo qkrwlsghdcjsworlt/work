@@ -275,3 +275,24 @@ tight-binding 계산할 때 사각격자의 대각성분끼리의 hopping을 다
 01/06
 
 [Matsuno and Takagi 2015 PRL 논문]({{ site.baseurl }}/public/iridatesnotes/15-Matsuno-Takagi-PRL.pdf)
+
+
+17.01.15
+
+예전에 찾은 [다른 사람의 졸업논문]({{ site.baseurl }}/public/thesis/thesis2.pdf)에서 susceptibility의 다른 channel를 어떻게 계산할 수 있을 지 힌트를 얻을 수 있었다. 이논문의 introduction에 graphene에 in-plane magnetic field 가 걸리면 Fermi surface 의 density of state 가 vanishing 되지 않고, 유한한 값을 가지고 이러한 상태는 canted AFM 으로  instability 를 갖는다는 연구가 있다는 것이다.
+
+출발점으로 좋은 논문은 아마도 [Magnetic field induced semimetal-to-canted-antiferromagnet transition
+on the honeycomb lattice]({{ site.baseurl }}/public/susceptibility/0902.2922v2.pdf) `09-Bercx` 이다. introduction 을 읽어보면 이미 이런 논의가 mean-field level 에서 이루어졌다고 한다. 이논문은 quantum monte carlo 계산을 통해서 이것을 밝혔다는 것이다.
+
+[continuum limit에서 이러한 in-plane magnetic field가 spontaneous symmetry breaking을 가능하게 한다는 것이 이미 지적되었다고 하는 논문]({{ site.baseurl }}/public/susceptibility/0611251v1.pdf) `06-Kharzeev` 역시 공부해야 될 것이다. 
+
+mean-field level에서 가능하다고 하는 것이 다음 논문이다.
+[9] I. Milat, F. F. Assaad and M. Sigrist, Eur. Phys. J. B38, 571 (2004).[10] K. S. D. Beach, P. A. Lee and P. Monthoux, Phys. Rev.Lett. 92, 026401 (2004).
+[11] N. M. R. Peres, M. A. N. Arau ́jo and D. Bozi, Phys. Rev. B 70, 195122 (2004).
+
+[Ghost excitonic insulator transition in layered graphite](https://arxiv.org/abs/cond-mat/0101306v4) `01-Khveshchenko` 이 중요한지는 모르겠는데, 인터넷 브라우저에 창이 열려있었다. -> 이 논문에서 [Haldane 논문](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.61.2015)과 [semenoff 논문](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.53.2449)이 인용되었음을 알 수 있었다.
+
+[다른 사람의 졸업논문]({{ site.baseurl }}/public/thesis/thesis2.pdf)으로부터 다른 channel susceptibility를 어떻게 계산할 수 있을지 공부해보자.
+---
+
+
