@@ -284,7 +284,7 @@ tight-binding 계산할 때 사각격자의 대각성분끼리의 hopping을 다
 출발점으로 좋은 논문은 아마도 [Magnetic field induced semimetal-to-canted-antiferromagnet transition
 on the honeycomb lattice]({{ site.baseurl }}/public/susceptibility/0902.2922v2.pdf) `09-Bercx` 이다. introduction 을 읽어보면 이미 이런 논의가 mean-field level 에서 이루어졌다고 한다. 이논문은 quantum monte carlo 계산을 통해서 이것을 밝혔다는 것이다.
 
-[continuum limit에서 이러한 in-plane magnetic field가 spontaneous symmetry breaking을 가능하게 한다는 것이 이미 지적되었다고 하는 논문]({{ site.baseurl }}/public/susceptibility/0611251v1.pdf) `06-Kharzeev` 역시 공부해야 될 것이다. 
+[continuum limit에서 이러한 in-plane magnetic field가 spontaneous symmetry breaking을 가능하게 한다는 것이 이미 지적되었다고 하는 논문]({{ site.baseurl }}/public/susceptibility/0611251v1.pdf) `06-Kharzeev` 역시 공부해야 될 것이다.
 
 mean-field level에서 가능하다고 하는 것이 다음 논문이다.
 [9] I. Milat, F. F. Assaad and M. Sigrist, Eur. Phys. J. B38, 571 (2004).[10] K. S. D. Beach, P. A. Lee and P. Monthoux, Phys. Rev.Lett. 92, 026401 (2004).
@@ -296,3 +296,11 @@ mean-field level에서 가능하다고 하는 것이 다음 논문이다.
 ---
 
 
+
+17.01.17
+
+교수님과 회의 끝에 에너지 차이가 맞다는 것을 알았다. 칠판의 계산은 FM 계산이고, 실제로 우리의 계산은 AFM 하에 계산이므로 에너지 차이가 작을 수 있다.
+그러면, 모델에 anisotropy를 줄수 있는 방법은 무엇이 있을까?
+itinerant model 에서 자성을 어떻게 기술했는지 살펴보자.
+기혜영교수님 논문과 그것을 인용한 논문을 찾아보자. random 숫자를 주어서 계산을 했는지도 살펴보자.
+그리고 일반적으로 mean-field로 anisotropy를 어떻게 induce했는가 다른 논문역시 찾아보자.
