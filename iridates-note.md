@@ -3,6 +3,18 @@ layout: page
 title: iridates notes
 ---
 
+2017/01/18 (수)
+
+mean-field Hamiltonian 에서 solution 을 구할때의 \\( S_x ,  S_y,  S_z \\) 공식
+
+\\( \langle S_x \rangle  = {1 \over 2}  \langle \Psi  \|  \sigma_x \| \Psi \rangle = \psi_\uparrow^r \psi_\downarrow^r + \psi_\uparrow^i \psi_\downarrow^i. \\)
+
+\\( \langle S_y \rangle  = {1 \over 2}  \langle \Psi  \|  \sigma_y \| \Psi \rangle = \psi_\uparrow^r \psi_\downarrow^i - \psi_\uparrow^i \psi_\downarrow^r. \\)
+
+\\( \langle S_z \rangle  = {1 \over 2}  \langle \Psi  \|  \sigma_z \| \Psi \rangle = {1 \over 2} \Big( (\psi_\uparrow^r)^2 + ( \psi_\uparrow^i )^2 - (\psi_\downarrow^r )^2 - ( \psi_\downarrow^i )^2 \Bigr). \\)
+
+
+[mathematica file 은 여기]({{ site.baseurl }}/public/iridatesnotes/expectation_value.nb)
 
 2016/09/18 (일)
 
