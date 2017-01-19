@@ -3,6 +3,18 @@ layout: page
 title: iridates notes
 ---
 
+2017/01/19(목)
+
+[1701.04979.pdf](https://arxiv.org/pdf/1701.04979.pdf)
+
+[PhysRevLett.109.157402](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.109.157402)
+
+[magnetism.pdf](http://susi.theochem.tuwien.ac.at/reg_user/textbooks/WIEN2k_lecture-notes_2013/magnetism.pdf)
+
+[PhysRevB.59.419](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.59.419)
+
+[nmat3409](http://www.nature.com/nmat/journal/v11/n10/full/nmat3409.html)
+
 2017/01/18 (수)
 
 mean-field Hamiltonian 에서 solution 을 구할때의 \\( S_x ,  S_y,  S_z \\) 공식
