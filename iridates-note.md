@@ -3,7 +3,60 @@ layout: page
 title: iridates notes
 ---
 
-2017/01/19(목)
+2017/01/20 (금)
+
+논문을 보고 왜 monolayer를 쓸 수 있고, 어떤항을 넣어야 in-plane 으로 되는가 살펴보자.
+각항은 어떤 의미를 가지는지 살펴보자.
+일반적으로 어떻게 표현할 수 있는지 살펴보자.
+하나의 Hamiltonian으로 어떻게 표현할 수 있을까?
+
+
+[PhysRevB.88.035111](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.88.035111) Theory of metal-insulator transition in the family of perovskite iridium oxides
+
+>
+Jean-Michel Carter, Vijay Shankar V., and Hae-Young Kee
+Phys. Rev. B 88, 035111 – Published 9 July 2013
+
+[Magnetic structural change of Sr2IrO4 upon Mn doping](http://journals.aps.org/prb/pdf/10.1103/PhysRevB.86.220403) `Mn Doping`
+
+[Noncollinear versus collinear description of the Ir-based one-t2g-hole perovskite-related
+compounds: SrIrO3 and Sr2IrO4](http://journals.aps.org/prb/pdf/10.1103/PhysRevB.92.155151) `collinear vs noncollinear`
+
+[Collapse of the Mott Gap and Emergence of a Nodal Liquid in Lightly Doped Sr2IrO](http://journals.aps.org/prl/pdf/10.1103/PhysRevLett.115.176402) `Collapse of Mott gap`
+
+[Electron and hole doping in the relativistic Mott insulator Sr2IrO4:
+A first-principles study using band unfolding technique](http://journals.aps.org/prb/pdf/10.1103/PhysRevB.94.195145)
+
+[Substrate-tuning of correlated spin-orbit oxides revealed by optical conductivity calculations](http://www.nature.com/articles/srep27095)
+
+[Tuning Magnetic Coupling in Sr2IrO4 Thin Films with Epitaxial Strain](http://journals.aps.org/prl/pdf/10.1103/PhysRevLett.112.147201)
+
+[Low-energy model and electron-hole doping asymmetry of single-layer Ruddlesden-Popper iridates](http://journals.aps.org/prb/pdf/10.1103/PhysRevB.92.085141) `Ba2IrO4`
+
+[Manipulation of electronic structure via alteration of local orbital environment
+in (SrIrO3)m,(SrTiO3)(m = 1, 2, and∞) superlattices](http://journals.aps.org/prb/pdf/10.1103/PhysRevB.94.245113)
+
+[Surface states of perovskite iridates AIrO3: Signatures of a topological crystalline metal
+with nontrivial Z2 index](http://journals.aps.org/prb/pdf/10.1103/PhysRevB.91.235103)
+
+[Odd-Parity Triplet Superconducting Phase in Multiorbital Materials
+with a Strong Spin-Orbit Coupling: Application to Doped Sr2IrO4](http://journals.aps.org/prl/pdf/10.1103/PhysRevLett.113.177003)
+
+[Theoretical study of insulating mechanism in multiorbital Hubbard models with a
+large spin-orbit coupling: Slater versus Mott scenario in Sr2IrO4](http://journals.aps.org/prb/pdf/10.1103/PhysRevB.89.165115) `VMC`
+
+[Weyl fermions and the anomalous Hall effect in metallic ferromagnets](http://journals.aps.org/prb/pdf/10.1103/PhysRevB.88.125110) `Burkov`
+
+
+[Interplay between Hund’s Coupling and Spin–Orbit Interaction on Elementary Excitations in Sr2IrO4](http://journals.jps.jp/doi/10.7566/JPSJ.83.053709)
+
+[Magnetic properties of bilayer Sr3Ir2O7: Role of epitaxial strain and oxygen vacancies](http://journals.aps.org/prb/pdf/10.1103/PhysRevB.95.024406)
+
+[A charge density wave-like instability in a doped
+spin–orbit-assisted weak Mott insulator](http://www.nature.com/nmat/journal/vaop/ncurrent/pdf/nmat4836.pdf) `A charge density wave-like instability`
+
+
+2017/01/19 (목)
 
 [1701.04979.pdf](https://arxiv.org/pdf/1701.04979.pdf)
 
