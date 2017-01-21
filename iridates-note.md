@@ -3,6 +3,10 @@ layout: page
 title: iridates notes
 ---
 
+2017/01/21 (토)
+
+교수님이 effective Hamiltonian을 쓸수있다고 했는데, 아마도 예전에 본 논문의 appendix가 도움이 될거 같아서, [Das sarma 논문 nphys(2011)]({{ site.baseurl }}/public/iridatesnotes/11-Sun-dasSarma-topological-semimetal-in-optical-lattice-naturephy.pdf)를 걸어둔다.
+
 2017/01/20 (금)
 
 논문을 보고 왜 monolayer를 쓸 수 있고, 어떤항을 넣어야 in-plane 으로 되는가 살펴보자.
