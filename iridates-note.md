@@ -6,6 +6,10 @@ title: iridates notes
 2017/01/21 (토)
 
 교수님이 effective Hamiltonian을 쓸수있다고 했는데, 아마도 예전에 본 논문의 appendix가 도움이 될거 같아서, [Das sarma 논문 nphys(2011)]({{ site.baseurl }}/public/iridatesnotes/11-Sun-dasSarma-topological-semimetal-in-optical-lattice-naturephy.pdf)를 걸어둔다.
+**그리고 Auerbach 책을 참고할 필요가 있다.**
+
+
+
 
 2017/01/20 (금)
 
