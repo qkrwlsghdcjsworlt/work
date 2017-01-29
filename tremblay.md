@@ -96,3 +96,11 @@ kwant compile이 안 되었는데,
 [KWANT](https://kwant-project.org/doc/1.0/tutorial/tutorial1) 인터넷 문서인데, 따라서 공부하면 아주 유익할 듯 하다.
 
 기본적인 [kwant](https://kwant-project.org/) 홈페이지
+
+
+### My study on Quantum espresso
+
+macport 의 모든 패키지를 삭제한후 openmpi-gcc 를 깔고
+openmp (libomp)는 사용하지 않는 방법으로 compile 성공함.
+
+자세한 make.inc 파일은 Boxsync 폴더에 있음.
