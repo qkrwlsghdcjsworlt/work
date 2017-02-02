@@ -16,7 +16,8 @@ title: arCHive
 
 2017
 
-[`Jan`]({{ site.baseurl }}/201701.html)
+[`Jan`]({{ site.baseurl }}/201701.html) &nbsp; &nbsp;
+[`Feb`]({{ site.baseurl }}/201702.html)
 
 ---
 
