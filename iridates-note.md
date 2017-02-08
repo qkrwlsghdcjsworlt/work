@@ -3,6 +3,15 @@ layout: page
 title: iridates notes
 ---
 
+2017/02/08(수)
+
+[Vanderbilit 와 King-Smith PRB 논문 "Electric polarization as a bulk quantity and its relation to surface charge"](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.48.4442)에서 hopping amplitude 가 bonding type 에 따라 결정됨을 보인 Harrison 의  논문을 찾았다. `93-Vanderbilt`
+
+http://journals.aps.org/prb/pdf/10.1103/PhysRevB.27.3592 Theory of the two-center bond `83-Harrison`
+
+http://journals.aps.org/prb/pdf/10.1103/PhysRevB.24.5835  New tight-binding parameters for covalent solids obtained using Louie peripheral states `81-Harrison`
+
+
 2017/01/21 (토)
 
 교수님이 effective Hamiltonian을 쓸수있다고 했는데, 아마도 예전에 본 논문의 appendix가 도움이 될거 같아서, [Das sarma 논문 nphys(2011)]({{ site.baseurl }}/public/iridatesnotes/11-Sun-dasSarma-topological-semimetal-in-optical-lattice-naturephy.pdf)를 걸어둔다.
