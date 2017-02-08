@@ -1,10 +1,22 @@
 ---
 layout: post
 title:  "quadrupole interaction"
-date:   2016-12-11 11:00:00 +0900
+date:   2017-02-08 16:00:00 +0900
 categories: magnetism
 
 ---
+
+2017/02/08 
+
+[발표중 관련있어보여 노트를 첨부한다.]({{ site.baseurl }}/public/pyrochlore/pyrochlore_170208_go.pdf)
+L-G 라인으로 2fold degeneracy는 왜 일어났을까?
+그리고 이것과 Weyl point와의 관계는 무엇일까?
+
+
+---
+
+
+
 
 회의중 quadrupole interaction 이 나왔고,
 Morin 과 Schmidt 의 reference를 받았다.
