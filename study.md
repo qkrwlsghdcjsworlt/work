@@ -29,6 +29,12 @@ numerical 하게 문제를 풀었는데, 경계조건을 대입해야될 거 같
 3차원에 대한 적분은 다음과 같이 하면 될 것이다.[3D integral scan]({{ site.baseurl }}/public/study/integral/3D-integral.pdf)
 
 
+R. Winkler
+---
+
+g factor를 spin-orbital coupling gap으로 계산했다는 [논문](https://journals.aps.org/pr/abstract/10.1103/PhysRev.114.90)
+
+
 
 ---
 
