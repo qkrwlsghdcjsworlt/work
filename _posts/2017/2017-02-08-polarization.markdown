@@ -15,6 +15,8 @@ Resta and vanderbilt 논문을 보면, degeneracy point에서 wavefunction을 �
 
 [94-Resta-polarization-RMP.pdf]({{ site.baseurl }}/public/polarization/94-Resta-polarization-RMP.pdf)
 
+[다운 받아놓을것](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.95.137204)
+
 추후 연구를 위해서 논문을 스크랩해둔다.
 
 아주 유용한 논문은 [Ceresoli PRB (2006)]({{ site.baseurl }}/public/polarization/06-ceresoli-vanderbilt-orbital-magnetization-PRB.pdf) 논문이다. 이것을 인용한 논문을 정리하는 것도 의미있을듯.
