@@ -12,6 +12,15 @@ categories: magnetism
 L-G 라인으로 2fold degeneracy는 왜 일어났을까?
 그리고 이것과 Weyl point와의 관계는 무엇일까?
 
+[Emergent Topological Phenomena in Thin Films of Pyrochlore Iridates](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.112.246402) 이것도 한번 읽어보자.
+
+
+[Metal-Insulator Transition and Topological Properties of Pyrochlore Iridates](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.026404)
+
+
+[Phase Diagram of Pyrochlore Iridates: All-in–All-out Magnetic Ordering and Non-Fermi-Liquid Properties](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.156401)
+
+
 
 ---
 
