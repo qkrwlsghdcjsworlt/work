@@ -6,7 +6,12 @@ categories: magnetism
 
 ---
 
-2017/02/08 
+2017/02/13
+
+[DMFT 에 관한 유용한 tutorial 이 있어서 링크를 적어둔다.](http://www.physics.rutgers.edu/~haule/)
+
+
+2017/02/08
 
 [발표중 관련있어보여 노트를 첨부한다.]({{ site.baseurl }}/public/pyrochlore/pyrochlore_170208_go.pdf)
 L-G 라인으로 2fold degeneracy는 왜 일어났을까?
@@ -37,7 +42,7 @@ Morin 과 Schmidt 의 reference를 받았다.
 
 
 지금 higher-integer skyrmion 에 대해서 논문 리뷰 중 인데, 혹시 multipole interaction 이랑 관련이 있지 않을까하는 의문도 든다.
- 
+
 
 
 AIAO project 를 보면서, classical Monte Carlo 방벙으로 상전이를 연구하면 어떨까하는 생각이 들었다.
