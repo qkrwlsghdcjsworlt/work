@@ -8,7 +8,13 @@ categories: magnetism
 
 2017/02/13
 
-[DMFT 에 관한 유용한 tutorial 이 있어서 링크를 적어둔다.](http://www.physics.rutgers.edu/~haule/)
+[DMFT 에 관한 유용한 tutorial 이 있어서 링크를 적어둔다. Rutgers homepage](http://www.physics.rutgers.edu/~haule/)
+
+[github](https://github.com/Titan-C/learn-dmft)
+
+[Free energy from stationary implementation of the DFT+DMFT functional](https://arxiv.org/pdf/1501.06936.pdf)
+
+
 
 
 2017/02/08
