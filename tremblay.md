@@ -101,6 +101,37 @@ kwant compile이 안 되었는데,
 
 을 terminal 에 입력하면 된다.
 
+또는
+> `jupyter notebook`
+
+을 terminal 에 입력하면 된다.
+
+간단한 sin 함수를 그려보려면
+일단 먼저 package를 불러들이고
+
+>
+%pylab
+>
+%matplotlib
+>
+import matplotlib.pyplot as plt  
+import numpy as np  
+>
+t = np.arange(0.0, 2.0, 0.01)  
+s = np.sin(2\*np.pi\*t)  
+plt.plot(t, s)  
+>
+plt.xlabel(\'time (s)\')  
+plt.ylabel(\'voltage (mV)\')  
+plt.title(\'voltage (mV) vs. time (sec)\')   
+plt.grid(True)  
+plt.savefig(\"plot-voltage-vs.-time.png\")  
+plt.show()
+
+를 그냥 복사해서 실행시키면 된다.
+
+
+
 
 [KWANT](https://kwant-project.org/doc/1.0/tutorial/tutorial1) 인터넷 문서인데, 따라서 공부하면 아주 유익할 듯 하다.
 
