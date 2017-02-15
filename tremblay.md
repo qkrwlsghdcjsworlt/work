@@ -18,6 +18,10 @@ Monday May 30, 2016
 * Michel Côté, Introduction to DFT [PDF (2.8 MB)]({{ site.baseurl }}/public/tremblay/intro_dft.pdf)
 * Xavier Gonze, Abinit [PDF (8.2 MB)]({{ site.baseurl }}/public/tremblay/Sherbrooke_ABINIT_v5.pdf)
 
+--> ABINIT 
+[https://wiki.abinit.org/doku.php?id=compat:guis](https://wiki.abinit.org/doku.php?id=compat:guis) 를 참고해서 macport로 깔고있다.
+
+
 
 Tuesday May 31, 2016
 
