@@ -102,6 +102,7 @@ kwant compile이 안 되었는데,
 을 terminal 에 입력하면 된다.
 
 또는
+
 > `jupyter notebook`
 
 을 terminal 에 입력하면 된다.
