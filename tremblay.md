@@ -145,3 +145,10 @@ macport 의 모든 패키지를 삭제한후 openmpi-gcc 를 깔고
 openmp (libomp)는 사용하지 않는 방법으로 compile 성공함.
 
 자세한 make.inc 파일은 Boxsync 폴더에 있음.
+
+
+tutorial 을 찾았다.
+
+[HANDS-ON TUTORIAL OF QUANTUM ESPRESSO ~giannozz](http://www.fisica.uniud.it/~giannozz/QE-Tutorial/)
+
+[이거 보면서 하나하나 따라가보자.]({{ site.baseurl }}/public/tremblay/tutorial-QuantumESPRESSO.pdf)
