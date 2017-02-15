@@ -71,7 +71,7 @@ Feb. 2017
 
 [fRG]({{ site.baseurl }}/public/tremblay/fRG.pdf) fRG 찾다가 누군가의 졸업논문.
 
-
+[fRG 논문역시 찾았다.]({{ site.baseurl }}/public/tremblay/fRG-dotsystempaper.pdf)
 
 Sep., 2016
 
