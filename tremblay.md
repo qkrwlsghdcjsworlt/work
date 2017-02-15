@@ -6,7 +6,7 @@ title: tremblay
 May 30 to June 10, 2016
 Sherbrooke, Québec, Canada
 
-* Poster advertisement [PDF]({{ site.baseurl }}{{ site.baseurl }}/public/tremblay/Combines_1_pagers.pdf) 
+* Poster advertisement [PDF]({{ site.baseurl }}{{ site.baseurl }}/public/tremblay/Combines_1_pagers.pdf)
 
 Monday May 30, 2016
 
@@ -62,6 +62,12 @@ Thursday June 9, 2016
 -> To install the iTensor one should change the file [options.mk]({{ site.baseurl }}/public/iTensor/options.mk)
 
 -> iTensor 잘 작동한다. 다만, 연구실에 있는 iMac이랑 macbook 이랑 호환은 안 되는 거 같지만 iTensor main 폴더에서 make 를 실행하면 compile 잘 되는 것을 확인할 수 있다.
+
+
+Feb. 2017
+
+[http://www.issp.u-tokyo.ac.jp/public/CQCP/program.html](http://www.issp.u-tokyo.ac.jp/public/CQCP/program.html)  DMRG 찾다가 알게된 학회 홈페이지.
+
 
 
 Sep., 2016
