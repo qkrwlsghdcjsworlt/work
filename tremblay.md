@@ -69,6 +69,9 @@ Feb. 2017
 [http://www.issp.u-tokyo.ac.jp/public/CQCP/program.html](http://www.issp.u-tokyo.ac.jp/public/CQCP/program.html)  DMRG 찾다가 알게된 학회 홈페이지.
 
 
+[fRG]({{ site.baseurl }}/public/tremblay/fRG.pdf) fRG 찾다가 누군가의 졸업논문.
+
+
 
 Sep., 2016
 
