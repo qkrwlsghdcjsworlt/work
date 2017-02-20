@@ -3,6 +3,13 @@ layout: page
 title: iridates notes
 ---
 
+2017/02/20(월)
+
+mean-field self-consistent solution 구할때, 이것과 비슷한 결과를 주는 것이 에너지를 최소화하는 variational parameter m 를 찾는 것이다.
+이에 대한 [Fazekas 책에 나와있는 것을 scan 노트]({{site.baseurl}}/public/iridatesnotes/notes/mean-field-solution-alternative-method-170220.pdf)로 요약해두었다.
+
+
+
 2017/02/08(수)
 
 [Vanderbilit 와 King-Smith PRB 논문 "Electric polarization as a bulk quantity and its relation to surface charge"](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.48.4442)에서 hopping amplitude 가 bonding type 에 따라 결정됨을 보인 Harrison 의  논문을 찾았다. `93-Vanderbilt`
