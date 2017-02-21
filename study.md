@@ -34,6 +34,14 @@ R. Winkler
 
 g factor를 spin-orbital coupling gap으로 계산했다는 [논문](https://journals.aps.org/pr/abstract/10.1103/PhysRev.114.90)
 
+Spin lifetime
+---
+
+[PhysRevB.89.155402]({{ site.baseurl }}/public/etc/14-Sahin-spin-lifetime-PRB.pdf) Derivation of effective spin-orbit Hamiltonians and spin lifetimes with application to SrTiO3 heterostructures `14-Sahin` `spin lifetime`
+
+이 논문 보면서 spin lifetime 계산하는 법 익히는 중인데, 상당히 유용할 것으로 생각된다.
+계속 공부해보자.
+
 
 
 ---
