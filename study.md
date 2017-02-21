@@ -43,6 +43,15 @@ Spin lifetime
 계속 공부해보자.
 
 
+Renormalization Group
+---
+
+집에서는 Anderson의 Basic notion of condensed matter theory 책 보면서 Renormalization Group (RNG) 부분을 보고 있는데, phase transition 에 대해 Landau-Ginzburg 방식의 접근쪽을 보고 있다. 쉽게 이해가능하지만, 뒷부분을 좀 더 공부하면서 RNG 을 익히도록 하자.
+
+
+
+
+
 
 ---
 
