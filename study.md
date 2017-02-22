@@ -42,6 +42,11 @@ Spin lifetime
 이 논문 보면서 spin lifetime 계산하는 법 익히는 중인데, 상당히 유용할 것으로 생각된다.
 계속 공부해보자.
 
+spin orbit coupling 이 있는 effective Hamiltonian을 유도하고 있는데, two-fold degenerate 되어 있는 상태에 대한 Berry connection 에 대한 성질을 유도하는 과정
+
+[Berry connection]({{ site.baseurl }}/public/study/spin-lifetime/170222-Berry-connection-degenerate-states.pdf)
+
+
 
 Renormalization Group
 ---
