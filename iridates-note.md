@@ -3,6 +3,13 @@ layout: page
 title: iridates notes
 ---
 
+2017/02/23 (목)
+
+expectation value를 구할때 필요한 행렬공식. total energy 계산할 때 이것이 필요했었다.
+
+[expectation-value-total-energy-170223.pdf]({{site.baseurl}}/public/iridatesnotes/notes/expectation-value-total-energy-170223.pdf)
+
+
 2017/02/20(월)
 
 mean-field self-consistent solution 구할때, 이것과 비슷한 결과를 주는 것이 에너지를 최소화하는 variational parameter m 를 찾는 것이다.
