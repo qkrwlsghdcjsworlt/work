@@ -3,6 +3,17 @@ layout: page
 title: iridates notes
 ---
 
+
+2017/02/28 (화)
+
+인터넷 검색을 하다가 Tetrahedral crystal field splitting에 대한 ppt를 발견하여 첨부한다.
+요약은 Tetrahedral crystal field splitting은 octahedron과는 반대로 e_g 상태의 에너지가 아래로 가고, t_2g 상태가 높은 에너지를 같는다.
+
+[crystal field splitting in Tetrahedron]({{site.baseurl}}/public/iridatesnotes/Lec_note/Lecture_9.pdf)
+
+
+
+
 2017/02/23 (목)
 
 expectation value를 구할때 필요한 행렬공식. total energy 계산할 때 이것이 필요했었다.
