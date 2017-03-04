@@ -68,6 +68,12 @@ Thursday June 9, 2016
 
 -> iTensor 잘 작동한다. 다만, 연구실에 있는 iMac이랑 macbook 이랑 호환은 안 되는 거 같지만 iTensor main 폴더에서 make 를 실행하면 compile 잘 되는 것을 확인할 수 있다.
 
+__Mar. 2017__
+
+[Wikipedia 검색을 통해서 NRG source code 가 있는 site](https://en.wikipedia.org/wiki/Numerical_renormalization_group)를
+찾았다. 난징대학교의 연구원의 github를 찾았는데, 상당히 유용하다.
+Boxsync-project 폴더의 nanjing 에서 확인해보자.
+
 
 Feb. 2017
 
