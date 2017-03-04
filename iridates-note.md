@@ -3,6 +3,14 @@ layout: page
 title: iridates notes
 ---
 
+__2017/03/04 (토)__
+
+Stoner instability에 대해 한발짝 이해를 하게 되었다. 우선 이해는 [이 ppt]({{site.baseurl}}/public/susceptibility/stoner_instability.pdf)의 도움덕분이다.
+구체적인 argument를 정리하면 다음과 같다.
+
+>
+어떤 물질은 narrow band를 가지고 Fermi level에 large density of state를 갖는다. 이 Large density of state는 large Pauli susceptibility를 야기한다. 이 Pauli susceptibility가 커지면 자연스럽게 spin up, spin down band가 갈라지고 ferromagnetism이 나타난다. 이런 ferromagnetic exchange in metal 이 언제나 ferromagnetic order로 이어지진 않는다. 어떤 threshold를 넘어야한다. 그 threshold를 제시한 것이 Stoner criterion이다. total field는 (H + n_s M)꼴을 취하고 Pauli susceptibility 는 (H + n_s M) \chi_p = M 의 꼴을 갖는다. applied field에 대한 magnetization 의 반응은 \chi = M/H = \chi_p (H + n_s M)/H = \chi_p (1 + n_s \chi)이다. \chi (1 - n_s \chi_p) = \chi_p. 즉 \chi = \chi_p / (1 - n_s \chi_p). 즉 n_s \chi_p >1 인 조건에서 susceptibility가 diverge 한다
+
 
 2017/02/28 (화)
 
