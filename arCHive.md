@@ -20,7 +20,8 @@ title: arCHive
 [`Feb`]({{ site.baseurl }}/201702.html) &nbsp; &nbsp;
 [`Mar`]({{ site.baseurl }}/201703.html) &nbsp; &nbsp;
 [`Apr`]({{ site.baseurl }}/201704.html) &nbsp; &nbsp;
-[`May`]({{ site.baseurl }}/201705.html)
+[`May`]({{ site.baseurl }}/201705.html) &nbsp; &nbsp;
+[`Jun`]({{ site.baseurl }}/201706.html)
 
 
 ---
