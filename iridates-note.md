@@ -315,7 +315,7 @@ ty of a general model of copper oxide metals `97-Varma`
 >
 [LaMnO3 magnetic, orbital ordering]({{ site.baseurl }}/public/iridatesnotes/99-Feiner-magnetic-orbital-ordering-LMO-PRB.pdf) Electronic origin of magnetic and orbital ordering in insulating \\( \mathrm{LaMnO}_3\\) `99-Feiner`
 >
-[Metal insulator transition]({{ site.baseurl }}/public/iridatesnotes/98-Imada-Metal-insulator-transition-RMP.pdf) Metal-insulator transitions `98-Imada`
+[Metal insulator transition]Metal-insulator transitions `98-Imada`
 
 
 11/24
