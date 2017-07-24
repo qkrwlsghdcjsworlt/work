@@ -8,7 +8,7 @@ categories: conference
 
 ## X. Dai, Pseudo scalar phonons and chiral magnetic effect in Weyl semimetal
 
-[1609.05442](http://arxiv.org/abs/1609.05442) Detecting Chiral Magnetic Effect by Lattice Dynamics
+[1609.05442](http://arxiv.org/abs/1609.05442) Detecting Chiral Magnetic Effect by Lattice Dynamics `16-Song-Dai`
 
 main message : Chiral magnetic effect detected by Pseudo scalar phonons.
 
