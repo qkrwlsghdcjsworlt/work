@@ -1,0 +1,23 @@
+I"<p>apple script 로 firefox 열기</p>
+
+<blockquote>
+
+  <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>on run {input, parameters}
+
+tell application "Firefox"
+	
+	activate
+	open location "http://google.com/"
+end tell
+return input
+
+end run
+</code></pre></div>  </div>
+</blockquote>
+
+<p>다음 두개를 참고했음.</p>
+
+<p>http://macnews.tistory.com/537</p>
+
+<p>http://stackoverflow.com/questions/3645763/how-do-i-instruct-applescript-to-open-a-new-firefox-window-with-a-link</p>
+:ET

@@ -1,0 +1,46 @@
+I"�
+<p>17.01.11</p>
+
+<p><a href="http://www.nature.com/articles/ncomms13974">ncomms13974</a> 논문으로 부터 TaAs 에 tip을 가하면 초전도가 생긴다는 것을 리포트했고, 참고문헌에 <a href="http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.096801">PhysRevLett.116.096801</a> Hassan 그룹에서 Fermi arc 에 spin polarized 상태가 있다는 것을 찾았다.</p>
+
+<p>이 PRL 를 인용한 논문중에 모이스너 그룹에서 <a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.165146">PhysRevB.94.165146</a> <code class="highlighter-rouge">16-Lambert-QPI</code> 논문을 썼고, 이 논문의 reference 중에서 <a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.041109">PhysRevB.93.041109</a> Kourtis 가 Fermi arc 를 QPI 로 측정하는 논문을 썼다.</p>
+
+<h2 id="그리고-이논문의-참고-문헌-중에-산타바바라-그룹에서-쓴-physrevb68014508-03-capriotti-논문이-있는데-이논문이-아주-유용해-보인다">그리고 이논문의 참고 문헌 중에 산타바바라 그룹에서 쓴 <a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.68.014508">PhysRevB.68.014508</a> <code class="highlighter-rouge">03-Capriotti</code> 논문이 있는데, 이논문이 아주 유용해 보인다.</h2>
+
+<p>16.5.12</p>
+
+<p>STM measurement에서 metal tip일때의 신호와 SC tip일때의 신호차이는 어떤 의미를 가질까?</p>
+
+<p><code class="highlighter-rouge">SC-tip.pdf</code> 논문을 찾았다. /my_project/STM 에서 확인할것.</p>
+
+<p>이 생각의 시초는 예레나가 최근에 발표한 논문때문에 생각하게 되었다.</p>
+
+<p><code class="highlighter-rouge">simple-tight-binding-dIdV.pdf</code> 논문도 찾았다. 나중에 공부해보자.</p>
+
+<hr />
+
+<p>16.07.21</p>
+
+<p>QPI 역시 이것의 연장선상에서 생각할 수 있을 것이다.</p>
+
+<p>nature physics 에 게제된 QPI 논문을 읽어보았다.</p>
+
+<p>16-Torre-QPI-nphys.pdf</p>
+
+<p>conduction band의 d-wave 성격을 알 수 있다는 게 주요요지인거 같다.</p>
+
+<hr />
+
+<p>16.7.22</p>
+
+<p>홍종배 교수님께서 간단한 quantum dot 모델로 부터 STS 실험을 재생산하는데 성공하신 논문을 발표하셨다.
+quantum dot의 electron이 tip과 초전도체 entangled 되어있고, 여기에 대한 transport신호를 모델계산을 수행하셨다.</p>
+
+<p>한가지 재밌는 점은 bilayer graphene 에 대한 STS 실험결과를 모사하셨는데, gap 이 있는 듯한 data를 제시하셨다. 이 gap의 원인은 무엇일까?</p>
+
+<p>그러려면 bilayer graphene이 어떤 성질을 갖는지 부터 살펴봐야할 것이다.</p>
+
+<p>그러기 위해서 논문들을 찾아보았다.</p>
+
+<p>/my_project/STM 에 저장해보자.</p>
+:ET

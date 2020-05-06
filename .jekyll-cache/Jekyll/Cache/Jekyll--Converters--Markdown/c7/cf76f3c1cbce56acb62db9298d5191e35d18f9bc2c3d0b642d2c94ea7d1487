@@ -1,0 +1,27 @@
+I"<p>spin-chain FRG를 compile하는데 성공해서 project/FRG-spin-chain-master에 저장해둠.
+이 numerics를 작성한 사람은 C. Honerkamp의 제자인듯한데, spin-chain에 대해 FRG를 수행한 듯 하다. 이거라도 보면서 FRG가 무엇인지 익혀보도록하자.</p>
+
+<hr />
+
+<p>FRG 역시 오랜 목표중 하나인데, 자세한 설명과 인용논문이 있어서 링크를 걸어본다. <a href="http://www.asgard.ethz.ch/day/ws0001/chonerka.phtml">FRG</a> C. Honerkamp 가 이분야의 전문가인데, code파일은 공개하지 않았다. 하지만 이 웹페이지에서 알 수 있듯이 N-patch 방법으로 FRG를 하는 거 같다.</p>
+
+<hr />
+
+<p><a href="http://www.thp.uni-koeln.de/~strack/Philipps_homepage/Teaching.html">쾰른 대학교 Strack Group</a></p>
+
+<hr />
+
+<p><a href="http://www.staff.science.uu.nl/~mitch003/index.html">Dr. Andrew Mitchell</a></p>
+
+<p>Mitchell 홈페이지에 있는 NRG를 compile 하는데 성공함. 이역시 구 gfortran 버전을 씀으로써 무사히 compile 시킬수 있다.</p>
+
+<p>잘 compile 되는 폴더를 project/NRG_tutorial 에 옮겼다.</p>
+
+<hr />
+
+<p>FRG 가 dominant한 instability를 찾는데 최적의 방법이라면, 다음과 같은 논문은 어떨까?</p>
+
+<p><a href="http://journals.aps.org/prb/accepted/50073Y67W731cf4149a7339987a78712882e42cc1">Fulde-Ferrell-Larkin-Ovchinnikov pairing as leading instability on the square lattice
+Phys. Rev. B
+Jan Gukelberger, Sebastian Lienert, Evgeny Kozik, Lode Pollet, and Matthias Troyer</a></p>
+:ET

@@ -1,0 +1,8 @@
+I"ý<p>Inline formula using parens, \({x}^{2} {y}^{2}=1\), or with dollar signs, \({x}^{2} {y}^{2}=1\).</p>
+
+<p>Display with escaped brackets:</p>
+
+<p>\[ {e}^{i\pi } 333=0 \label{testme} \]</p>
+
+<p>\[{x}_{1,2}={-b \pm \sqrt{ {b}^{2} - 4ac } \over 2a}\]</p>
+:ET

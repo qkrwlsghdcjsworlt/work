@@ -1,0 +1,18 @@
+I"�<p>ctioga2를 설치했다. <a href="http://ctioga2.sourceforge.net/index.html">homepage</a></p>
+
+<p>새로운 스타일의 그림을 원할때 시도해보면 좋을 거 같다.</p>
+
+<p><a href="/public/ctioga2/ctioga.sh">기본적인 명령어는 다음과 같다.</a></p>
+
+<p>문제는 illustration으로 옮기고 나면, font 문제가 있는데, <a href="http://stackoverflow.com/questions/9992275/ggplot2-pdf-import-in-adobe-illustrator-missing-font-adobepistd">이것은 다음에서 찾아서 고쳤다.</a></p>
+
+<p>한마디로 /Library/Application \Support/Adobe/PDFL/10.9/Fonts/AdobePiStd.otf 여기에 있는 AdobePiStd.otf 파일을 /Library/Fonts/ 로 옮기면 되는 것이었다.</p>
+
+<p>그럼 궁금한게, mathematica 파일도 이런식으로 해결할 수 있을까?</p>
+
+<p>먼저 할 일은 illustration 의 font 폴더를 알아내는 것이다.</p>
+
+<p><a href="http://pages.uoregon.edu/noeckel/Illustrator.html">illustrator 와 mathematica latex의 문제를 해계하기위해 만들어진 웹페이지</a></p>
+
+<p><a href="http://pages.uoregon.edu/noeckel/MathematicaGraphics.html#OfficialFontSolution">덤으로 mathematica로 eps 내보낼때 유의점들</a></p>
+:ET

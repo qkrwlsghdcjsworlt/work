@@ -1,0 +1,175 @@
+I"�<p>May 30 to June 10, 2016
+Sherbrooke, Québec, Canada</p>
+
+<ul>
+  <li>Poster advertisement <a href="/public/tremblay/Combines_1_pagers.pdf">PDF</a></li>
+</ul>
+
+<p>Monday May 30, 2016</p>
+
+<ul>
+  <li>Claude Spino, Welcome <a href="/public/tremblay/WelcomeClaudeSpino.pdf">PDF</a></li>
+  <li>André-Marie Tremblay, Introduction <a href="/public/tremblay/1605_Introduction_to_the_school.pdf">PDF</a></li>
+  <li>André-Marie Tremblay, Lecture Notes <a href="/public/tremblay/N-corps-2014.pdf">PDF</a></li>
+  <li>André-Marie Tremblay, Hand-wrtitten Lecture Notes <a href="/public/tremblay/Handwritten_lecture_notes_on_Refresher_Many-Body_theory_Tremblay.pdf">PDF</a>
+  <a href="/public/tremblay/Handwritten-lecture-notes-on-Refresher-Many-Body-theory-Tremblay-updated.pdf">PDF (updated June 9, 2016)</a></li>
+  <li>Michel Côté, Introduction to DFT <a href="/public/tremblay/intro_dft.pdf">PDF (2.8 MB)</a></li>
+  <li>Xavier Gonze, Abinit <a href="/public/tremblay/Sherbrooke_ABINIT_v5.pdf">PDF (8.2 MB)</a></li>
+</ul>
+
+<p>–&gt; ABINIT
+<a href="https://wiki.abinit.org/doku.php?id=compat:guis">https://wiki.abinit.org/doku.php?id=compat:guis</a> 를 참고해서 macport로 깔았다. macport 가 진리인거 같다.</p>
+
+<p>Tuesday May 31, 2016</p>
+
+<ul>
+  <li>Ion Garate, Topological Materials <a href="/public/tremblay/garate_jouvence.pdf">PDF (20.6 MB)</a></li>
+</ul>
+
+<p>Wednesday June 1, 2016</p>
+
+<ul>
+  <li>David Sénéchal, DMFT and Quantum Cluster Methods <a href="/public/tremblay/2016-Ecole.pdf">PDF (6.2 MB)</a></li>
+</ul>
+
+<p>Thursday June 2, 2016</p>
+
+<ul>
+  <li>Olivier Parcollet, TRIQS <a href="/public/tremblay/TRIQSCanada.pdf">PDF (8.3 MB)</a></li>
+  <li>Jan Gukelberger, Introduction to Monte Carlo <a href="/public/tremblay/2016-06-MCIntro-Sherbrooke.pdf">PDF</a></li>
+  <li>Jan Gukelberger, Introduction to ALPS <a href="/public/tremblay/2016-06-ALPS-Sherbrooke.pdf">PDF</a> <a href="/public/tremblay/2016-06-ALPS_bilayer_example.zip">ALPS code zip file</a></li>
+</ul>
+
+<p>Friday June 3, 2016</p>
+
+<ul>
+  <li>Roger Melko, Quantum Monte Carlo <a href="/public/tremblay/QMC_Melko.pdf">PDF (2.9 MB)</a> <a href="/public/tremblay/Melko_SSEQMC.pdf">PDF (228 KB)</a></li>
+  <li>Adrian Del Maestro, Path integral Monte Carlo and worm algorithms <a href="https://github.com/agdelma/pimc-notes">GitHub repo</a></li>
+</ul>
+
+<p>Monday June 6, 2016</p>
+
+<ul>
+  <li>Fabien Bruneval, GW Method <a href="/public/tremblay/bruneval_sherbrooke_mbpt.pdf">PDF (3.2 MB)</a></li>
+  <li>Philipp Werner, Continuous-time Quantum Monte Carlo <a href="/public/tremblay/Werner-Hand-written.pdf">PDF (1.9 MB)</a></li>
+</ul>
+
+<p>Tuesday June 7, 2016</p>
+
+<ul>
+  <li>Gabriel Kotliar, Introduction to ab initio methods for correlated materials <a href="/public/tremblay/kotliar_chuck.pdf">Slides</a> <a href="/public/tremblay/kotliar-jouvence.pdf">Notes</a></li>
+  <li>Chuck-Hou Yee, WIEN2k Tutorial <a href="/public/tremblay/W2KJouvence2016.pdf">PDF (1.4 MB)</a></li>
+</ul>
+
+<p>Wednesday June 8, 2016</p>
+
+<ul>
+  <li>Kristjan Haule, Introduction to DMFT-LAPW <a href="/public/tremblay/Haule_Scherbrooke.pdf">PDF (34.2MB)</a></li>
+  <li>Dominic Bergeron, Omega Max Ent <a href="/public/tremblay/OmegaMaxEnt_intro.pdf">PDF (0.7MB)</a> \( ~~ \)  <a href="http://www.physique.usherbrooke.ca/MaxEnt/index.php/Main_Page">Website</a></li>
+</ul>
+
+<p>Thursday June 9, 2016</p>
+
+<ul>
+  <li>Ulrich Schollwock, Density-Matrix Renormalization Group <a href="/public/tremblay/0409292v1.pdf">(2005)</a> <a href="/public/tremblay/1008.3477.pdf">(2011)</a></li>
+  <li>Miles Stoudenmire, DMRG software and hands-on iTensor <a href="/public/tremblay/MPS_ITensor_Sherbrooke_2016.pdf">PDF (3.0MB)</a>
+-&gt; To install the iTensor one should change the file <a href="/public/iTensor/options.mk">options.mk</a></li>
+</ul>
+
+<p>-&gt; iTensor 잘 작동한다. 다만, 연구실에 있는 iMac이랑 macbook 이랑 호환은 안 되는 거 같지만 iTensor main 폴더에서 make 를 실행하면 compile 잘 되는 것을 확인할 수 있다.</p>
+
+<p><strong>Mar. 2017</strong></p>
+
+<p><a href="https://en.wikipedia.org/wiki/Numerical_renormalization_group">Wikipedia 검색을 통해서 NRG source code 가 있는 site</a>를
+찾았다. 난징대학교의 연구원의 github를 찾았는데, 상당히 유용하다.
+Boxsync-project 폴더의 nanjing 에서 확인해보자.</p>
+
+<p>Feb. 2017</p>
+
+<p><a href="http://www.issp.u-tokyo.ac.jp/public/CQCP/program.html">http://www.issp.u-tokyo.ac.jp/public/CQCP/program.html</a>  DMRG 찾다가 알게된 학회 홈페이지.</p>
+
+<p><a href="/public/tremblay/fRG.pdf">fRG</a> fRG 찾다가 누군가의 졸업논문.</p>
+
+<p><a href="/public/tremblay/fRG-dotsystempaper.pdf">fRG 논문역시 찾았다.</a></p>
+
+<p>Sep., 2016</p>
+
+<h3 id="my-study-on-kwant">My study on KWANT</h3>
+
+<p>kwant compile이 안 되었는데,
+~/.bash_profile 에 있는
+/Library/python/3.5~~~~ 이하 이걸 지우고</p>
+
+<blockquote>
+  <p><code class="highlighter-rouge">export LANG=en_US.UTF-8</code></p>
+
+  <p><code class="highlighter-rouge">export LC_ALL=en_US.UTF-8</code></p>
+</blockquote>
+
+<p>를 넣었더니 잘 작동한다.</p>
+
+<p><a href="https://github.com/matplotlib/matplotlib/issues/5919/">matplotlib issue</a> 에서 찾음.</p>
+
+<p>그리고</p>
+
+<p><a href="https://github.com/kwant-project/billiard/blob/master/billiard.ipynb">KWANT github</a>에 있는 tutorial를 따라가 보면 아주 유익하다.</p>
+
+<p>그리고 python을 mathematica 처럼 쓰고 싶으면</p>
+
+<blockquote>
+  <p><code class="highlighter-rouge">ipython notebook</code></p>
+</blockquote>
+
+<p>을 terminal 에 입력하면 된다.</p>
+
+<p>또는</p>
+
+<blockquote>
+  <p><code class="highlighter-rouge">jupyter notebook</code></p>
+</blockquote>
+
+<p>을 terminal 에 입력하면 된다.</p>
+
+<p>간단한 sin 함수를 그려보려면
+일단 먼저 package를 불러들이고</p>
+
+<blockquote>
+
+  <p>%pylab</p>
+
+  <p>%matplotlib</p>
+
+  <p>import matplotlib.pyplot as plt<br />
+import numpy as np</p>
+
+  <p>t = np.arange(0.0, 2.0, 0.01)<br />
+s = np.sin(2*np.pi*t)<br />
+plt.plot(t, s)</p>
+
+  <p>plt.xlabel('time (s)')<br />
+plt.ylabel('voltage (mV)')<br />
+plt.title('voltage (mV) vs. time (sec)') <br />
+plt.grid(True)<br />
+plt.savefig("plot-voltage-vs.-time.png")<br />
+plt.show()</p>
+</blockquote>
+
+<p>를 그냥 복사해서 실행시키면 된다.</p>
+
+<p><a href="https://kwant-project.org/doc/1.0/tutorial/tutorial1">KWANT</a> 인터넷 문서인데, 따라서 공부하면 아주 유익할 듯 하다.</p>
+
+<p>기본적인 <a href="https://kwant-project.org/">kwant</a> 홈페이지</p>
+
+<h3 id="my-study-on-quantum-espresso">My study on Quantum espresso</h3>
+
+<p>macport 의 모든 패키지를 삭제한후 openmpi-gcc 를 깔고
+openmp (libomp)는 사용하지 않는 방법으로 compile 성공함.</p>
+
+<p>자세한 make.inc 파일은 Boxsync 폴더에 있음.</p>
+
+<p>tutorial 을 찾았다.</p>
+
+<p><a href="http://www.fisica.uniud.it/~giannozz/QE-Tutorial/">HANDS-ON TUTORIAL OF QUANTUM ESPRESSO ~giannozz</a></p>
+
+<p><a href="/public/tremblay/tutorial-QuantumESPRESSO.pdf">이거 보면서 하나하나 따라가보자.</a></p>
+:ET

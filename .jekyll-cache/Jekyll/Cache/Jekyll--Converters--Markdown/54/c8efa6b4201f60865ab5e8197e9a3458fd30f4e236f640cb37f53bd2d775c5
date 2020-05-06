@@ -1,0 +1,21 @@
+I"�<h2 id="x-dai-pseudo-scalar-phonons-and-chiral-magnetic-effect-in-weyl-semimetal">X. Dai, Pseudo scalar phonons and chiral magnetic effect in Weyl semimetal</h2>
+
+<p><a href="http://arxiv.org/abs/1609.05442">1609.05442</a> Detecting Chiral Magnetic Effect by Lattice Dynamics <code class="highlighter-rouge">16-Song-Dai</code></p>
+
+<p>main message : Chiral magnetic effect detected by Pseudo scalar phonons.</p>
+
+<p>Topological semimetal : metal with vanishing Fermi surface. insulator with vanishing energy gap. band crossing at Fermi level.</p>
+
+<p>Semi-metals defined above can all described by topological invariance.</p>
+
+<p>Weyl, Dirac nodal line. Dirac metal</p>
+
+<p>Principal axis
+\( \hat{v} = \hat{L} \hat{\lambda} \hat{R} \)</p>
+
+<p>\( H = \sum_{\alpha, \beta = x,y,z}  v_{\alpha \beta} \sigma_{\alpha} k_{\beta} = \sum_i \lambda_i \overline{k}_i \overline{\sigma}_i \)</p>
+
+<p>Fermi arc 를 어떻게 이해할 수 있을까?
+Weyl point 가 있으면 Weyl point를 감싸는 cylindal를 생각할 수 있을 것이다. Weyl point 를 monopole 로 생각할 수 있으므로 cylindal 의 고정된 kz에 대해서 닫힌 원을 통과하는 flux는 winding number 가 정수를 가질 것이다. 이것이 chern number인데, 1을 가지면, -1 을 가지는 Weyl point 역시 pair를 이룬다. Weyl point 를 하나만 포함하면 감싸는 cylindal의 크기에 상관없이 chern number는 항상 고정된 정수를 갖는데, 두개의 Weyl point를 포함하는 순간 chern number 는 사라진다.</p>
+
+:ET

@@ -1,0 +1,25 @@
+I"<p>신용일 교수님의 Quantum simulation with cold atom 이라는 talk 을 들게되었다.</p>
+
+<p>dilute fermion gas 로 실험을 하는데, 밀도가</p>
+
+<p>n ~ \( 10^{11} \sim 10^{15} \) /c\( m^3 \) 되는 gas에 대해</p>
+
+<p>Fermi temperature 는</p>
+
+<p>\( T_F \sim 1 \mu K \sim 0.1 neV \sim 20 kHz\) 의 에너지 스케일을 갖는다.</p>
+
+<p>참고문헌을 정리해보자.</p>
+
+<p><a href="https://arxiv.org/abs/cond-mat/0610710">Scalapino</a> Numerical Studies of the 2D Hubbard Model <code class="highlighter-rouge">06-Scalapino</code></p>
+
+<p><a href="http://science.sciencemag.org/content/353/6305/1253">science.353.1253</a> Site-resolved measurement of the spin-correlation function in the Fermi-Hubbard model <code class="highlighter-rouge">16-Parsons</code></p>
+
+<p><a href="http://science.sciencemag.org/content/353/6305/1257">science.353.1257</a> Spin- and density-resolved microscopy of antiferromagnetic correlations in Fermi-Hubbard chains <code class="highlighter-rouge">16-Boll</code></p>
+
+<p><a href="http://science.sciencemag.org/content/353/6305/1260">science.353.1260</a> Observation of spatial charge and spin correlations in the 2D Fermi-Hubbard model <code class="highlighter-rouge">16-Cheuk</code></p>
+
+<p><a href="https://arxiv.org/abs/1612.08436">1612.08436</a> Experimental realization of a long-range antiferromagnet in the Hubbard model with
+ultracold atoms <code class="highlighter-rouge">16-Mazurenko</code></p>
+
+<p><a href="https://arxiv.org/abs/1612.07746">1612.07746</a> Observation of canted antiferromagnetism with ultracold fermions in an optical lattice <code class="highlighter-rouge">16-Brown</code></p>
+:ET

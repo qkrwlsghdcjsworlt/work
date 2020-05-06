@@ -1,0 +1,22 @@
+I"�<h3 id="이슈">이슈</h3>
+
+<p>STO위에 FeSe 쌓으면 Tc 가 10배 올라간다.</p>
+
+<p>STO는 dielectric 상수가 큰 물질이다. 그 이유는 potential의 기울기가 아주 약하다.</p>
+
+<h3 id="왜-t_c-가-올라가는가">왜 \(T_c\) 가 올라가는가</h3>
+
+<p>FeSe + STO 관련 논문의 이슈는 포논이 수직으로 진동할 것이냐? 수평으로 진동할것이냐이고, Dung-Hai Lee와 Fa Wang은 수직으로 진동한다고 했고, Patrick Lee 는 수평으로 진동한다고 함.</p>
+
+<h3 id="질문">질문</h3>
+
+<p>그럼 어떤 계산을 통해서 dielectric 상수를 구할 수 있을까?</p>
+
+<p>-&gt;<a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.86.125121">맥도날드 그룹</a>에서 다음과 같은 연구를 했다. 읽어보면 왜 dielectric constant가 큰 지 알 수 있을듯 하다.</p>
+
+<p><code class="highlighter-rouge">12-khalsa-AHMacDonald-t2g-2DEG-tight-binding-PRB.pdf</code> 논문이다.</p>
+
+<p>교수님께서 말씀하신 Levitov와 토론했다는 논문이 다음 논문이다.
+<a href="http://arxiv.org/abs/1605.01737">Superconductivity at very low density: the case of strontium titanate</a></p>
+
+:ET
