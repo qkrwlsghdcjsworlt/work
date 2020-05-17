@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Mayabi"
+date:   2020-05-17 10:00:00 +0900
+categories: python
+
+---
+
+mayabi 설치 방법
+
+```
+conda create -n mlab  
+conda activate mlab
+conda install -c anaconda mayavi
+conda install -c conda-forge pyvista "vtk=8.1.2" "libnetcdf=4.6.2"
+conda install scipy
+```
