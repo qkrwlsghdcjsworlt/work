@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "summary"
+date:   2020-05-28 10:00:00 +0900
+categories: life
+
+---
+
+
+하루 일과를 정리해본다.
