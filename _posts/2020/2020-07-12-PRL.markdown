@@ -7,4 +7,4 @@ categories: life
 ---
 
 
-![일기](/images/2020-07-12.png)
+![일기]({{site.baseurl}}/images/2020-07-12.png)
