@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "중고등학교의 추억"
+date:   2020-07-12 10:00:00 +0900
+categories: life
+
+---
+
+
+![일기](/images/2020-07-12.png)
