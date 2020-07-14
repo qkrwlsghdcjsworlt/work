@@ -8,3 +8,5 @@ categories: life
 
 
 ![일기]({{site.baseurl}}/images/2020-07-13.png)
+
+![일기]({{site.baseurl}}/images/2020-07-13-2.png)
