@@ -11,4 +11,8 @@ categories: life
 
 ![일기]({{site.baseurl}}/images/2020-07-17-2.png)
 
+관련 계산은 이 사이트에서 참고하여 reproduce 하자.
 
+[http://www.wanniertools.com/tutorials/Bi2Se3.html](http://www.wanniertools.com/tutorials/Bi2Se3.html)
+
+![일기]({{site.baseurl}}/images/2020-07-17-3.png)
