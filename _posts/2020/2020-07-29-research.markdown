@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "research"
+date:   2020-07-29 01:00:00 +0900
+categories: life
+
+---
+
+
+![일기]({{site.baseurl}}/images/2020-07-29.png)
+
+
+[Balents]({{site.baseurl}}/pdf/BalentsPRL-Mn3Sn.pdf)
+
+[JMoore]({{site.baseurl}}/pdf/JMoore-optical-arXiv.pdf)
+
+[YRan]({{site.baseurl}}/pdf/YRan.pdf)
