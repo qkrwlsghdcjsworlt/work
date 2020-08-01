@@ -1,5 +1,4 @@
-I"�
-<p>12/13</p>
+I"S<p>12/13</p>
 
 <p>김대정 박사님이 와서 현재 연구중인 물질에 대해서 토론을 나누었다.
 물질은 CeAuSb2 라는 heavy fermion 물질인데, tetragonal structure을 가졌다.
@@ -12,18 +11,18 @@
 
 <p>12/14</p>
 
-<p>일단 키워드 <code class="highlighter-rouge">tight-binding</code> 과 <code class="highlighter-rouge">magnetoresistance</code> 로 논문을 검색해보았다.
-다음 논문을 찾았다.<a href="/public/MR/08-Silva-tight-binding-magnetoresistance-PRB.pdf">PHYSICAL REVIEW B 78, 094428  (2008)</a> Simple tight-binding theory for magnetoresistance in perfect sandwiched structures <code class="highlighter-rouge">Portugal group</code></p>
+<p>일단 키워드 <code class="language-plaintext highlighter-rouge">tight-binding</code> 과 <code class="language-plaintext highlighter-rouge">magnetoresistance</code> 로 논문을 검색해보았다.
+다음 논문을 찾았다.<a href="/public/MR/08-Silva-tight-binding-magnetoresistance-PRB.pdf">PHYSICAL REVIEW B 78, 094428  (2008)</a> Simple tight-binding theory for magnetoresistance in perfect sandwiched structures <code class="language-plaintext highlighter-rouge">Portugal group</code></p>
 
-<p>그리고 쥬진 논문 토론 섹션에도 <a href="/public/etc/12-Zyuzin-Weyl-chiral-anomaly-PRB.pdf">PHYSICAL REVIEW B 86, 115133 (2012)</a> tight-binding 모델로 부터 J를 구하고, 이것이 자기장에 대한 함수임을 보이는 부분이 있다. <code class="highlighter-rouge">12-Zyuzin</code> <code class="highlighter-rouge">Burkov</code></p>
+<p>그리고 쥬진 논문 토론 섹션에도 <a href="/public/etc/12-Zyuzin-Weyl-chiral-anomaly-PRB.pdf">PHYSICAL REVIEW B 86, 115133 (2012)</a> tight-binding 모델로 부터 J를 구하고, 이것이 자기장에 대한 함수임을 보이는 부분이 있다. <code class="language-plaintext highlighter-rouge">12-Zyuzin</code> <code class="language-plaintext highlighter-rouge">Burkov</code></p>
 
-<p><a href="/public/MR/14-Burkov-diffusive-magnetotransport-PRL.pdf">PRL 113, 247203 (2014)</a> Chiral Anomaly and Diffusive Magnetotransport in Weyl Metals <code class="highlighter-rouge">14-Burkov</code> <code class="highlighter-rouge">PRL</code></p>
+<p><a href="/public/MR/14-Burkov-diffusive-magnetotransport-PRL.pdf">PRL 113, 247203 (2014)</a> Chiral Anomaly and Diffusive Magnetotransport in Weyl Metals <code class="language-plaintext highlighter-rouge">14-Burkov</code> <code class="language-plaintext highlighter-rouge">PRL</code></p>
 
 <p>MR은 아니지만, AHE 에 대한 논문도 일단 스크랩해두자.</p>
 
-<p><a href="/public/MR/14-Burkov-topological-response-FM-PRB.pdf">PHYSICAL REVIEW B 89, 155104 (2014)</a> Topological response in ferromagnets <code class="highlighter-rouge">14-Burkov</code></p>
+<p><a href="/public/MR/14-Burkov-topological-response-FM-PRB.pdf">PHYSICAL REVIEW B 89, 155104 (2014)</a> Topological response in ferromagnets <code class="language-plaintext highlighter-rouge">14-Burkov</code></p>
 
-<p><a href="/public/MR/13-Chen-Weyl-FM-PRB.pdf">PHYSICAL REVIEW B 88, 125110 (2013)</a> Weyl fermions and the anomalous Hall effect in metallic ferromagnets <code class="highlighter-rouge">13-Chen</code></p>
+<p><a href="/public/MR/13-Chen-Weyl-FM-PRB.pdf">PHYSICAL REVIEW B 88, 125110 (2013)</a> Weyl fermions and the anomalous Hall effect in metallic ferromagnets <code class="language-plaintext highlighter-rouge">13-Chen</code></p>
 
 <p>12/15</p>
 
