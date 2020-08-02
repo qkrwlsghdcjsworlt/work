@@ -16,3 +16,8 @@ QE-Wannier90-pythTB-wannierTool 로 이어지는 workflow 를 구축했다고 �
 
 
 [Gresch]({{site.baseurl}}/pdf/Gresch_TaAs2_NJP.pdf)
+
+
+그리고 wanniertools 에 iterative Green's function methods 를 통해서 surface 상태를 그릴 수 있다는 것을 알았다.
+
+[iterative Green's function methods]({{site.baseurl}}/pdf/sancho1985.pdf)
