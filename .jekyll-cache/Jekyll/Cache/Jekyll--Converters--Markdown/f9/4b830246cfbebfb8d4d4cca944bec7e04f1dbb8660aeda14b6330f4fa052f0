@@ -1,5 +1,5 @@
-I"�<p>요즘 orbital magnetization 에 대해 공부중인데, 예전의 Polarization 의 counterpart이다.
-Resta and vanderbilt 논문을 보면, degeneracy point에서 wavefunction을 다음과 같이 바꿔서 써야할 거 같다고 하면서 <code class="language-plaintext highlighter-rouge">94-Resta</code> 와 <code class="language-plaintext highlighter-rouge">93-King-Smith</code> 논문을 인용하지만, 살펴보면 제대로된 discussion은 없다. <code class="language-plaintext highlighter-rouge">07-Resta</code> 논문의 (27)식 아래를 볼 것.</p>
+I"�<p>요즘 orbital magnetization 에 대해 공부중인데, 예전의 Polarization 의 counterpart이다.
+Resta and vanderbilt 논문을 보면, degeneracy point에서 wavefunction을 다음과 같이 바꿔서 써야할 거 같다고 하면서 <code class="highlighter-rouge">94-Resta</code> 와 <code class="highlighter-rouge">93-King-Smith</code> 논문을 인용하지만, 살펴보면 제대로된 discussion은 없다. <code class="highlighter-rouge">07-Resta</code> 논문의 (27)식 아래를 볼 것.</p>
 
 <p><a href="/public/polarization/07-Resta-Vanderbilt-polariztion-PF.pdf">07-Resta-Vanderbilt-polariztion-PF.pdf</a></p>
 

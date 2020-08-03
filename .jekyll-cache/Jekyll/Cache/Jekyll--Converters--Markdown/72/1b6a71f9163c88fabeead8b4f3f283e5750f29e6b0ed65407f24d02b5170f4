@@ -1,4 +1,4 @@
-I"t<p><strong>2017/03/04 (토)</strong></p>
+I"Xr<p><strong>2017/03/04 (토)</strong></p>
 
 <p>Stoner instability에 대해 한발짝 이해를 하게 되었다. 우선 이해는 <a href="/public/susceptibility/stoner_instability.pdf">이 ppt</a>의 도움덕분이다.
 구체적인 argument를 정리하면 다음과 같다.</p>
@@ -28,11 +28,11 @@
 
 <p>2017/02/08(수)</p>
 
-<p><a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.48.4442">Vanderbilit 와 King-Smith PRB 논문 “Electric polarization as a bulk quantity and its relation to surface charge”</a>에서 hopping amplitude 가 bonding type 에 따라 결정됨을 보인 Harrison 의  논문을 찾았다. <code class="language-plaintext highlighter-rouge">93-Vanderbilt</code></p>
+<p><a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.48.4442">Vanderbilit 와 King-Smith PRB 논문 “Electric polarization as a bulk quantity and its relation to surface charge”</a>에서 hopping amplitude 가 bonding type 에 따라 결정됨을 보인 Harrison 의  논문을 찾았다. <code class="highlighter-rouge">93-Vanderbilt</code></p>
 
-<p>http://journals.aps.org/prb/pdf/10.1103/PhysRevB.27.3592 Theory of the two-center bond <code class="language-plaintext highlighter-rouge">83-Harrison</code></p>
+<p>http://journals.aps.org/prb/pdf/10.1103/PhysRevB.27.3592 Theory of the two-center bond <code class="highlighter-rouge">83-Harrison</code></p>
 
-<p>http://journals.aps.org/prb/pdf/10.1103/PhysRevB.24.5835  New tight-binding parameters for covalent solids obtained using Louie peripheral states <code class="language-plaintext highlighter-rouge">81-Harrison</code></p>
+<p>http://journals.aps.org/prb/pdf/10.1103/PhysRevB.24.5835  New tight-binding parameters for covalent solids obtained using Louie peripheral states <code class="highlighter-rouge">81-Harrison</code></p>
 
 <p>2017/01/21 (토)</p>
 
@@ -54,12 +54,12 @@
 Phys. Rev. B 88, 035111 – Published 9 July 2013</p>
 </blockquote>
 
-<p><a href="http://journals.aps.org/prb/pdf/10.1103/PhysRevB.86.220403">Magnetic structural change of Sr2IrO4 upon Mn doping</a> <code class="language-plaintext highlighter-rouge">Mn Doping</code></p>
+<p><a href="http://journals.aps.org/prb/pdf/10.1103/PhysRevB.86.220403">Magnetic structural change of Sr2IrO4 upon Mn doping</a> <code class="highlighter-rouge">Mn Doping</code></p>
 
 <p><a href="http://journals.aps.org/prb/pdf/10.1103/PhysRevB.92.155151">Noncollinear versus collinear description of the Ir-based one-t2g-hole perovskite-related
-compounds: SrIrO3 and Sr2IrO4</a> <code class="language-plaintext highlighter-rouge">collinear vs noncollinear</code></p>
+compounds: SrIrO3 and Sr2IrO4</a> <code class="highlighter-rouge">collinear vs noncollinear</code></p>
 
-<p><a href="http://journals.aps.org/prl/pdf/10.1103/PhysRevLett.115.176402">Collapse of the Mott Gap and Emergence of a Nodal Liquid in Lightly Doped Sr2IrO</a> <code class="language-plaintext highlighter-rouge">Collapse of Mott gap</code></p>
+<p><a href="http://journals.aps.org/prl/pdf/10.1103/PhysRevLett.115.176402">Collapse of the Mott Gap and Emergence of a Nodal Liquid in Lightly Doped Sr2IrO</a> <code class="highlighter-rouge">Collapse of Mott gap</code></p>
 
 <p><a href="http://journals.aps.org/prb/pdf/10.1103/PhysRevB.94.195145">Electron and hole doping in the relativistic Mott insulator Sr2IrO4:
 A first-principles study using band unfolding technique</a></p>
@@ -68,7 +68,7 @@ A first-principles study using band unfolding technique</a></p>
 
 <p><a href="http://journals.aps.org/prl/pdf/10.1103/PhysRevLett.112.147201">Tuning Magnetic Coupling in Sr2IrO4 Thin Films with Epitaxial Strain</a></p>
 
-<p><a href="http://journals.aps.org/prb/pdf/10.1103/PhysRevB.92.085141">Low-energy model and electron-hole doping asymmetry of single-layer Ruddlesden-Popper iridates</a> <code class="language-plaintext highlighter-rouge">Ba2IrO4</code></p>
+<p><a href="http://journals.aps.org/prb/pdf/10.1103/PhysRevB.92.085141">Low-energy model and electron-hole doping asymmetry of single-layer Ruddlesden-Popper iridates</a> <code class="highlighter-rouge">Ba2IrO4</code></p>
 
 <p><a href="http://journals.aps.org/prb/pdf/10.1103/PhysRevB.94.245113">Manipulation of electronic structure via alteration of local orbital environment
 in (SrIrO3)m,(SrTiO3)(m = 1, 2, and∞) superlattices</a></p>
@@ -80,16 +80,16 @@ with nontrivial Z2 index</a></p>
 with a Strong Spin-Orbit Coupling: Application to Doped Sr2IrO4</a></p>
 
 <p><a href="http://journals.aps.org/prb/pdf/10.1103/PhysRevB.89.165115">Theoretical study of insulating mechanism in multiorbital Hubbard models with a
-large spin-orbit coupling: Slater versus Mott scenario in Sr2IrO4</a> <code class="language-plaintext highlighter-rouge">VMC</code></p>
+large spin-orbit coupling: Slater versus Mott scenario in Sr2IrO4</a> <code class="highlighter-rouge">VMC</code></p>
 
-<p><a href="http://journals.aps.org/prb/pdf/10.1103/PhysRevB.88.125110">Weyl fermions and the anomalous Hall effect in metallic ferromagnets</a> <code class="language-plaintext highlighter-rouge">Burkov</code></p>
+<p><a href="http://journals.aps.org/prb/pdf/10.1103/PhysRevB.88.125110">Weyl fermions and the anomalous Hall effect in metallic ferromagnets</a> <code class="highlighter-rouge">Burkov</code></p>
 
 <p><a href="http://journals.jps.jp/doi/10.7566/JPSJ.83.053709">Interplay between Hund’s Coupling and Spin–Orbit Interaction on Elementary Excitations in Sr2IrO4</a></p>
 
 <p><a href="http://journals.aps.org/prb/pdf/10.1103/PhysRevB.95.024406">Magnetic properties of bilayer Sr3Ir2O7: Role of epitaxial strain and oxygen vacancies</a></p>
 
 <p><a href="http://www.nature.com/nmat/journal/vaop/ncurrent/pdf/nmat4836.pdf">A charge density wave-like instability in a doped
-spin–orbit-assisted weak Mott insulator</a> <code class="language-plaintext highlighter-rouge">A charge density wave-like instability</code></p>
+spin–orbit-assisted weak Mott insulator</a> <code class="highlighter-rouge">A charge density wave-like instability</code></p>
 
 <p>2017/01/19 (목)</p>
 
@@ -207,9 +207,9 @@ spin–orbit-assisted weak Mott insulator</a> <code class="language-plaintext hi
 
 <p>Tremblay 두개의 논문</p>
 
-<p><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.137001">PhysRevLett.117.137001</a> Correlation-Enhanced Odd-Parity Interorbital Singlet Pairing in the Iron-Pnictide Superconductor LiFeAs <code class="language-plaintext highlighter-rouge">16-Nourafkan-PRL</code></p>
+<p><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.137001">PhysRevLett.117.137001</a> Correlation-Enhanced Odd-Parity Interorbital Singlet Pairing in the Iron-Pnictide Superconductor LiFeAs <code class="highlighter-rouge">16-Nourafkan-PRL</code></p>
 
-<p><a href="https://arxiv.org/abs/1601.05813">1601.05813</a> Intrinsic anisotropy of spin and charge fluctuations and the nonsymmorphic space group of iron-based superconductors <code class="language-plaintext highlighter-rouge">16-Nourafkan-arXiv</code></p>
+<p><a href="https://arxiv.org/abs/1601.05813">1601.05813</a> Intrinsic anisotropy of spin and charge fluctuations and the nonsymmorphic space group of iron-based superconductors <code class="highlighter-rouge">16-Nourafkan-arXiv</code></p>
 
 <p>Tremblay 논문을 읽고</p>
 
@@ -267,7 +267,7 @@ spin–orbit-assisted weak Mott insulator</a> <code class="language-plaintext hi
 <p>11/10(목)</p>
 
 <p>mean-field 계산을 c++ 프로그램으로 돌릴려고 한다. 그전에 <a href="/public/iridatesnotes/mean-field-decoupling-2016Nov10.pdf">mean-field decoupling of Hubbard interaction</a>을 정리해 둘 필요가 있을 거 같다.
-논문은 여기서 <a href="/public/iridatesnotes/16-Lambert-QPI-pyrochlore-iridates-PRB.pdf"><code class="language-plaintext highlighter-rouge">16-Lambert</code></a> 참고했음. <code class="language-plaintext highlighter-rouge">13-Carter</code> 이것 역시.</p>
+논문은 여기서 <a href="/public/iridatesnotes/16-Lambert-QPI-pyrochlore-iridates-PRB.pdf"><code class="highlighter-rouge">16-Lambert</code></a> 참고했음. <code class="highlighter-rouge">13-Carter</code> 이것 역시.</p>
 
 <p>11/16(수)</p>
 
@@ -275,32 +275,32 @@ spin–orbit-assisted weak Mott insulator</a> <code class="language-plaintext hi
 
 <blockquote>
 
-  <p><a href="/public/iridatesnotes/89-Methfessel-high-precision-sampling-PRB.pdf">k space sampling</a> High-precision sampling for brillouin-zone integration in metals <code class="language-plaintext highlighter-rouge">89-Methfessel</code></p>
+  <p><a href="/public/iridatesnotes/89-Methfessel-high-precision-sampling-PRB.pdf">k space sampling</a> High-precision sampling for brillouin-zone integration in metals <code class="highlighter-rouge">89-Methfessel</code></p>
 
-  <p><a href="/public/iridatesnotes/51-Slater-magnetic-effects-HF-eq-PR.pdf">Slater MIT</a> Magnetic effects and the hartree-fock equation <code class="language-plaintext highlighter-rouge">51-Slater</code></p>
+  <p><a href="/public/iridatesnotes/51-Slater-magnetic-effects-HF-eq-PR.pdf">Slater MIT</a> Magnetic effects and the hartree-fock equation <code class="highlighter-rouge">51-Slater</code></p>
 
-  <p><a href="/public/iridatesnotes/85-Hirsch-2D-Hubbard-mean-field-PRB.pdf">mean-field, Hirsch</a> Two-dimensional hubbard model: Numerical simulation study. <code class="language-plaintext highlighter-rouge">85-Hirsch</code></p>
+  <p><a href="/public/iridatesnotes/85-Hirsch-2D-Hubbard-mean-field-PRB.pdf">mean-field, Hirsch</a> Two-dimensional hubbard model: Numerical simulation study. <code class="highlighter-rouge">85-Hirsch</code></p>
 
   <p><a href="/public/iridatesnotes/35-Stoner-PRSLSA.pdf">Stoner model</a> Collective electron specific heat and spin para
-magnetism in metals. <code class="language-plaintext highlighter-rouge">35-Stoner</code></p>
+magnetism in metals. <code class="highlighter-rouge">35-Stoner</code></p>
 
   <p><a href="/public/iridatesnotes/84-Lee-AFM-mean-field-theory-PRB.pdf">AFM mean-field</a>  Anti
-ferromagnetic classical XY model: A mean-field analysis <code class="language-plaintext highlighter-rouge">84-Lee</code></p>
+ferromagnetic classical XY model: A mean-field analysis <code class="highlighter-rouge">84-Lee</code></p>
 
-  <p><a href="/public/iridatesnotes/87-Lin-Hirsch-mean-field-PRB.pdf">mean-field, Lin Hirsch</a> <code class="language-plaintext highlighter-rouge">87-Lin</code></p>
+  <p><a href="/public/iridatesnotes/87-Lin-Hirsch-mean-field-PRB.pdf">mean-field, Lin Hirsch</a> <code class="highlighter-rouge">87-Lin</code></p>
 
   <p><a href="/public/iridatesnotes/02-Matteo-spin-1-effective-Hamiltonian-PRB.pdf">spin-1 three degenerate orbitals</a> Spin-1 effective hamiltonian with three degenerate orbitals: An application to the case of \( \mathrm{V}_2\mathrm{O}_3 \)</p>
 
-  <p><a href="/public/iridatesnotes/61-anderson-Localized-magnetic-states-in-metals-PR.pdf">Anderson</a> Localized magnetic states in metals <code class="language-plaintext highlighter-rouge">61-anderson</code></p>
+  <p><a href="/public/iridatesnotes/61-anderson-Localized-magnetic-states-in-metals-PR.pdf">Anderson</a> Localized magnetic states in metals <code class="highlighter-rouge">61-anderson</code></p>
 
-  <p><a href="/public/iridatesnotes/87-Emery-HTCS-oxides-PRL.pdf">HTCS Emery</a> Theory of high-Tc superconductivity in oxides <code class="language-plaintext highlighter-rouge">87-Emery</code></p>
+  <p><a href="/public/iridatesnotes/87-Emery-HTCS-oxides-PRL.pdf">HTCS Emery</a> Theory of high-Tc superconductivity in oxides <code class="highlighter-rouge">87-Emery</code></p>
 
   <p><a href="/public/iridatesnotes/97-Varma-non-Fermi-Liquid-states-pairing-instability-PRB.pdf">Varma pairing instability</a> Non-fermi-liquid states and pairing instabili
-ty of a general model of copper oxide metals <code class="language-plaintext highlighter-rouge">97-Varma</code></p>
+ty of a general model of copper oxide metals <code class="highlighter-rouge">97-Varma</code></p>
 
-  <p><a href="/public/iridatesnotes/99-Feiner-magnetic-orbital-ordering-LMO-PRB.pdf">LaMnO3 magnetic, orbital ordering</a> Electronic origin of magnetic and orbital ordering in insulating \( \mathrm{LaMnO}_3\) <code class="language-plaintext highlighter-rouge">99-Feiner</code></p>
+  <p><a href="/public/iridatesnotes/99-Feiner-magnetic-orbital-ordering-LMO-PRB.pdf">LaMnO3 magnetic, orbital ordering</a> Electronic origin of magnetic and orbital ordering in insulating \( \mathrm{LaMnO}_3\) <code class="highlighter-rouge">99-Feiner</code></p>
 
-  <p>[Metal insulator transition]Metal-insulator transitions <code class="language-plaintext highlighter-rouge">98-Imada</code></p>
+  <p>[Metal insulator transition]Metal-insulator transitions <code class="highlighter-rouge">98-Imada</code></p>
 </blockquote>
 
 <p>11/24</p>
@@ -356,7 +356,7 @@ ty of a general model of copper oxide metals <code class="language-plaintext hig
 <ol>
   <li>
     <p><a href="https://arxiv.org/abs/1612.07633">1612.07633</a> Unravelling incommensurate magnetism and the path to intrinsic topological
-superconductivity in iron-pnictides <code class="language-plaintext highlighter-rouge">16-Christensen</code></p>
+superconductivity in iron-pnictides <code class="highlighter-rouge">16-Christensen</code></p>
   </li>
   <li>
     <p>일본그룹 high-topological number 스커미온 논문</p>
@@ -385,9 +385,9 @@ superconductivity in iron-pnictides <code class="language-plaintext highlighter-
 <p>예전에 찾은 <a href="/public/thesis/thesis2.pdf">다른 사람의 졸업논문</a>에서 susceptibility의 다른 channel를 어떻게 계산할 수 있을 지 힌트를 얻을 수 있었다. 이논문의 introduction에 graphene에 in-plane magnetic field 가 걸리면 Fermi surface 의 density of state 가 vanishing 되지 않고, 유한한 값을 가지고 이러한 상태는 canted AFM 으로  instability 를 갖는다는 연구가 있다는 것이다.</p>
 
 <p>출발점으로 좋은 논문은 아마도 <a href="/public/susceptibility/0902.2922v2.pdf">Magnetic field induced semimetal-to-canted-antiferromagnet transition
-on the honeycomb lattice</a> <code class="language-plaintext highlighter-rouge">09-Bercx</code> 이다. introduction 을 읽어보면 이미 이런 논의가 mean-field level 에서 이루어졌다고 한다. 이논문은 quantum monte carlo 계산을 통해서 이것을 밝혔다는 것이다.</p>
+on the honeycomb lattice</a> <code class="highlighter-rouge">09-Bercx</code> 이다. introduction 을 읽어보면 이미 이런 논의가 mean-field level 에서 이루어졌다고 한다. 이논문은 quantum monte carlo 계산을 통해서 이것을 밝혔다는 것이다.</p>
 
-<p><a href="/public/susceptibility/0611251v1.pdf">continuum limit에서 이러한 in-plane magnetic field가 spontaneous symmetry breaking을 가능하게 한다는 것이 이미 지적되었다고 하는 논문</a> <code class="language-plaintext highlighter-rouge">06-Kharzeev</code> 역시 공부해야 될 것이다.</p>
+<p><a href="/public/susceptibility/0611251v1.pdf">continuum limit에서 이러한 in-plane magnetic field가 spontaneous symmetry breaking을 가능하게 한다는 것이 이미 지적되었다고 하는 논문</a> <code class="highlighter-rouge">06-Kharzeev</code> 역시 공부해야 될 것이다.</p>
 
 <p>mean-field level에서 가능하다고 하는 것이 다음 논문이다.
 [9] I. Milat, F. F. Assaad and M. Sigrist, Eur. Phys. J. B
@@ -396,7 +396,7 @@ on the honeycomb lattice</a> <code class="language-plaintext highlighter-rouge">
 Lett. 92, 026401 (2004).
 [11] N. M. R. Peres, M. A. N. Arau ́jo and D. Bozi, Phys. Rev. B 70, 195122 (2004).</p>
 
-<p><a href="https://arxiv.org/abs/cond-mat/0101306v4">Ghost excitonic insulator transition in layered graphite</a> <code class="language-plaintext highlighter-rouge">01-Khveshchenko</code> 이 중요한지는 모르겠는데, 인터넷 브라우저에 창이 열려있었다. -&gt; 이 논문에서 <a href="http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.61.2015">Haldane 논문</a>과 <a href="http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.53.2449">semenoff 논문</a>이 인용되었음을 알 수 있었다.</p>
+<p><a href="https://arxiv.org/abs/cond-mat/0101306v4">Ghost excitonic insulator transition in layered graphite</a> <code class="highlighter-rouge">01-Khveshchenko</code> 이 중요한지는 모르겠는데, 인터넷 브라우저에 창이 열려있었다. -&gt; 이 논문에서 <a href="http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.61.2015">Haldane 논문</a>과 <a href="http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.53.2449">semenoff 논문</a>이 인용되었음을 알 수 있었다.</p>
 
 <h2 id="다른-사람의-졸업논문으로부터-다른-channel-susceptibility를-어떻게-계산할-수-있을지-공부해보자"><a href="/public/thesis/thesis2.pdf">다른 사람의 졸업논문</a>으로부터 다른 channel susceptibility를 어떻게 계산할 수 있을지 공부해보자.</h2>
 
