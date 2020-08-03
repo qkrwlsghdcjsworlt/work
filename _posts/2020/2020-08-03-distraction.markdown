@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "KL instability"
-date:   2020-08-02 10:00:00 +0900
+title:  "Distraction"
+date:   2020-08-03 10:00:00 +0900
 categories: life
 
 ---
