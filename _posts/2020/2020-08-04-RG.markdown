@@ -8,3 +8,34 @@ categories: life
 
 
 ![일기]({{site.baseurl}}/images/2020-08-04.png)
+
+ordinary Kondo effect
+
+[P.W. Anderson(1970)]({{site.baseurl}}/pdf/anderson1970.pdf)
+
+[K.G.Wilson(1975)]({{site.baseurl}}/pdf/KGWilson1975.pdf)
+
+The Kondo interaction (lambda > 0) is relevant.
+
+
+multi-channel generalization - k channels of conduction electrons
+
+single channel 에서 strong coupling limit 에서 singlet 상태가 stable fixed point 가 되어서 screened moment 가 생긴다.
+
+two channel 이상의 multi-channel 에서는 strong coupling limit 이 unstable 하고 overscreening 이 생긴다.
+
+
+[Noziere and Blandin (1980)]({{site.baseurl}}/pdf/NoziereBlandin1980.pdf)
+
+
+Bethe Ansatz 를 이용한  계산 결과에 의하면 multi-channel 에서는 non-fermi liquid 상태에서 stable 한 fixed point 가 생긴다.
+
+[Andrei (1980)]({{site.baseurl}}/pdf/andrei1980.pdf)
+
+[Tsvelik Wiegmann (1984)]({{site.baseurl}}/pdf/Tsvelik-Wiegmann1984.pdf)
+
+
+
+conformal field theory 를 이용한 계산도 있다.
+
+[Affleck Ludwig 1991]({{site.baseurl}}/pdf/Affleck-Ludwig1991.pdf)
