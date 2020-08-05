@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Poor man's RG"
+date:   2020-08-05 10:00:00 +0900
+categories: RG
+
+---
+
+
+![일기]({{site.baseurl}}/images/2020-08-05.png)
+
+
+Dyson equation for the scattering matrix T
+
+T = V + V G_0 T
