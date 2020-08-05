@@ -13,3 +13,6 @@ categories: RG
 Dyson equation for the scattering matrix T
 
 T = V + V G_0 T
+
+
+다 계산한 것은 아니다. 매일매일 조금씩 나가가보자. 
