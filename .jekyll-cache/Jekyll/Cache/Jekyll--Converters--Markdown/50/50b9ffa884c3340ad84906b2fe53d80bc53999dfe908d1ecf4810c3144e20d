@@ -1,0 +1,41 @@
+I"6
+<p><a href="/work/public/study/QM/Particle-in-a-box1.pdf">particle in a box 1</a></p>
+
+<p><a href="/work/public/study/QM/Particle-in-a-box2.pdf">particle in a box 2</a></p>
+
+<p><a href="/work/public/study/QM/Particle-in-a-box3-continuity-equation.pdf">particle in a box 3 continuity equation</a></p>
+
+<p><a href="/work/public/study/QM/quantum-physics-2nd-eisbergresnick.pdf">논문 검색하다 찾은 책</a></p>
+
+<p>numerical 하게 문제를 풀었는데, 경계조건을 대입해야될 거 같음. <a href="/work/public/study/QM/boundary-condition.pdf">다음을 참고해 보자.</a></p>
+
+<p><a href="/work/public/study/QM/ScriptTroyer.pdf">M. Troyer의 간결한 강의노트</a></p>
+
+<p>뭔가 이 <a href="/work/public/study/QM/schrodinger.pdf">노트</a>와 <a href="http://www.physics.usyd.edu.au/teach_res/mp/quantum/">웹사이트</a>에 정답이 있을 거 같다.</p>
+
+<h2 id="적분">적분</h2>
+<p>3차원에 대한 적분은 다음과 같이 하면 될 것이다.<a href="/work/public/study/integral/3D-integral.pdf">3D integral scan</a></p>
+
+<h2 id="r-winkler">R. Winkler</h2>
+
+<p>g factor를 spin-orbital coupling gap으로 계산했다는 <a href="https://journals.aps.org/pr/abstract/10.1103/PhysRev.114.90">논문</a></p>
+
+<h2 id="spin-lifetime">Spin lifetime</h2>
+
+<p><a href="/work/public/etc/14-Sahin-spin-lifetime-PRB.pdf">PhysRevB.89.155402</a> Derivation of effective spin-orbit Hamiltonians and spin lifetimes with application to SrTiO3 heterostructures <code class="language-plaintext highlighter-rouge">14-Sahin</code> <code class="language-plaintext highlighter-rouge">spin lifetime</code></p>
+
+<p>이 논문 보면서 spin lifetime 계산하는 법 익히는 중인데, 상당히 유용할 것으로 생각된다.
+계속 공부해보자.</p>
+
+<p>spin orbit coupling 이 있는 effective Hamiltonian을 유도하고 있는데, two-fold degenerate 되어 있는 상태에 대한 Berry connection 에 대한 성질을 유도하는 과정</p>
+
+<p><a href="/work/public/study/spin-lifetime/170222-Berry-connection-degenerate-states.pdf">Berry connection</a></p>
+
+<h2 id="renormalization-group">Renormalization Group</h2>
+
+<p>집에서는 Anderson의 Basic notion of condensed matter theory 책 보면서 Renormalization Group (RNG) 부분을 보고 있는데, phase transition 에 대해 Landau-Ginzburg 방식의 접근쪽을 보고 있다. 쉽게 이해가능하지만, 뒷부분을 좀 더 공부하면서 RNG 을 익히도록 하자.</p>
+
+<hr />
+
+<h4 id="home---links--highly-cited-papers"><a href="/work">Home</a> - <a href="/work/Links.html">Links</a> -highly cited papers</h4>
+:ET

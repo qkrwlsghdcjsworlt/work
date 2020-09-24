@@ -1,0 +1,39 @@
+I"4
+<p>2017/02/13</p>
+
+<p><a href="http://www.physics.rutgers.edu/~haule/">DMFT 에 관한 유용한 tutorial 이 있어서 링크를 적어둔다. Rutgers homepage</a></p>
+
+<p><a href="https://github.com/Titan-C/learn-dmft">github</a></p>
+
+<p><a href="https://arxiv.org/pdf/1501.06936.pdf">Free energy from stationary implementation of the DFT+DMFT functional</a></p>
+
+<p>2017/02/08</p>
+
+<p><a href="/work/public/pyrochlore/pyrochlore_170208_go.pdf">발표중 관련있어보여 노트를 첨부한다.</a>
+L-G 라인으로 2fold degeneracy는 왜 일어났을까?
+그리고 이것과 Weyl point와의 관계는 무엇일까?</p>
+
+<p><a href="http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.112.246402">Emergent Topological Phenomena in Thin Films of Pyrochlore Iridates</a> 이것도 한번 읽어보자.</p>
+
+<p><a href="http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.026404">Metal-Insulator Transition and Topological Properties of Pyrochlore Iridates</a></p>
+
+<p><a href="http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.156401">Phase Diagram of Pyrochlore Iridates: All-in–All-out Magnetic Ordering and Non-Fermi-Liquid Properties</a></p>
+
+<p><a href="http://journals.aps.org/prx/abstract/10.1103/PhysRevX.4.021035">Metallic Interface Emerging at Magnetic Domain Wall of Antiferromagnetic Insulator: Fate of Extinct Weyl Electrons</a></p>
+
+<hr />
+
+<p>회의중 quadrupole interaction 이 나왔고,
+Morin 과 Schmidt 의 reference를 받았다.</p>
+
+<p>구글 검색해서 나온 논문하나를 달아놓아본다.
+<a href="/work/public/etc/80-Morin-quadrupolar-interaction-PRB.pdf">multipole interaction</a> Parastriction: A new probe for quadrupolar interactions in rare-earth compounds</p>
+
+<p>지금 higher-integer skyrmion 에 대해서 논문 리뷰 중 인데, 혹시 multipole interaction 이랑 관련이 있지 않을까하는 의문도 든다.</p>
+
+<p>AIAO project 를 보면서, classical Monte Carlo 방벙으로 상전이를 연구하면 어떨까하는 생각이 들었다.</p>
+
+<p>Pyrochlore 격자에서 classical 스핀에 대해classical Monte Carlo 계산을 살펴보던중 다음과 같은 논문을 찾았다.</p>
+
+<p><a href="http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.93.167204">PhysRevLett.93.167204</a> Dipolar Spin Correlations in Classical Pyrochlore Magnets <code class="language-plaintext highlighter-rouge">04-Isakov</code> <code class="language-plaintext highlighter-rouge">Moessner</code> <code class="language-plaintext highlighter-rouge">Sondhi</code> <code class="language-plaintext highlighter-rouge">dipolar</code></p>
+:ET

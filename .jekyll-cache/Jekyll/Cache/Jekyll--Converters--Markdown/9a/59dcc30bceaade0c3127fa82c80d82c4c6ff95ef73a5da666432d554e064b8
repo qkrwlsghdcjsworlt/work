@@ -1,0 +1,43 @@
+I"�<p>요즘 orbital magnetization 에 대해 공부중인데, 예전의 Polarization 의 counterpart이다.
+Resta and vanderbilt 논문을 보면, degeneracy point에서 wavefunction을 다음과 같이 바꿔서 써야할 거 같다고 하면서 <code class="language-plaintext highlighter-rouge">94-Resta</code> 와 <code class="language-plaintext highlighter-rouge">93-King-Smith</code> 논문을 인용하지만, 살펴보면 제대로된 discussion은 없다. <code class="language-plaintext highlighter-rouge">07-Resta</code> 논문의 (27)식 아래를 볼 것.</p>
+
+<p><a href="/work/public/polarization/07-Resta-Vanderbilt-polariztion-PF.pdf">07-Resta-Vanderbilt-polariztion-PF.pdf</a></p>
+
+<p><a href="/work/public/polarization/93-King-Smith-polarization-PRB.pdf">93-King-Smith-polarization-PRB.pdf</a></p>
+
+<p><a href="/work/public/polarization/94-Resta-polarization-RMP.pdf">94-Resta-polarization-RMP.pdf</a></p>
+
+<p><a href="http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.95.137204">다운 받아놓을것</a></p>
+
+<p>추후 연구를 위해서 논문을 스크랩해둔다.</p>
+
+<p>아주 유용한 논문은 <a href="/work/public/polarization/06-ceresoli-vanderbilt-orbital-magnetization-PRB.pdf">Ceresoli PRB (2006)</a> 논문이다. 이것을 인용한 논문을 정리하는 것도 의미있을듯.</p>
+
+<p><a href="http://journals.aps.org/prb/pdf/10.1103/PhysRevB.88.045301">Quarter-filled Kitaev-Hubbard model: A quantum Hall state in an optical lattice, S. Hassan PRB (2013)</a></p>
+
+<p><a href="http://theory.iphy.ac.cn/English/paper/PhysRevB.86.214415.pdf">Theory of orbital magnetization in disordered systems Zhu PRB (2012)</a></p>
+
+<p><a href="http://aip.scitation.org/doi/full/10.1063/1.2930875">Orbital magnetization of graphene and graphene nanoribbons, Liu, JAP (2008)</a></p>
+
+<p><a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.85.014435">Wannier-based calculation of the orbital magnetization in crystals Lopez, PRB (2012)</a></p>
+
+<p><a href="http://journals.aps.org/prb/pdf/10.1103/PhysRevB.94.205302">Spin-resolved orbital magnetization in Rashba two-dimensional electron gas, Dyrdal PRB (2016)</a></p>
+
+<p><a href="http://journals.aps.org/prb/pdf/10.1103/PhysRevB.90.125132">Orbital magnetization of correlated electrons with arbitrary band topology Nourafkan PRB (2014)</a></p>
+
+<p><a href="http://journals.aps.org/prb/pdf/10.1103/PhysRevB.84.205137">Unified formalism for calculating polarization, magnetization, and more in a periodic insulator Chen PRB (2011)</a></p>
+
+<p><a href="http://journals.aps.org/prb/pdf/10.1103/PhysRevB.91.085120">Orbital magnetism in coupled-bands models Raoux PRB (2015)</a></p>
+
+<p><a href="http://journals.aps.org/prb/pdf/10.1103/PhysRevB.94.134423">Geometric orbital susceptibility: Quantum metric without Berry curvature Piechon PRB (2016)</a></p>
+
+<p><a href="http://iopscience.iop.org/article/10.1088/0953-8984/22/12/123201/pdf">Electrical polarization and orbital
+magnetization: the modern theories JPC (2010)</a></p>
+
+<p><a href="http://journals.aps.org/prb/pdf/10.1103/PhysRevB.94.121114">Role of Berry phase theory for describing orbital magnetism: From magnetic heterostructures
+to topological orbital ferromagnets Hanke PRB (2016)</a></p>
+
+<p><a href="http://journals.jps.jp/doi/pdf/10.7566/JPSJ.84.124708">Orbital Magnetism of Bloch Electrons I. General Formula Ogata JPSJ(2015)</a></p>
+
+<p><a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.84.035301">Berry phase of nonideal Dirac fermions in topological insulators Taskin, PRB (2011)</a></p>
+:ET
