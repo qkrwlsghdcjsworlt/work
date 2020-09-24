@@ -8,6 +8,7 @@ CATEGORIES: LIFE
 
 
 
+#####  2020/09/24
 
 
 MgB2 film 을 magnetic substrate 에 올릴 수 있다면, edge 에만 magnetic moments 를 둘 수 있을까?
