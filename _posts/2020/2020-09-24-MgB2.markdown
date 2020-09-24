@@ -1,0 +1,16 @@
+---
+LAYOUT: POST
+TITLE:   "MgB2"
+DATE:   2020-09-24  10:00:00 +0900
+CATEGORIES: LIFE
+
+---
+
+
+
+
+
+MgB2 film 을 magnetic substrate 에 올릴 수 있다면, edge 에만 magnetic moments 를 둘 수 있을까?
+갑자기 어떤 영향이 있을지 궁금해졌다. 
+
+
