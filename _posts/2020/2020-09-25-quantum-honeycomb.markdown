@@ -11,6 +11,6 @@ CATEGORIES: LIFE
 #####  2020/09/25
 
 
-python 2.7 의 문제가 아니라 icloud 폴더에 깔아서 그런듯하다. icloud 폴더는 비정상적인 경로가 있기 때문이다.
+다시 python 2.7 의 문제라고 생각된다. quantum-honeycomb 의 버튼이 클릭되지 않는다.
 
 
