@@ -11,6 +11,6 @@ CATEGORIES: LIFE
 #####  2020/09/25
 
 
-라도의 quantum honeycomb 을 설치하고 있는데 아마도 이게 python 2.7 과 연관있는게 아닐까?
+python 2.7 로 하면 일단 quantum-honeycomb 실행파일이 작동하지 않는다.
 
 
