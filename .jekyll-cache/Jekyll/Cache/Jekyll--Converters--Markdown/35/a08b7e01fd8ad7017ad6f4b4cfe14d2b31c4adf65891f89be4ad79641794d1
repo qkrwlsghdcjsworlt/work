@@ -1,5 +1,4 @@
-I"4
-<p>2017/02/13</p>
+I"�	<p>2017/02/13</p>
 
 <p><a href="http://www.physics.rutgers.edu/~haule/">DMFT 에 관한 유용한 tutorial 이 있어서 링크를 적어둔다. Rutgers homepage</a></p>
 
@@ -35,5 +34,5 @@ Morin 과 Schmidt 의 reference를 받았다.</p>
 
 <p>Pyrochlore 격자에서 classical 스핀에 대해classical Monte Carlo 계산을 살펴보던중 다음과 같은 논문을 찾았다.</p>
 
-<p><a href="http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.93.167204">PhysRevLett.93.167204</a> Dipolar Spin Correlations in Classical Pyrochlore Magnets <code class="language-plaintext highlighter-rouge">04-Isakov</code> <code class="language-plaintext highlighter-rouge">Moessner</code> <code class="language-plaintext highlighter-rouge">Sondhi</code> <code class="language-plaintext highlighter-rouge">dipolar</code></p>
+<p><a href="http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.93.167204">PhysRevLett.93.167204</a> Dipolar Spin Correlations in Classical Pyrochlore Magnets <code class="highlighter-rouge">04-Isakov</code> <code class="highlighter-rouge">Moessner</code> <code class="highlighter-rouge">Sondhi</code> <code class="highlighter-rouge">dipolar</code></p>
 :ET

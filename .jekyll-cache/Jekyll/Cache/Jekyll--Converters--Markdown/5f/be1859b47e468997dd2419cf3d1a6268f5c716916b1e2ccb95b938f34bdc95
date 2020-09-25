@@ -1,11 +1,10 @@
-I"
-<p>\( \textrm{WSe}_2 \) 관련 두개의 논문을 찾았다</p>
+I"�	<p>\( \textrm{WSe}_2 \) 관련 두개의 논문을 찾았다</p>
 
-<p><a href="http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.196802">PhysRevLett.108.196802</a> Coupled Spin and Valley Physics in Monolayers of MoS2 and Other Group-VI Dichalcogenides <code class="language-plaintext highlighter-rouge">12-Xiao</code></p>
+<p><a href="http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.196802">PhysRevLett.108.196802</a> Coupled Spin and Valley Physics in Monolayers of MoS2 and Other Group-VI Dichalcogenides <code class="highlighter-rouge">12-Xiao</code></p>
 
-<p><a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.88.085433">PhysRevB.88.085433</a> Three-band tight-binding model for monolayers of group-VIB transition metal dichalcogenides <code class="language-plaintext highlighter-rouge">13-Liu</code></p>
+<p><a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.88.085433">PhysRevB.88.085433</a> Three-band tight-binding model for monolayers of group-VIB transition metal dichalcogenides <code class="highlighter-rouge">13-Liu</code></p>
 
-<p><code class="language-plaintext highlighter-rouge">12-Xiao</code> Coupled Spin and Valley Physics in Monolayers of MoS2 and Other Group-VI Dichalcoenides PRL 논문을 읽고 나서 요약함.</p>
+<p><code class="highlighter-rouge">12-Xiao</code> Coupled Spin and Valley Physics in Monolayers of MoS2 and Other Group-VI Dichalcoenides PRL 논문을 읽고 나서 요약함.</p>
 
 <ul>
   <li>
@@ -22,16 +21,16 @@
 
 <h3 id="band-structure">band structure</h3>
 
-<p><a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.8.3719">PhysRevB.8.3719</a> Band Structures of Transition-Metal-Dichalcogenide Layer Compounds <code class="language-plaintext highlighter-rouge">73-Mattheiss</code></p>
+<p><a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.8.3719">PhysRevB.8.3719</a> Band Structures of Transition-Metal-Dichalcogenide Layer Compounds <code class="highlighter-rouge">73-Mattheiss</code></p>
 
 <h3 id="staggered-potential-in-graphene">staggered potential in graphene</h3>
-<p><a href="http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.99.236809">PhysRevLett.99.236809</a> Valley-Contrasting Physics in Graphene: Magnetic Moment and Topological Transport <code class="language-plaintext highlighter-rouge">07-Xiao</code></p>
+<p><a href="http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.99.236809">PhysRevLett.99.236809</a> Valley-Contrasting Physics in Graphene: Magnetic Moment and Topological Transport <code class="highlighter-rouge">07-Xiao</code></p>
 
-<p><a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.77.235406">PhysRevB.77.235406</a> Valley-dependent optoelectronics from inversion symmetry breaking <code class="language-plaintext highlighter-rouge">08-Yao</code></p>
+<p><a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.77.235406">PhysRevB.77.235406</a> Valley-dependent optoelectronics from inversion symmetry breaking <code class="highlighter-rouge">08-Yao</code></p>
 
 <p>10/25 (화)</p>
 
-<p>압박이 느껴져서 <a href="http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.196802">PhysRevLett.108.196802</a> <code class="language-plaintext highlighter-rouge">12-Xiao</code> 이 논문의 tight-binding 으로 부터 <a href="/work/public/spin-valley/Berry_curvature-25OCT2016.pdf">Berry curvature을 유도해보았다.</a></p>
+<p>압박이 느껴져서 <a href="http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.196802">PhysRevLett.108.196802</a> <code class="highlighter-rouge">12-Xiao</code> 이 논문의 tight-binding 으로 부터 <a href="/work/public/spin-valley/Berry_curvature-25OCT2016.pdf">Berry curvature을 유도해보았다.</a></p>
 
 <p>다음에는 OAM을 구할 차례이다.</p>
 :ET
