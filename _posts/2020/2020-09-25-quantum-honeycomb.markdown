@@ -11,6 +11,6 @@ CATEGORIES: LIFE
 #####  2020/09/25
 
 
-python 2.7 로 하면 일단 quantum-honeycomb 실행파일이 작동하지 않는다.
+python 2.7 의 문제가 아니라 icloud 폴더에 깔아서 그런듯하다. icloud 폴더는 비정상적인 경로가 있기 때문이다.
 
 
