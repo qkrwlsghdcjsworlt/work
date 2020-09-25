@@ -1,0 +1,20 @@
+---
+LAYOUT: POST
+TITLE:   "super DMZ"
+DATE:   2020-09-25  10:00:00 +0900
+CATEGORIES: LIFE
+
+---
+
+
+
+#####  2020/09/25
+
+
+공유기에 super DMZ 설정했는데 mac address 에 15인치 맥북의 mac address 를 넣으니
+마치 공유기의 global ip가 맥북에 지정이 됨.
+
+이러면 외부에서 접속할 때 바로 15인치 맥북으로 접속할 수 있게 된다. 오늘 연구실에서 설정을 마치고
+집에 가서 anydesk 로 접속할 수 있는지 확인해보아야한다.
+
+
