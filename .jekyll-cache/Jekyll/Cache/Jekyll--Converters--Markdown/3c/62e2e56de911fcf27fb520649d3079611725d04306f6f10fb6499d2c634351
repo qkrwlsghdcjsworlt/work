@@ -1,21 +1,20 @@
-I"�
-<p>17.01.11</p>
+I"'<p>17.01.11</p>
 
 <p><a href="http://www.nature.com/articles/ncomms13974">ncomms13974</a> 논문으로 부터 TaAs 에 tip을 가하면 초전도가 생긴다는 것을 리포트했고, 참고문헌에 <a href="http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.096801">PhysRevLett.116.096801</a> Hassan 그룹에서 Fermi arc 에 spin polarized 상태가 있다는 것을 찾았다.</p>
 
-<p>이 PRL 를 인용한 논문중에 모이스너 그룹에서 <a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.165146">PhysRevB.94.165146</a> <code class="highlighter-rouge">16-Lambert-QPI</code> 논문을 썼고, 이 논문의 reference 중에서 <a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.041109">PhysRevB.93.041109</a> Kourtis 가 Fermi arc 를 QPI 로 측정하는 논문을 썼다.</p>
+<p>이 PRL 를 인용한 논문중에 모이스너 그룹에서 <a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.165146">PhysRevB.94.165146</a> <code class="language-plaintext highlighter-rouge">16-Lambert-QPI</code> 논문을 썼고, 이 논문의 reference 중에서 <a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.041109">PhysRevB.93.041109</a> Kourtis 가 Fermi arc 를 QPI 로 측정하는 논문을 썼다.</p>
 
-<h2 id="그리고-이논문의-참고-문헌-중에-산타바바라-그룹에서-쓴-physrevb68014508-03-capriotti-논문이-있는데-이논문이-아주-유용해-보인다">그리고 이논문의 참고 문헌 중에 산타바바라 그룹에서 쓴 <a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.68.014508">PhysRevB.68.014508</a> <code class="highlighter-rouge">03-Capriotti</code> 논문이 있는데, 이논문이 아주 유용해 보인다.</h2>
+<h2 id="그리고-이논문의-참고-문헌-중에-산타바바라-그룹에서-쓴-physrevb68014508-03-capriotti-논문이-있는데-이논문이-아주-유용해-보인다">그리고 이논문의 참고 문헌 중에 산타바바라 그룹에서 쓴 <a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.68.014508">PhysRevB.68.014508</a> <code class="language-plaintext highlighter-rouge">03-Capriotti</code> 논문이 있는데, 이논문이 아주 유용해 보인다.</h2>
 
 <p>16.5.12</p>
 
 <p>STM measurement에서 metal tip일때의 신호와 SC tip일때의 신호차이는 어떤 의미를 가질까?</p>
 
-<p><code class="highlighter-rouge">SC-tip.pdf</code> 논문을 찾았다. /my_project/STM 에서 확인할것.</p>
+<p><code class="language-plaintext highlighter-rouge">SC-tip.pdf</code> 논문을 찾았다. /my_project/STM 에서 확인할것.</p>
 
 <p>이 생각의 시초는 예레나가 최근에 발표한 논문때문에 생각하게 되었다.</p>
 
-<p><code class="highlighter-rouge">simple-tight-binding-dIdV.pdf</code> 논문도 찾았다. 나중에 공부해보자.</p>
+<p><code class="language-plaintext highlighter-rouge">simple-tight-binding-dIdV.pdf</code> 논문도 찾았다. 나중에 공부해보자.</p>
 
 <hr />
 

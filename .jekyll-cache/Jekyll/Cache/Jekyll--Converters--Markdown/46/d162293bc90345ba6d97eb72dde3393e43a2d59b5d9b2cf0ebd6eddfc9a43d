@@ -1,4 +1,4 @@
-I"<p>Single particle Schrodinger equation 에서 Green function으로 문제를 어떻게 풀지 살펴본다.</p>
+I"<p>Single particle Schrodinger equation 에서 Green function으로 문제를 어떻게 풀지 살펴본다.</p>
 
 <p>interaction이 있는 문제에서 Green’s function 은 아주 중요한 역할을 한다. interaction 이 없는 single particle Schrodinger 방정식, 즉 편미분방정식을 풀때 쓰는 “simple” Green’s function 과 유사하지만, 상호작용을 고려할 시 좀 더 복잡해지는 것은 당연하다.</p>
 
@@ -12,7 +12,7 @@
 
 <p>\[ ( H(r) - E ) G(r, r’, E) = - \delta (r - r’) \]</p>
 
-<p>이렇게 정의된 Green 함수 역시 원래 해와 같은 경계조건을 만족한다. \( \psi (r) \) 과 \( G(r, r’, E) \) 는 같은 경계조건을 만족하고, 같은 식이지만, 한가지 다른점은 \( r’ \) 에 추가적인 <code class="highlighter-rouge">source</code> 가 있다는 것이다. 이 추가적인 자유도가 불편한 것이 아니라 Green 함수를 매우 유용하게 해 준다.</p>
+<p>이렇게 정의된 Green 함수 역시 원래 해와 같은 경계조건을 만족한다. \( \psi (r) \) 과 \( G(r, r’, E) \) 는 같은 경계조건을 만족하고, 같은 식이지만, 한가지 다른점은 \( r’ \) 에 추가적인 <code class="language-plaintext highlighter-rouge">source</code> 가 있다는 것이다. 이 추가적인 자유도가 불편한 것이 아니라 Green 함수를 매우 유용하게 해 준다.</p>
 
 <p>예를 들어 <a href="https://en.wikipedia.org/wiki/Helmholtz_equation">Helmholtz 방정식</a>을 고려해보자.</p>
 
