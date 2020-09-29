@@ -1,4 +1,4 @@
-I"�*<p>Iridates 에 대해서 연구하고 있다.</p>
+I"w)<p>Iridates 에 대해서 연구하고 있다.</p>
 
 <p>일단, compound 화학 구조부터 이해해 보자.</p>
 
@@ -24,7 +24,7 @@
 
 <p>DM 상호작용이 가능하다면 skyrmion phase가 가능하지 않을까 하는 생각에 연구를 진행하려고 하는데, 무엇이 걸림돌일까? 일단 Nature material 에서 metallic phase를 연구한 논문을 링크해본다.
 <a href="http://www.nature.com/nmat/journal/v12/n8/abs/nmat3653.html">web</a>
-<code class="language-plaintext highlighter-rouge">skyrmion phase에 대한 논의는 없다.</code> 하지만 Ir327 를 Mott transition transition point 라는 관점에서 좋은 논의를 함.
+<code class="highlighter-rouge">skyrmion phase에 대한 논의는 없다.</code> 하지만 Ir327 를 Mott transition transition point 라는 관점에서 좋은 논의를 함.
 여기에서 Ru 327에 대한 논문을 발견 <a href="http://www.nature.com/nphys/journal/v5/n11/full/nphys1397.html">web</a>.</p>
 
 <p>Ir 214 의 Neel temperature 는?
@@ -42,8 +42,8 @@
 <a href="file:///Users/parkjinhong/Dropbox/2-study/my_project/nonsymmorphic_SM/ref_/Iridates/magnetic/12-JKim-RIX-PRL.pdf">JKim (2012)</a></p>
 
 <p>왜 spin 구조가 4 layer 주기성을 보이냐가 질문인데, 12-Jkim-RIXS-PRL.pdf 논문으로부터 과거 연구결과를 읽어보았다. 
-먼저 2D perovskite 구조가 차곡차곡 쌓여있는게 아니라, alternative하게 쌓여있다는 것은 예전부터 알려졌던 사실이다. <code class="language-plaintext highlighter-rouge">94-Crawford-214-Iridates-rotation-Octahedron-PRB.pdf</code> 그림을 자세히 보면 알겠지만, A, B, sublattice가 z축을 따라서 번갈아가면서 stack 되고, site가 비어있는 곳에 다른 layer가 있기 때문에 z축에 대하여 4주기로 crystal structure가 있게 된다.
-여기에 더해 <code class="language-plaintext highlighter-rouge">09-BJKim-science</code> 에서  antiferromagnetic spin 방향을 정해주었다.</p>
+먼저 2D perovskite 구조가 차곡차곡 쌓여있는게 아니라, alternative하게 쌓여있다는 것은 예전부터 알려졌던 사실이다. <code class="highlighter-rouge">94-Crawford-214-Iridates-rotation-Octahedron-PRB.pdf</code> 그림을 자세히 보면 알겠지만, A, B, sublattice가 z축을 따라서 번갈아가면서 stack 되고, site가 비어있는 곳에 다른 layer가 있기 때문에 z축에 대하여 4주기로 crystal structure가 있게 된다.
+여기에 더해 <code class="highlighter-rouge">09-BJKim-science</code> 에서  antiferromagnetic spin 방향을 정해주었다.</p>
 
 <p><del>결정이 alternative하게 정렬된것과, antiferromagnetic 정렬되었다는 사실로 부터 주기 4인 J_eff=1/2 structure을 유추할 수 있다.</del></p>
 
@@ -57,7 +57,7 @@
 
 <p>Introduction part 에 lattice distortion 을 고려했다고는 하지만, band doubling 얘기를 명시하지 않았다. 그래서 band doubling 은 고려하지 않은 것으로 보임.</p>
 
-<p><code class="language-plaintext highlighter-rouge">13-Watanabe-VMC</code> Yunoki group 에서 사용한 \( t_{2g} \) orbital 의 atomic angular moment convention:</p>
+<p><code class="highlighter-rouge">13-Watanabe-VMC</code> Yunoki group 에서 사용한 \( t_{2g} \) orbital 의 atomic angular moment convention:</p>
 
 <p>\[
 |d_{zx} \rangle = {i \over \sqrt{2}} \left( |2~ \bar{1} \rangle - |2~ 1 \rangle \right), \]
@@ -69,8 +69,8 @@
 \[ L^{-} | l ~ m \rangle = \sqrt{l(l+1) - (m-1)m }|l ~ m-1 \rangle  \]
 \[ L^{z} | l ~ m \rangle = m|l ~ m \rangle  \]</p>
 
-<p><code class="language-plaintext highlighter-rouge">09-Fa</code>,<code class="language-plaintext highlighter-rouge">2d iridate</code>, <code class="language-plaintext highlighter-rouge">나의 졸업논문</code> 에 나온 \( J_{\textrm{eff}} = 1/2 \) 표현식은 같은 것이다.
-<code class="language-plaintext highlighter-rouge">09-Fa</code> 표현식을 적어보면, \( |J_{\textrm{eff}}=1/2 \rangle = {1 \over \sqrt{3}} (i |xy \uparrow \rangle - |zx \downarrow \rangle + i|yz \downarrow \rangle ) \), \( |J_{\textrm{eff}}=-1/2 \rangle = {1 \over \sqrt{3}} (-i |xy \downarrow \rangle + |zx \uparrow \rangle + i|yz \uparrow \rangle ).\)</p>
+<p><code class="highlighter-rouge">09-Fa</code>,<code class="highlighter-rouge">2d iridate</code>, <code class="highlighter-rouge">나의 졸업논문</code> 에 나온 \( J_{\textrm{eff}} = 1/2 \) 표현식은 같은 것이다.
+<code class="highlighter-rouge">09-Fa</code> 표현식을 적어보면, \( |J_{\textrm{eff}}=1/2 \rangle = {1 \over \sqrt{3}} (i |xy \uparrow \rangle - |zx \downarrow \rangle + i|yz \downarrow \rangle ) \), \( |J_{\textrm{eff}}=-1/2 \rangle = {1 \over \sqrt{3}} (-i |xy \downarrow \rangle + |zx \uparrow \rangle + i|yz \uparrow \rangle ).\)</p>
 
 <p>같은 sublattice 안에서 hopping term 은 (1,1) 방향으로 향하는 hopping인데 next nearest neighbor 간의 hopping이라고 할 수 있다. 이 항은 (A, B) sublattice matrix element의 대각성분을 차지한다.</p>
 
@@ -100,7 +100,7 @@
 
 <p>Quasiparticle 이슈</p>
 
-<p><code class="language-plaintext highlighter-rouge">16-Gretarsson-two-magnon-PRL</code>
+<p><code class="highlighter-rouge">16-Gretarsson-two-magnon-PRL</code>
 를 읽고 이슈를 정리해본다.</p>
 
 <p>J=1/2와 nonsymmorphic 연계해서 이론을 정리했는데, J=3/2 와 nonsymmorphic 과 연계해서 이론을 정리할 수 있을까? -&gt; 그냥 내 생각</p>
@@ -114,25 +114,25 @@
 
 <p>Sharp asymmetry feature is due to \( B_{2g} \) Raman mode which is associated with two-magnon scattering process.</p>
 
-<p><code class="language-plaintext highlighter-rouge">16-Liu-anisotropic-softening-PRB</code></p>
+<p><code class="highlighter-rouge">16-Liu-anisotropic-softening-PRB</code></p>
 
 <p>이논문의 요지는 doping을 하면 nodal magnon excitation 부분은 softening해지지만, antinodal magnon excitation 영역은 영향이 없다는 것이다.</p>
 
-<p><code class="language-plaintext highlighter-rouge">16-Plotnikova-Jahn-Teller-SOC-PRL</code></p>
+<p><code class="highlighter-rouge">16-Plotnikova-Jahn-Teller-SOC-PRL</code></p>
 
 <p>이 논문의 요지는 강한 Spin-orbit interaction으로 인해 J_eff = 1/2 상태는 거의 영향을 받지 않지만, 
 J_eff =3/2 상태는 Jahn-Teller distortion에 의해 영향을 받게 되고 이 exciton을 고려하면, magnon excitation이 없는 quasiparticle exciation을 생각할 수 있다는 것이 주요 요지이다.</p>
 
-<p><code class="language-plaintext highlighter-rouge">14-Kim-fermi-arc-iridates-science</code></p>
+<p><code class="highlighter-rouge">14-Kim-fermi-arc-iridates-science</code></p>
 
 <p>K(potasium) surface doping을 통해서 Fermi arc를 관측했다는 논문이다.</p>
 
-<p><code class="language-plaintext highlighter-rouge">15-Kim-d-wave-gap-iridates-nphys</code></p>
+<p><code class="highlighter-rouge">15-Kim-d-wave-gap-iridates-nphys</code></p>
 
 <p>d-wave symmetry charge gap을 발견했다는 논문. Fermi-arc의 발견과 더불어 cuprate와의 비슷한점이 점점 많아지고 있다는 리포트.
 d-wave symmetry의 origin에 대해서는 아직 모른다고 함.</p>
 
-<p><code class="language-plaintext highlighter-rouge">15-Yan-d-wave-gap-STM-PRX</code></p>
+<p><code class="highlighter-rouge">15-Yan-d-wave-gap-STM-PRX</code></p>
 
 <p>Deng-Lai Feng 그룹에서도 d-wave symmetry gap의 증거를 찾았다는 논문. Sharp V-shaped dI/dV signal 은 d-wave nodal point로 부터 기인하는 것이다.
 이 실험 역시 surface electron doping을 수행함. 여기서 Iridate214가 impurity에 민감하다는 표현이 나온다.</p>
