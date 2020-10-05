@@ -16,6 +16,7 @@ title: Home
   <div class="post">
     <ul class="post-list">
     {% for post in site.posts %}
+    <!-- year month -->
     {% unless post.next %}
         <h2 class="post-date-title">{{ post.date | date: '%Y %m' }}</h2>
     {% else %}
@@ -25,7 +26,9 @@ title: Home
         <h2 class="post-date-title">{{ post.date | date: '%Y %m' }}</h2> 
       {% endif %}
     {% endunless %}
-	
+	<br>
+	<!-- year month -->
+	<!-- date -->
     {% unless post.next %}
         <h2 class="post-date">{{ post.date | date: '%m %-d' }}</h2>
     {% else %}
@@ -35,7 +38,7 @@ title: Home
         <h2 class="post-date">{{ post.date | date: '%m %-d' }}</h2> 
       {% endif %}
     {% endunless %}
-	
+	<!-- date -->	
       <lu>
         <h3>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
