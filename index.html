@@ -29,12 +29,12 @@ title: Home
 	<!-- year month -->
 	<!-- date -->
    {% unless post.next %}
-        <span class="post-date">{{ post.date | date: '%m %-d' }}</span>
+         {{ post.date | date: '%m %-d' }}
     {% else %}
       {% capture year %}{{ post.date | date: '%m %-d' }}{% endcapture %}
       {% capture nyear %}{{ post.next.date | date: '%m %-d' }}{% endcapture %}
       {% if year != nyear %}
-        <span class="post-date">{{ post.date | date: '%m %-d' }}</span> 
+         {{ post.date | date: '%m %-d' }}
       {% endif %}
     {% endunless %} 
 	<!-- date -->	
