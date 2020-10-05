@@ -14,5 +14,8 @@ CATEGORIES: LIFE
 openCV 라는 것을 알게 되었는데, computer vision library 라고 한다. 상당히 유용할 거 같아서 메모해둔다. 
 
 
+[이 사이트다](https://www.pyimagesearch.com/2014/01/20/basic-image-manipulations-in-python-and-opencv-resizing-scaling-rotating-and-cropping/)
+
+
 
 
