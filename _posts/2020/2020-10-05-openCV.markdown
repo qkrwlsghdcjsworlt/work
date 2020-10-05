@@ -1,0 +1,18 @@
+---
+LAYOUT: POST
+TITLE:   "openCV"
+DATE:   2020-10-05 18:30:00 +0900
+CATEGORIES: LIFE
+
+---
+
+
+
+#####  2020/10/05(월)
+
+
+openCV 라는 것을 알게 되었는데, computer vision library 라고 한다. 상당히 유용할 거 같아서 메모해둔다. 
+
+
+
+
