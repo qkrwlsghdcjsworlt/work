@@ -18,5 +18,10 @@ disorder potentials 에 의한 초전도의 phase fluctuation 과 amplitude flua
 arXiv:2009.12640
 
 
+논문을 풍부하게 만드려는 MacDonald 의 전략은 아주 간다하다. E_F 와 external magnetic fields 에 대해서 DOS 를 그려보는 것이다. 이것은 아주 예쁜 그림으로 나오는데, 이 계산을 좀 배워야겠다. 
+
+그리고 Appendix로 여러물질을 비교해 놓았는데, 일반론을 얘기하고 물질들을 비교한 것도 하나의 배울점이다. 
+
+
 
 
