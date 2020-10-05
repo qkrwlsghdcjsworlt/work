@@ -17,14 +17,25 @@ title: Home
     <ul class="post-list">
     {% for post in site.posts %}
     {% unless post.next %}
-        <h2 class="post-date-title">{{ post.date | date: '%Y %m %-d' }}</h2>
+        <h2 class="post-date-title">{{ post.date | date: '%Y %m' }}</h2>
     {% else %}
-      {% capture year %}{{ post.date | date: '%Y %m %-d' }}{% endcapture %}
-      {% capture nyear %}{{ post.next.date | date: '%Y %m %-d' }}{% endcapture %}
+      {% capture year %}{{ post.date | date: '%Y %m' }}{% endcapture %}
+      {% capture nyear %}{{ post.next.date | date: '%Y %m' }}{% endcapture %}
       {% if year != nyear %}
-        <h2 class="post-date-title">{{ post.date | date: '%Y %m %-d' }}</h2> 
+        <h2 class="post-date-title">{{ post.date | date: '%Y %m' }}</h2> 
       {% endif %}
     {% endunless %}
+	
+    {% unless post.next %}
+        <h2 class="post-date">{{ post.date | date: '%m %-d' }}</h2>
+    {% else %}
+      {% capture year %}{{ post.date | date: '%m %-d' }}{% endcapture %}
+      {% capture nyear %}{{ post.next.date | date: '%m %-d' }}{% endcapture %}
+      {% if year != nyear %}
+        <h2 class="post-date">{{ post.date | date: '%m %-d' }}</h2> 
+      {% endif %}
+    {% endunless %}
+	
       <lu>
         <h3>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
