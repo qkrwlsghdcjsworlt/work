@@ -28,15 +28,15 @@ title: Home
     {% endunless %}
 	<!-- year month -->
 	<!-- date -->
-  <!--  {% unless post.next %}
-        <h3 class="post-date">{{ post.date | date: '%m %-d' }}</h3>
+   {% unless post.next %}
+        <span class="post-date">{{ post.date | date: '%m %-d' }}</span>
     {% else %}
       {% capture year %}{{ post.date | date: '%m %-d' }}{% endcapture %}
       {% capture nyear %}{{ post.next.date | date: '%m %-d' }}{% endcapture %}
       {% if year != nyear %}
-        <h3 class="post-date">{{ post.date | date: '%m %-d' }}</h3> 
+        <span class="post-date">{{ post.date | date: '%m %-d' }}</span> 
       {% endif %}
-    {% endunless %} -->
+    {% endunless %} 
 	<!-- date -->	
 	  
       <lu>
