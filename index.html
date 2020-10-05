@@ -31,9 +31,9 @@ title: Home
    {% unless post.next %}
          {{ post.date | date: '%m %-d' }}
     {% else %}
-      {% capture year %}{{ post.date | date: '%m %-d' }}{% endcapture %}
-      {% capture nyear %}{{ post.next.date | date: '%m %-d' }}{% endcapture %}
-      {% if year != nyear %}
+      {% capture date %}{{ post.date | date: '%m %-d' }}{% endcapture %}
+      {% capture ndate %}{{ post.next.date | date: '%m %-d' }}{% endcapture %}
+      {% if date != ndate %}
          {{ post.date | date: '%m %-d' }}
       {% endif %}
     {% endunless %} 
