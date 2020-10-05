@@ -29,6 +29,7 @@ unit cell 에 두개의 atom 이 있으면 honeycomb lattice
 unit cell 에 3개의 atom 이 있으면 어떤 격자일까? 하는 것이다. 
 ---> kagome lattice 이다. 
 
+![triangular]({{site.baseurl}}/images/triangluar.jpeg)
 
 
 ====
