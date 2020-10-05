@@ -25,9 +25,10 @@ title: Home
       {% capture nyear %}{{ post.next.date | date: '%Y %m' }}{% endcapture %}
       {% if year != nyear %}
         <h2 class="post-date-title">{{ post.date | date: '%Y %m' }}</h2> 
-      {% endif %}
+      	<br><br>
+	  {% endif %}
     {% endunless %}
-	<br><br>
+
 	<!-- year month -->
 	<!-- date -->
    {% unless post.next %}
