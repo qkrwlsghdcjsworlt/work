@@ -27,15 +27,16 @@ title: Home
         <h2 class="post-date-title">{{ post.date | date: '%Y %m' }}</h2> 
       {% endif %}
     {% endunless %}
+	<br><br>
 	<!-- year month -->
 	<!-- date -->
    {% unless post.next %}
-         {{ post.date | date: '%m %-d' }}
+        --- {{ post.date | date: '%m %-d' }} ---
     {% else %}
       {% capture date %}{{ post.date | date: '%m %-d' }}{% endcapture %}
       {% capture ndate %}{{ post.next.date | date: '%m %-d' }}{% endcapture %}
       {% if date != ndate %}
-         {{ post.date | date: '%m %-d' }}
+      ---   {{ post.date | date: '%m %-d' }}---
       {% endif %}
     {% endunless %} 
 	<!-- date -->	
