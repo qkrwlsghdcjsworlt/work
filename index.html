@@ -30,12 +30,12 @@ title: Home
 	<!-- year month -->
 	<!-- date -->
     {% unless post.next %}
-        <h2 class="post-date">{{ post.date | date: '%m %-d' }}</h2>
+        <h3 class="post-date">{{ post.date | date: '%m %-d' }}</h3>
     {% else %}
       {% capture year %}{{ post.date | date: '%m %-d' }}{% endcapture %}
       {% capture nyear %}{{ post.next.date | date: '%m %-d' }}{% endcapture %}
       {% if year != nyear %}
-        <h2 class="post-date">{{ post.date | date: '%m %-d' }}</h2> 
+        <h3 class="post-date">{{ post.date | date: '%m %-d' }}</h3> 
       {% endif %}
     {% endunless %}
 	<!-- date -->	
@@ -44,6 +44,7 @@ title: Home
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
            </h3> <span class = "post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
       </lu>
+	  <br>
     {% endfor %}
   </ul>
   </div>
