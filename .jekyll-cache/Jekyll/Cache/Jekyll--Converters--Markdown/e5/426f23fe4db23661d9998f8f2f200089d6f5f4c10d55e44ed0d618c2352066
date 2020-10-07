@@ -1,118 +1,118 @@
-I"k2<p><a href="/work/public/manchon/BW12823.pdf">PRB 로부터 Manchon 논문 리뷰의뢰가 들어왔다.</a>
+I"!6<p><a href="/work/public/manchon/BW12823.pdf">PRB 로부터 Manchon 논문 리뷰의뢰가 들어왔다.</a>
 보나마나 accept이고, 배울게 많은 논문이다.
 참고문헌들을 정리해 본다.</p>
 
 <p>처음 도입부 시작은 non-centrosymmetric transition metal ferromagnet에서 ultrafast 한 current-induced  <strong>domain wall motion</strong> 이 가능하다는 얘기부터 시작한다.</p>
 
 <blockquote>
-  <p>1.<code class="highlighter-rouge">08-Moore</code> <a href="/work/public/manchon/08-Moore-current-induced-DW-motion-non-centrosymmetric-APL.pdf">High domain wall velocities induced by current in ultrathin Pt/Co/AlOx wires with perpendicular magnetic anisotropy, APL</a></p>
+  <p>1.<code class="language-plaintext highlighter-rouge">08-Moore</code> <a href="/work/public/manchon/08-Moore-current-induced-DW-motion-non-centrosymmetric-APL.pdf">High domain wall velocities induced by current in ultrathin Pt/Co/AlOx wires with perpendicular magnetic anisotropy, APL</a></p>
 
-  <p>2.<code class="highlighter-rouge">11-Miron</code> <a href="/work/public/manchon/11-Miron-Fast-DW-Rashba-effect-nmat.pdf">Fast current-induced domain-wall motion controlled by the Rashba effect</a></p>
+  <p>2.<code class="language-plaintext highlighter-rouge">11-Miron</code> <a href="/work/public/manchon/11-Miron-Fast-DW-Rashba-effect-nmat.pdf">Fast current-induced domain-wall motion controlled by the Rashba effect</a></p>
 
-  <p>3.<code class="highlighter-rouge">13-Emori</code> <a href="/work/public/manchon/13-Emori-DMI-nmat.pdf">Current-driven dynamics of chiral ferromagnetic domain walls</a></p>
+  <p>3.<code class="language-plaintext highlighter-rouge">13-Emori</code> <a href="/work/public/manchon/13-Emori-DMI-nmat.pdf">Current-driven dynamics of chiral ferromagnetic domain walls</a></p>
 
-  <p>4.<code class="highlighter-rouge">15-Yang</code> <a href="/work/public/manchon/15-Yang-DW-ultrafast-nnano.pdf">Domain-wall velocities of up to 750 m s−1 driven by exchange-coupling torque in synthetic antiferromagnets</a></p>
+  <p>4.<code class="language-plaintext highlighter-rouge">15-Yang</code> <a href="/work/public/manchon/15-Yang-DW-ultrafast-nnano.pdf">Domain-wall velocities of up to 750 m s−1 driven by exchange-coupling torque in synthetic antiferromagnets</a></p>
 </blockquote>
 
 <p>그리고 <strong>skyrmion system</strong> 은 current-induced motion에서 very low depinning current threshold 를 언급한다.</p>
 
 <blockquote>
-  <p>1.<code class="highlighter-rouge">10-Jonietz</code> <a href="/work/public/manchon/10-Jonietz-spin-transfer-torque-science.pdf">Spin Transfer Torques in MnSi at Ultralow Current Densities</a></p>
+  <p>1.<code class="language-plaintext highlighter-rouge">10-Jonietz</code> <a href="/work/public/manchon/10-Jonietz-spin-transfer-torque-science.pdf">Spin Transfer Torques in MnSi at Ultralow Current Densities</a></p>
 
-  <p>2.<code class="highlighter-rouge">12-Schulz</code> <a href="/work/public/manchon/12-Schulz-dynamical-skyrmion-nphys.pdf">Emergent electrodynamics of skyrmions in a chiral magnet</a></p>
+  <p>2.<code class="language-plaintext highlighter-rouge">12-Schulz</code> <a href="/work/public/manchon/12-Schulz-dynamical-skyrmion-nphys.pdf">Emergent electrodynamics of skyrmions in a chiral magnet</a></p>
 
-  <p>3.<code class="highlighter-rouge">12-Yu</code> <a href="/work/public/manchon/12-Yu-RT-skyrmion-flow-ncomms.pdf">Skyrmion flow near room temperature in an ultralow current density</a></p>
+  <p>3.<code class="language-plaintext highlighter-rouge">12-Yu</code> <a href="/work/public/manchon/12-Yu-RT-skyrmion-flow-ncomms.pdf">Skyrmion flow near room temperature in an ultralow current density</a></p>
 </blockquote>
 
 <p>skyrmion은 <strong>topological defect</strong> 임을 언급하고,</p>
 
 <blockquote>
-  <p>1.<code class="highlighter-rouge">13-Nagaosa</code> <a href="/work/public/manchon/13-nagaosa-skyrmion-nnano.pdf">Topological properties and dynamics of magnetic skyrmions</a></p>
+  <p>1.<code class="language-plaintext highlighter-rouge">13-Nagaosa</code> <a href="/work/public/manchon/13-nagaosa-skyrmion-nnano.pdf">Topological properties and dynamics of magnetic skyrmions</a></p>
 </blockquote>
 
 <p><strong>magnetic vortex</strong> 와 유사함이 있음을 강조한다.</p>
 
 <blockquote>
-  <p>1.<code class="highlighter-rouge">06-He</code> <a href="/work/public/manchon/06-He-current-driven-DW-simulation-PRB.pdf">Current-driven vortex domain wall dynamics by micromagnetic simulations</a></p>
+  <p>1.<code class="language-plaintext highlighter-rouge">06-He</code> <a href="/work/public/manchon/06-He-current-driven-DW-simulation-PRB.pdf">Current-driven vortex domain wall dynamics by micromagnetic simulations</a></p>
 
-  <p>2.<code class="highlighter-rouge">06-Thomas</code> <a href="/work/public/manchon/06-Thomas-current-driven-DW-nature.pdf">Oscillatory dependence of current-driven magnetic domain wall motion on current pulse length</a></p>
+  <p>2.<code class="language-plaintext highlighter-rouge">06-Thomas</code> <a href="/work/public/manchon/06-Thomas-current-driven-DW-nature.pdf">Oscillatory dependence of current-driven magnetic domain wall motion on current pulse length</a></p>
 
-  <p>3.<code class="highlighter-rouge">10-Eltschka</code> <a href="/work/public/manchon/10-Eltschka-nonadiabatic-spin-torque-DW-PRL.pdf">Nonadiabatic Spin Torque Investigated Using Thermally Activated
+  <p>3.<code class="language-plaintext highlighter-rouge">10-Eltschka</code> <a href="/work/public/manchon/10-Eltschka-nonadiabatic-spin-torque-DW-PRL.pdf">Nonadiabatic Spin Torque Investigated Using Thermally Activated
 Magnetic Domain Wall Dynamics
 </a></p>
 
-  <p>4.<code class="highlighter-rouge">10-Heyne</code> <a href="/work/public/manchon/10-Heyne-spin-torque-nonadiabaticity-vortex-PRL.pdf">Direct Determination of Large Spin-Torque Nonadiabaticity in Vortex Core Dynamics</a></p>
+  <p>4.<code class="language-plaintext highlighter-rouge">10-Heyne</code> <a href="/work/public/manchon/10-Heyne-spin-torque-nonadiabaticity-vortex-PRL.pdf">Direct Determination of Large Spin-Torque Nonadiabaticity in Vortex Core Dynamics</a></p>
 </blockquote>
 
 <p>magnetic vortices 와 skyrmion 모두 magnetic topology에 의해서 flowing electrons 이 topological Hall effect 를 경험하게 된다.</p>
 
 <blockquote>
-  <p>1.<code class="highlighter-rouge">13-Nagaosa</code> <a href="/work/public/manchon/13-nagaosa-skyrmion-nnano.pdf">Topological properties and dynamics of magnetic skyrmions</a></p>
+  <p>1.<code class="language-plaintext highlighter-rouge">13-Nagaosa</code> <a href="/work/public/manchon/13-nagaosa-skyrmion-nnano.pdf">Topological properties and dynamics of magnetic skyrmions</a></p>
 
-  <p>2.<code class="highlighter-rouge">09-Neubauer</code> <a href="/work/public/manchon/09-Neubauer-topological-Hall-effect-PRL.pdf">Topological Hall Effect in the A Phase of MnSi</a></p>
+  <p>2.<code class="language-plaintext highlighter-rouge">09-Neubauer</code> <a href="/work/public/manchon/09-Neubauer-topological-Hall-effect-PRL.pdf">Topological Hall Effect in the A Phase of MnSi</a></p>
 
-  <p>3.<code class="highlighter-rouge">16-Ndiaye</code> <a href="/work/public/manchon/16-Ndiaye-topological-Hall-effect-spin-Hall-effect-disordered-skyrmion-arXiv.pdf">Topological Hall and Spin Hall Effects in Disordered Skyrmionic Textures</a></p>
+  <p>3.<code class="language-plaintext highlighter-rouge">16-Ndiaye</code> <a href="/work/public/manchon/16-Ndiaye-topological-Hall-effect-spin-Hall-effect-disordered-skyrmion-arXiv.pdf">Topological Hall and Spin Hall Effects in Disordered Skyrmionic Textures</a></p>
 </blockquote>
 
 <p>이경우 magnetic texture 역시 Hall effect를 경험하게 되는데, 이경우 skyrmion Hall effect 라 칭한다.</p>
 
 <blockquote>
-  <p>1.<code class="highlighter-rouge">13-Nagaosa</code> <a href="/work/public/manchon/13-nagaosa-skyrmion-nnano.pdf">Topological properties and dynamics of magnetic skyrmions</a></p>
+  <p>1.<code class="language-plaintext highlighter-rouge">13-Nagaosa</code> <a href="/work/public/manchon/13-nagaosa-skyrmion-nnano.pdf">Topological properties and dynamics of magnetic skyrmions</a></p>
 </blockquote>
 
 <p>대부분의 경우 magnetic vortices 와 skyrmion 은 비슷한 경향을 보인다. 그예로 universal current-velocity relation 을 들 수 있다.</p>
 
 <blockquote>
-  <p>1.<code class="highlighter-rouge">13-Iwasaki</code> <a href="/work/public/manchon/13-Iwasaki-skyrmion-ncomms.pdf">Universal current-velocity relation of skyrmion motion in chiral magnets</a></p>
+  <p>1.<code class="language-plaintext highlighter-rouge">13-Iwasaki</code> <a href="/work/public/manchon/13-Iwasaki-skyrmion-ncomms.pdf">Universal current-velocity relation of skyrmion motion in chiral magnets</a></p>
 
-  <p>2.<code class="highlighter-rouge">13-Iwasaki</code> <a href="/work/public/manchon/13-Iwasaki-skyrmion-nnano.pdf">Current-induced skyrmion dynamics in constricted geometries</a></p>
+  <p>2.<code class="language-plaintext highlighter-rouge">13-Iwasaki</code> <a href="/work/public/manchon/13-Iwasaki-skyrmion-nnano.pdf">Current-induced skyrmion dynamics in constricted geometries</a></p>
 </blockquote>
 
 <p>magnetic vortices 와 skyrmion 의 다른 비슷한 점은 Colossal spin transfer torque가 있다는 것이다 at the edge.</p>
 
 <blockquote>
-  <p>1.<code class="highlighter-rouge">14-Iwasaki</code> <a href="/work/public/manchon/14-Iwasaki-colossal-spin-transger-torque-skyrmion-nl.pdf">Colossal Spin Transfer Torque Effect on Skyrmion along the Edge</a></p>
+  <p>1.<code class="language-plaintext highlighter-rouge">14-Iwasaki</code> <a href="/work/public/manchon/14-Iwasaki-colossal-spin-transger-torque-skyrmion-nl.pdf">Colossal Spin Transfer Torque Effect on Skyrmion along the Edge</a></p>
 
-  <p>2.<code class="highlighter-rouge">06-He</code> <a href="/work/public/manchon/06-He-current-driven-DW-simulation-PRB.pdf">Current-driven vortex domain wall dynamics by micromagnetic simulations</a></p>
+  <p>2.<code class="language-plaintext highlighter-rouge">06-He</code> <a href="/work/public/manchon/06-He-current-driven-DW-simulation-PRB.pdf">Current-driven vortex domain wall dynamics by micromagnetic simulations</a></p>
 </blockquote>
 
 <p>이제는 magnetic vortices 와 skyrmion 의 다른점을 강조한다. 가장 큰 차이점은 vortices 는 vortex core
 와 두개의 transverse wall 로 구성되어있고, 전공간에 퍼져있는 반면,</p>
 
 <blockquote>
-  <p>1.<code class="highlighter-rouge">06-He</code> <a href="/work/public/manchon/06-He-current-driven-DW-simulation-PRB.pdf">Current-driven vortex domain wall dynamics by micromagnetic simulations</a></p>
+  <p>1.<code class="language-plaintext highlighter-rouge">06-He</code> <a href="/work/public/manchon/06-He-current-driven-DW-simulation-PRB.pdf">Current-driven vortex domain wall dynamics by micromagnetic simulations</a></p>
 
-  <p>2.<code class="highlighter-rouge">06-Thomas</code> <a href="/work/public/manchon/06-Thomas-current-driven-DW-nature.pdf">Oscillatory dependence of current-driven magnetic domain wall motion on current pulse length</a></p>
+  <p>2.<code class="language-plaintext highlighter-rouge">06-Thomas</code> <a href="/work/public/manchon/06-Thomas-current-driven-DW-nature.pdf">Oscillatory dependence of current-driven magnetic domain wall motion on current pulse length</a></p>
 
-  <p>3.<code class="highlighter-rouge">10-Eltschka</code> <a href="/work/public/manchon/10-Eltschka-nonadiabatic-spin-torque-DW-PRL.pdf">Nonadiabatic Spin Torque Investigated Using Thermally Activated
+  <p>3.<code class="language-plaintext highlighter-rouge">10-Eltschka</code> <a href="/work/public/manchon/10-Eltschka-nonadiabatic-spin-torque-DW-PRL.pdf">Nonadiabatic Spin Torque Investigated Using Thermally Activated
 Magnetic Domain Wall Dynamics
 </a></p>
 
-  <p>4.<code class="highlighter-rouge">10-Heyne</code> <a href="/work/public/manchon/10-Heyne-spin-torque-nonadiabaticity-vortex-PRL.pdf">Direct Determination of Large Spin-Torque Nonadiabaticity in Vortex Core Dynamics</a></p>
+  <p>4.<code class="language-plaintext highlighter-rouge">10-Heyne</code> <a href="/work/public/manchon/10-Heyne-spin-torque-nonadiabaticity-vortex-PRL.pdf">Direct Determination of Large Spin-Torque Nonadiabaticity in Vortex Core Dynamics</a></p>
 </blockquote>
 
 <p>skyrmion 은 국소화 되어 있는 상태이다.</p>
 
 <blockquote>
-  <p>1.<code class="highlighter-rouge">13-Nagaosa</code> <a href="/work/public/manchon/13-nagaosa-skyrmion-nnano.pdf">Topological properties and dynamics of magnetic skyrmions</a></p>
+  <p>1.<code class="language-plaintext highlighter-rouge">13-Nagaosa</code> <a href="/work/public/manchon/13-nagaosa-skyrmion-nnano.pdf">Topological properties and dynamics of magnetic skyrmions</a></p>
 </blockquote>
 
 <p>이러한 국소성은 pinning state 를 만났을 때 그 행동 양식에 큰 차이점을 보이게 된다.
 texture 를 바꾸고, defect를 피하는 것이다.</p>
 
 <blockquote>
-  <p>1.<code class="highlighter-rouge">13-Iwasaki</code> <a href="/work/public/manchon/13-Iwasaki-skyrmion-ncomms.pdf">Universal current-velocity relation of skyrmion motion in chiral magnets</a></p>
+  <p>1.<code class="language-plaintext highlighter-rouge">13-Iwasaki</code> <a href="/work/public/manchon/13-Iwasaki-skyrmion-ncomms.pdf">Universal current-velocity relation of skyrmion motion in chiral magnets</a></p>
 
-  <p>2.<code class="highlighter-rouge">13-Iwasaki</code> <a href="/work/public/manchon/13-Iwasaki-skyrmion-nnano.pdf">Current-induced skyrmion dynamics in constricted geometries</a></p>
+  <p>2.<code class="language-plaintext highlighter-rouge">13-Iwasaki</code> <a href="/work/public/manchon/13-Iwasaki-skyrmion-nnano.pdf">Current-induced skyrmion dynamics in constricted geometries</a></p>
 
-  <p>3.<code class="highlighter-rouge">14-Iwasaki</code> <a href="/work/public/manchon/14-Iwasaki-colossal-spin-transger-torque-skyrmion-nl.pdf">Colossal Spin Transfer Torque Effect on Skyrmion along the Edge</a></p>
+  <p>3.<code class="language-plaintext highlighter-rouge">14-Iwasaki</code> <a href="/work/public/manchon/14-Iwasaki-colossal-spin-transger-torque-skyrmion-nl.pdf">Colossal Spin Transfer Torque Effect on Skyrmion along the Edge</a></p>
 
-  <p>4.<code class="highlighter-rouge">13-Sampaio</code> <a href="/work/public/manchon/13-Sampaio-current-induced-motion-skyrmion-nnano.pdf">Nucleation, stability and current-induced motion
+  <p>4.<code class="language-plaintext highlighter-rouge">13-Sampaio</code> <a href="/work/public/manchon/13-Sampaio-current-induced-motion-skyrmion-nnano.pdf">Nucleation, stability and current-induced motion
 of isolated magnetic skyrmions in nanostructures</a></p>
 
-  <p>5.<code class="highlighter-rouge">12-Everschor</code> <a href="/work/public/manchon/12-Everschor-rotating-skyrmion-lattices-PRB.pdf">Rotating skyrmion lattices by spin torques and field or temperature gradients</a></p>
+  <p>5.<code class="language-plaintext highlighter-rouge">12-Everschor</code> <a href="/work/public/manchon/12-Everschor-rotating-skyrmion-lattices-PRB.pdf">Rotating skyrmion lattices by spin torques and field or temperature gradients</a></p>
 
-  <p>6.<code class="highlighter-rouge">13-Lin</code> <a href="/work/public/manchon/13-Lin-manipulation-skyrmion-APL.pdf">Manipulation of skyrmions in nanodisks with a current pulse and skyrmion rectifier</a></p>
+  <p>6.<code class="language-plaintext highlighter-rouge">13-Lin</code> <a href="/work/public/manchon/13-Lin-manipulation-skyrmion-APL.pdf">Manipulation of skyrmions in nanodisks with a current pulse and skyrmion rectifier</a></p>
 </blockquote>
 
 <p>반면 magnetic vortices 는 defect에 훨씬 민감해서 쉽게 pinned 된다.</p>
@@ -120,35 +120,35 @@ of isolated magnetic skyrmions in nanostructures</a></p>
 <p>이런 defect 에 robust 한 성질은 ultra-dense한 memory storage를 만드는데 중요한 역할을 하기 때문에 이러한 robustness의 nature를 이해하는 것이 무엇보다도 중요하다.</p>
 
 <blockquote>
-  <p>1.<code class="highlighter-rouge">13-Fert</code> <a href="/work/public/manchon/13-Fert-skyrmion-on-the-track-nnano.pdf">Skyrmions on the track</a></p>
+  <p>1.<code class="language-plaintext highlighter-rouge">13-Fert</code> <a href="/work/public/manchon/13-Fert-skyrmion-on-the-track-nnano.pdf">Skyrmions on the track</a></p>
 </blockquote>
 
 <p>최근 연구 결과에 의하면 이러한 robustness 가 부분적으로는 non-adiabatic torque에 의한것이라는 것이 밝혀졌다.</p>
 
 <blockquote>
-  <p>1.<code class="highlighter-rouge">13-Iwasaki</code> <code class="highlighter-rouge">nature nano</code> <a href="/work/public/manchon/13-Iwasaki-skyrmion-nnano.pdf">Current-induced skyrmion dynamics in constricted geometries</a></p>
+  <p>1.<code class="language-plaintext highlighter-rouge">13-Iwasaki</code> <code class="language-plaintext highlighter-rouge">nature nano</code> <a href="/work/public/manchon/13-Iwasaki-skyrmion-nnano.pdf">Current-induced skyrmion dynamics in constricted geometries</a></p>
 </blockquote>
 
 <p>non-adiabatic spin transfer torque가 언급된 논문은</p>
 
 <blockquote>
-  <p>1.<code class="highlighter-rouge">04-Zhang</code> <code class="highlighter-rouge">Li</code> <a href="/work/public/manchon/04-Zhang-Li-nonadiabatic-STT-PRL.pdf">Roles of Nonequilibrium Conduction Electrons on the Magnetization Dynamics of Ferromagnets</a></p>
+  <p>1.<code class="language-plaintext highlighter-rouge">04-Zhang</code> <code class="language-plaintext highlighter-rouge">Li</code> <a href="/work/public/manchon/04-Zhang-Li-nonadiabatic-STT-PRL.pdf">Roles of Nonequilibrium Conduction Electrons on the Magnetization Dynamics of Ferromagnets</a></p>
 
-  <p>2.<code class="highlighter-rouge">05-Thiaville</code> ` EPL`<a href="/work/public/manchon/05-Thiaville-nonadiabatic-spin-torque-EPL.pdf">Micromagnetic understanding of current-driven domain wall motion in patterned nanowires</a></p>
+  <p>2.<code class="language-plaintext highlighter-rouge">05-Thiaville</code> ` EPL`<a href="/work/public/manchon/05-Thiaville-nonadiabatic-spin-torque-EPL.pdf">Micromagnetic understanding of current-driven domain wall motion in patterned nanowires</a></p>
 </blockquote>
 
 <p>Transverse walls 에 대한 non-adiabatic parameter는 꽤 작지만, magnetic vortices에 대한 non-adiabatic parameter는 상당히 크다는 것이 알려져 있다.</p>
 
 <blockquote>
-  <p>1.<code class="highlighter-rouge">06-Thomas</code> <a href="/work/public/manchon/06-Thomas-current-driven-DW-nature.pdf">Oscillatory dependence of current-driven magnetic domain wall motion on current pulse length</a></p>
+  <p>1.<code class="language-plaintext highlighter-rouge">06-Thomas</code> <a href="/work/public/manchon/06-Thomas-current-driven-DW-nature.pdf">Oscillatory dependence of current-driven magnetic domain wall motion on current pulse length</a></p>
 
-  <p>2.<code class="highlighter-rouge">10-Eltschka</code> <a href="/work/public/manchon/10-Eltschka-nonadiabatic-spin-torque-DW-PRL.pdf">Nonadiabatic Spin Torque Investigated Using Thermally Activated
+  <p>2.<code class="language-plaintext highlighter-rouge">10-Eltschka</code> <a href="/work/public/manchon/10-Eltschka-nonadiabatic-spin-torque-DW-PRL.pdf">Nonadiabatic Spin Torque Investigated Using Thermally Activated
 Magnetic Domain Wall Dynamics
 </a></p>
 
-  <p>3.<code class="highlighter-rouge">10-Heyne</code> <a href="/work/public/manchon/10-Heyne-spin-torque-nonadiabaticity-vortex-PRL.pdf">Direct Determination of Large Spin-Torque Nonadiabaticity in Vortex Core Dynamics</a></p>
+  <p>3.<code class="language-plaintext highlighter-rouge">10-Heyne</code> <a href="/work/public/manchon/10-Heyne-spin-torque-nonadiabaticity-vortex-PRL.pdf">Direct Determination of Large Spin-Torque Nonadiabaticity in Vortex Core Dynamics</a></p>
 
-  <p>4.<code class="highlighter-rouge">15-Bisig</code> <a href="/work/public/manchon/15-Bisig-non-adiabaticity-vortices-arXiv.pdf">Enhanced Non-Adiabaticity in Vortex Cores due to the Emergent Hall Effect</a></p>
+  <p>4.<code class="language-plaintext highlighter-rouge">15-Bisig</code> <a href="/work/public/manchon/15-Bisig-non-adiabaticity-vortices-arXiv.pdf">Enhanced Non-Adiabaticity in Vortex Cores due to the Emergent Hall Effect</a></p>
 </blockquote>
 
 <p>저자에 의하면 skyrmion 에 대한 non-adiabaticity는 알려진바가 없다. 하지만, 예상하기를 magnetic vortices 와 비슷한 크기가 아닐까하는 추측은 있다. 최근의 활발한 실험 연구를 통해 그 값이 밝혀지기를 바란다.</p>
@@ -156,15 +156,15 @@ Magnetic Domain Wall Dynamics
 <p>실험들</p>
 
 <blockquote>
-  <p>1.<code class="highlighter-rouge">15-Jiang</code> <a href="/work/public/manchon/15-Jiang-Blowing-skyrmion-bubbles-science.pdf">Blowing magnetic skyrmion bubbles</a></p>
+  <p>1.<code class="language-plaintext highlighter-rouge">15-Jiang</code> <a href="/work/public/manchon/15-Jiang-Blowing-skyrmion-bubbles-science.pdf">Blowing magnetic skyrmion bubbles</a></p>
 
-  <p>2.<code class="highlighter-rouge">15-Chen</code> <code class="highlighter-rouge">Room temperature skyrmion</code> <a href="/work/public/manchon/15-Chen-RT-skyrmion-APL.pdf">Room temperature skyrmion ground state stabilized through interlayer exchange coupling</a></p>
+  <p>2.<code class="language-plaintext highlighter-rouge">15-Chen</code> <code class="language-plaintext highlighter-rouge">Room temperature skyrmion</code> <a href="/work/public/manchon/15-Chen-RT-skyrmion-APL.pdf">Room temperature skyrmion ground state stabilized through interlayer exchange coupling</a></p>
 
-  <p>3.<code class="highlighter-rouge">16-Boulle</code> <code class="highlighter-rouge">Room temperature skyrmion</code> <a href="/work/public/manchon/16-Boulle-RT-skyrmion-nnano.pdf">Room-temperature chiral magnetic skyrmions in ultrathin magnetic nanostructures</a></p>
+  <p>3.<code class="language-plaintext highlighter-rouge">16-Boulle</code> <code class="language-plaintext highlighter-rouge">Room temperature skyrmion</code> <a href="/work/public/manchon/16-Boulle-RT-skyrmion-nnano.pdf">Room-temperature chiral magnetic skyrmions in ultrathin magnetic nanostructures</a></p>
 
-  <p>4.<code class="highlighter-rouge">16-Moreau-Lichaire</code> <code class="highlighter-rouge">Room temperature skyrmion</code> <a href="/work/public/manchon/16-Moreau-Lichaire-RT-skyrmion-nnano.pdf">Additive interfacial chiral interaction in multilayers for stabilization of small individual skyrmions at
+  <p>4.<code class="language-plaintext highlighter-rouge">16-Moreau-Lichaire</code> <code class="language-plaintext highlighter-rouge">Room temperature skyrmion</code> <a href="/work/public/manchon/16-Moreau-Lichaire-RT-skyrmion-nnano.pdf">Additive interfacial chiral interaction in multilayers for stabilization of small individual skyrmions at
 room temperature</a></p>
 
-  <p>5.<code class="highlighter-rouge">16-Woo</code> <code class="highlighter-rouge">Room temperature skyrmion</code><a href="/work/public/manchon/16-Woo-room-tem-skyrmion-Nmat.pdf">Observation of room-temperature magnetic skyrmions and their current-driven dynamics in ultrathin metallic ferromagnets</a></p>
+  <p>5.<code class="language-plaintext highlighter-rouge">16-Woo</code> <code class="language-plaintext highlighter-rouge">Room temperature skyrmion</code><a href="/work/public/manchon/16-Woo-room-tem-skyrmion-Nmat.pdf">Observation of room-temperature magnetic skyrmions and their current-driven dynamics in ultrathin metallic ferromagnets</a></p>
 </blockquote>
 :ET
