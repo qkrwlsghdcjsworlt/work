@@ -27,3 +27,7 @@ S=3/2 에서는 보통 Heisenberg interaction 이 dominant 하고 나머지 Kita
 crystal distortion 을 고려하면 anisotropy 가 가능해져서 FM 이 가능하다는 것이다.
 
 
+strong SOC 일때 d3 electron configuration 참고 
+Orbital physics in transition metal compounds: new trends
+arXiv:1711.05409
+
