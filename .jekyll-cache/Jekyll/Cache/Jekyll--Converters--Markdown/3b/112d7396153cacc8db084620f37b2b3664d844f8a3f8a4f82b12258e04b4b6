@@ -1,8 +1,8 @@
-I"<p>apple script 로 firefox 열기</p>
+I"<p>apple script 로 firefox 열기</p>
 
 <blockquote>
 
-  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>on run {input, parameters}
+  <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>on run {input, parameters}
 
 tell application "Firefox"
 	

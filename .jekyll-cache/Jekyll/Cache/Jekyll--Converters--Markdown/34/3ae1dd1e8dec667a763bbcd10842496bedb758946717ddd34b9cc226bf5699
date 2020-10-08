@@ -1,5 +1,4 @@
-I"�
-<p>arXiv에 two body SSH model 이라는 논문이 나와서 리뷰해본다. <code class="language-plaintext highlighter-rouge">16-Liberto</code></p>
+I"�	<p>arXiv에 two body SSH model 이라는 논문이 나와서 리뷰해본다. <code class="highlighter-rouge">16-Liberto</code></p>
 
 <p>1D system 에서 alternating hopping을 주어서 SSH model를 만들수 있고, 여기에 onsite interaction까지 고려한 논문인듯하다.</p>
 
@@ -15,15 +14,15 @@
 
 <p>two ground state present a Zak phase difference of \( \pi \)</p>
 
-<p><code class="language-plaintext highlighter-rouge">89-Zak</code> <a href="http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.62.2747">Berry’s Phase for Energy Bands in Solids</a></p>
+<p><code class="highlighter-rouge">89-Zak</code> <a href="http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.62.2747">Berry’s Phase for Energy Bands in Solids</a></p>
 
-<p><code class="language-plaintext highlighter-rouge">13-Atala</code> <a href="http://www.nature.com/nphys/journal/v9/n12/full/nphys2790.html">Direct measurement of the Zak phase in topological Bloch bands</a></p>
+<p><code class="highlighter-rouge">13-Atala</code> <a href="http://www.nature.com/nphys/journal/v9/n12/full/nphys2790.html">Direct measurement of the Zak phase in topological Bloch bands</a></p>
 
 <p>Half-filling</p>
 
-<p><code class="language-plaintext highlighter-rouge">13-Grusdt</code> <a href="http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.260405">Topological Edge States in the One-Dimensional Superlattice Bose-Hubbard Model</a></p>
+<p><code class="highlighter-rouge">13-Grusdt</code> <a href="http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.260405">Topological Edge States in the One-Dimensional Superlattice Bose-Hubbard Model</a></p>
 
-<p><code class="language-plaintext highlighter-rouge">14-Deng</code> <a href="http://journals.aps.org/pra/abstract/10.1103/PhysRevA.89.033632">Topological transitions of interacting bosons in one-dimensional bichromatic optical lattices</a></p>
+<p><code class="highlighter-rouge">14-Deng</code> <a href="http://journals.aps.org/pra/abstract/10.1103/PhysRevA.89.033632">Topological transitions of interacting bosons in one-dimensional bichromatic optical lattices</a></p>
 
 <p>Experimental realization</p>
 
@@ -31,10 +30,10 @@
   <p>The most intriguing perspective of our work is the possibility of observing distinctive two-body SSH dynamics directly in real space.</p>
 </blockquote>
 
-<p><code class="language-plaintext highlighter-rouge">13-Corrielli</code> <a href="http://www.nature.com/articles/ncomms2578">Fractional Bloch oscillations in photonic lattices</a></p>
+<p><code class="highlighter-rouge">13-Corrielli</code> <a href="http://www.nature.com/articles/ncomms2578">Fractional Bloch oscillations in photonic lattices</a></p>
 
 <p>Fano-Feshbach resonance</p>
 
-<p><code class="language-plaintext highlighter-rouge">08-Nygaard</code> <a href="http://journals.aps.org/pra/abstract/10.1103/PhysRevA.78.023617">Two-channel Feshbach physics in a structured continuum</a></p>
+<p><code class="highlighter-rouge">08-Nygaard</code> <a href="http://journals.aps.org/pra/abstract/10.1103/PhysRevA.78.023617">Two-channel Feshbach physics in a structured continuum</a></p>
 
 :ET
