@@ -1,14 +1,14 @@
-I"�<p>nonsymmorphic symmetry를 가지는 모델을 공부하는데 도대체 nonsymmorphic이란 무엇일까?</p>
+I"<p>nonsymmorphic symmetry를 가지는 모델을 공부하는데 도대체 nonsymmorphic이란 무엇일까?</p>
 
 <p>어떤 논문을 보면 잘 이해할 수 있을까? Ashvin 논문?
 구글 검색을 해보자.
-<a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.90.085304">Topological nonsymmorphic crystalline insulators</a>에 자세한 설명을 볼수있다. <code class="highlighter-rouge">13-Liu-nonsymmorphic</code></p>
+<a href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.90.085304">Topological nonsymmorphic crystalline insulators</a>에 자세한 설명을 볼수있다. <code class="language-plaintext highlighter-rouge">13-Liu-nonsymmorphic</code></p>
 
 <blockquote>
   <p>Nonsymmorphic crystals possess symmetry operations combining a point symmetry operation and a non-primitive translation operation, which cannot be removed by choosing the origin of crystals.</p>
 </blockquote>
 
-<p>이 non-primitive translation 을 어떤 논문에서는 fractional translation으로 표현하였다.<a href="http://web.mit.edu/bolin/www/nonsymmorphic_symmetry.pdf">Nonsymmorphic Symmetries and Their Consequences</a> <code class="highlighter-rouge">12-Liao-nonsymmorphic</code></p>
+<p>이 non-primitive translation 을 어떤 논문에서는 fractional translation으로 표현하였다.<a href="http://web.mit.edu/bolin/www/nonsymmorphic_symmetry.pdf">Nonsymmorphic Symmetries and Their Consequences</a> <code class="language-plaintext highlighter-rouge">12-Liao-nonsymmorphic</code></p>
 
 <blockquote>
   <p>The “fractional” translation vectors v(α) depend on the choice of the origin.</p>
