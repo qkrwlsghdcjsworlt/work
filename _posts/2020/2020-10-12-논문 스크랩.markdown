@@ -1,0 +1,17 @@
+---
+LAYOUT: POST
+TITLE:   "논문 스크랩"
+DATE:   2020-10-12 11:50:00 +0900
+CATEGORIES: LIFE
+
+---
+
+
+
+#####  2020/10/12(월)
+
+
+논문 스크랩도 다 했다. 이제 graphene 과 Heavy fermion 계산을 해보자. 
+
+
+
