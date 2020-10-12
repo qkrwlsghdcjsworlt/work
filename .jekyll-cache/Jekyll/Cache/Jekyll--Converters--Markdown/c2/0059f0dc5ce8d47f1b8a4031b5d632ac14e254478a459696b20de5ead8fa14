@@ -1,4 +1,4 @@
-I"�	<p>relaxation 과 dephasing 개념은 항상 헷갈리는데, <a href="/work/public/QD/relaxation-dephasing.pdf">여기에</a> 자세한 구분이 나와있는 논문을 발견해서 스크랩해둔다.</p>
+I"N	<p>relaxation 과 dephasing 개념은 항상 헷갈리는데, <a href="/work/public/QD/relaxation-dephasing.pdf">여기에</a> 자세한 구분이 나와있는 논문을 발견해서 스크랩해둔다.</p>
 
 <p>2.3.1 Relaxation</p>
 
@@ -13,7 +13,7 @@ measuring the time it takes to go to thermal equilibrium. The decay
 constant is generally called T1.</p>
 </blockquote>
 
-<p><code class="language-plaintext highlighter-rouge">relaxation 은 qubit information 의 polar angle</code> \( \theta \)  <code class="language-plaintext highlighter-rouge">과 관계있고, enviroment 와 energy 교환을 통한 dissipation 되는 시간을 뜻한다.</code></p>
+<p><code class="highlighter-rouge">relaxation 은 qubit information 의 polar angle</code> \( \theta \)  <code class="highlighter-rouge">과 관계있고, enviroment 와 energy 교환을 통한 dissipation 되는 시간을 뜻한다.</code></p>
 
 <p>2.3.2 Dephasing</p>
 
@@ -35,5 +35,5 @@ of spin-echo sequences and was developed in the context of nuclear
 magnetic resonance physics. Hence, the dephasing time dependends
 on the pulse sequence. The upper limit is called T2.</p>
 
-<p><code class="language-plaintext highlighter-rouge">dephasing 은 qubit information의 azimuthal angle</code> \( \phi \) <code class="language-plaintext highlighter-rouge">와 관련이 있고, energy dissipation 없이도 일어날 수 있다. dephasing은 Ramsey Interferometry를 통해서 측정할 수 있다.</code></p>
+<p><code class="highlighter-rouge">dephasing 은 qubit information의 azimuthal angle</code> \( \phi \) <code class="highlighter-rouge">와 관련이 있고, energy dissipation 없이도 일어날 수 있다. dephasing은 Ramsey Interferometry를 통해서 측정할 수 있다.</code></p>
 :ET

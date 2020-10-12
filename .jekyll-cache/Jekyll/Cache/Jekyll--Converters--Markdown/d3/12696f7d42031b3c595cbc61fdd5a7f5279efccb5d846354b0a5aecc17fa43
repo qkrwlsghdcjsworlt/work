@@ -1,4 +1,4 @@
-I"�<p>May 30 to June 10, 2016
+I"{<p>May 30 to June 10, 2016
 Sherbrooke, Québec, Canada</p>
 
 <ul>
@@ -101,9 +101,9 @@ Boxsync-project 폴더의 nanjing 에서 확인해보자.</p>
 /Library/python/3.5~~~~ 이하 이걸 지우고</p>
 
 <blockquote>
-  <p><code class="language-plaintext highlighter-rouge">export LANG=en_US.UTF-8</code></p>
+  <p><code class="highlighter-rouge">export LANG=en_US.UTF-8</code></p>
 
-  <p><code class="language-plaintext highlighter-rouge">export LC_ALL=en_US.UTF-8</code></p>
+  <p><code class="highlighter-rouge">export LC_ALL=en_US.UTF-8</code></p>
 </blockquote>
 
 <p>를 넣었더니 잘 작동한다.</p>
@@ -117,7 +117,7 @@ Boxsync-project 폴더의 nanjing 에서 확인해보자.</p>
 <p>그리고 python을 mathematica 처럼 쓰고 싶으면</p>
 
 <blockquote>
-  <p><code class="language-plaintext highlighter-rouge">ipython notebook</code></p>
+  <p><code class="highlighter-rouge">ipython notebook</code></p>
 </blockquote>
 
 <p>을 terminal 에 입력하면 된다.</p>
@@ -125,7 +125,7 @@ Boxsync-project 폴더의 nanjing 에서 확인해보자.</p>
 <p>또는</p>
 
 <blockquote>
-  <p><code class="language-plaintext highlighter-rouge">jupyter notebook</code></p>
+  <p><code class="highlighter-rouge">jupyter notebook</code></p>
 </blockquote>
 
 <p>을 terminal 에 입력하면 된다.</p>

@@ -1,0 +1,15 @@
+---
+LAYOUT: POST
+TITLE:   "할일"
+DATE:   2020-10-12 09:30:00 +0900
+CATEGORIES: LIFE
+
+---
+
+
+
+#####  2020/10/12(월)
+
+
+그래핀 정리 한번 하고 Heavy fermion 정리도 하자. 그리고 PRL 확인해야됨. 
+
