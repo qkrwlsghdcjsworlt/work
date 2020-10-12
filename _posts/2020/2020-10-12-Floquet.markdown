@@ -14,5 +14,7 @@ CATEGORIES: LIFE
 Floquet engineering 을 통해서 interactions 을 조정한다는 논문이다. 흥미롭다. 
 review 해 보자. 아마도 accept 가 될거 같다.
 
+집에서 출력을 하자. 
+
 
 
