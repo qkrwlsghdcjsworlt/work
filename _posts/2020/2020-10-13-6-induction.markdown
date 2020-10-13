@@ -1,0 +1,18 @@
+---
+LAYOUT: POST
+TITLE:   "6-induction"
+DATE:   2020-10-13 17:30:00 +0900
+CATEGORIES: LIFE
+
+---
+
+
+
+#####  2020/10/13(화)
+
+
+Emergent electromagnetic induction in a helical-spin magnet
+
+nature 2020
+
+
