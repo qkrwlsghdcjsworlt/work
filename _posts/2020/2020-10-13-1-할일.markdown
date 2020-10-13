@@ -1,0 +1,16 @@
+---
+LAYOUT: POST
+TITLE:   "1-할일"
+DATE:   2020-10-13 09:50:00 +0900
+CATEGORIES: LIFE
+
+---
+
+
+
+#####  2020/10/13(화)
+
+
+일단 STO 위에 graphene 의 dielectric constant 영향, lattice parameter 영향, phonon 영향을 살펴 보자.
+HfO2 위의 graphene 도 살펴봐야됨.
+
