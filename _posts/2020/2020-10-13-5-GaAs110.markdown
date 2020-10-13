@@ -1,0 +1,18 @@
+---
+LAYOUT: POST
+TITLE:   "5-GaAs110"
+DATE:   2020-10-13 15:30:00 +0900
+CATEGORIES: LIFE
+
+---
+
+
+
+#####  2020/10/13(화)
+
+
+Surface polarization and edge charges
+
+이 PRB 논문에 GaAs 110 surface 에 대해서 나온다.
+
+
