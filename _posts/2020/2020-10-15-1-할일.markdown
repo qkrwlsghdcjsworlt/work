@@ -1,0 +1,16 @@
+---
+LAYOUT: POST
+TITLE:   "1-할일"
+DATE:   2020-10-15 09:00:00 +0900
+CATEGORIES: LIFE
+
+---
+
+
+
+#####  2020/10/15(목)
+
+
+surface Green 함수 논문 읽어보자. 2편
+
+
