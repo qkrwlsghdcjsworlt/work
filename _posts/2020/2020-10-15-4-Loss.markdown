@@ -1,0 +1,20 @@
+---
+LAYOUT: POST
+TITLE:   "4-Loss"
+DATE:   2020-10-15 11:30:00 +0900
+CATEGORIES: LIFE
+
+---
+
+
+
+#####  2020/10/15(목)
+
+
+Loss 그룹에서 majorana zero mode 에 대해서 Bosonizatino scheme 을 써서 푼 논문을 내었다. 읽어보자.
+
+[DLoss Majorana zero modes and their bosonization](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.102.155416)
+
+
+
+
