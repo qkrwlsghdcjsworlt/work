@@ -1,0 +1,19 @@
+---
+LAYOUT: POST
+TITLE:   "2-룸템 초전도체"
+DATE:   2020-10-15 10:00:00 +0900
+CATEGORIES: LIFE
+
+---
+
+
+
+#####  2020/10/15(목)
+
+
+[룸템 초전도체](https://www.nature.com/articles/s41586-020-2801-z)
+
+H2S 와 CH4 메탄 을 섞어서 압력을 267GPa 가하면 15도 Tc가 나온다고 한다.
+
+
+
