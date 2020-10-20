@@ -1,0 +1,17 @@
+---
+LAYOUT: POST
+TITLE:   "1-할일"
+DATE:   2020-10-20 09:30:00 +0900
+CATEGORIES: LIFE
+
+---
+
+
+
+#####  2020/10/20(화)
+
+
+오전에 논문 스크랩 완료함. 눈에 띄는 논문은 graphene 에 doping 을 해서 van Hove singluarity 을 확인했다는  논문이다.
+
+
+
