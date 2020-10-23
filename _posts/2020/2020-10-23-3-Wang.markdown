@@ -1,0 +1,15 @@
+---
+LAYOUT: POST
+TITLE:   "3-Wang"
+DATE:   2020-10-23 15:00:00 +0900
+CATEGORIES: LIFE
+
+---
+
+
+
+#####  2020/10/23(금)
+
+
+Wang 박사가 Pc1 과 Pc2 가 있는 실험결과를 말했다. 처음에 드는 생각은 압력에 따라 f band 가 움직이고, 그래서 Pc1은 charge degree of freedom 과 관련이 있는 QCP 이고 Pc2 는 AFM 과 관련이 있는 QCP 이라는 결론에 도달한게 아닐까?
+
