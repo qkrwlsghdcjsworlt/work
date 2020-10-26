@@ -13,7 +13,7 @@ CATEGORIES: LIFE
 
 디스플레이 세팅
 
-![](/images/setting1.png)
+![setting1]({{site.baseurl}}/images/setting1.png)
 
-![](/images/setting2.png)
+![setting2]({{site.baseurl}}/images/setting2.png)
 
