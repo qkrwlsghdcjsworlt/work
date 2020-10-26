@@ -1,7 +1,7 @@
 ---
 LAYOUT: POST
 TITLE:   "6-spin dynamics"
-DATE:   2020-10-26 23:00:00 +0900
+DATE:   2020-10-26 22:30:00 +0900
 CATEGORIES: LIFE
 
 ---
