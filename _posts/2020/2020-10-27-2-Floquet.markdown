@@ -1,0 +1,17 @@
+---
+LAYOUT: POST
+TITLE:   "2-Floquet"
+DATE:   2020-10-27 17:00:00 +0900
+CATEGORIES: LIFE
+
+---
+
+
+
+#####  2020/10/27(화)
+
+
+Floquet enginieering 논문 다시 보고 있는데, Iridates 모델에 대해서 floquet  Hamiltonian 을 고려해보면 어떨까하는 생각이 든다.
+
+그리고 Balents PRL 논문을 출력해서 비교해보자.
+
