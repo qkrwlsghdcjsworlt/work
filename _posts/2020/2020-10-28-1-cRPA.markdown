@@ -16,6 +16,14 @@ cRPA 랑 cfRG 논문을 보았는데, 쉽게 설명이 되어있어서 따라해
 Investigation of the effective interactions for the Emery model by the constrained
 random-phase approximation and constrained functional renormalization group
 
-[2010.14045.pdf](https://arxiv.org/abs/2010.14045)
+[2010.14045](https://arxiv.org/abs/2010.14045)
 
 
+
+그리고 flex 방법과 
+
+[PhysRevB.97.155128](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.97.155128)
+
+mRPA 방법이 소개되어 있다.
+
+[PhysRevB.99.195141](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.99.195141)
