@@ -1,0 +1,18 @@
+---
+LAYOUT: POST
+TITLE:   "1-tip"
+DATE:   2020-10-30 17:30:00 +0900
+CATEGORIES: LIFE
+
+---
+
+
+
+#####  2020/10/30(금)
+
+
+[Wannier90 tip](http://hjkgrp.mit.edu/content/quick-tip-maximally-localized-wannier-functions)
+
+[VMD](http://hjkgrp.mit.edu/content/visualizing-vmd-rendering-pov-ray)
+
+
