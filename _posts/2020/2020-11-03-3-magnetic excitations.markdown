@@ -11,7 +11,7 @@ CATEGORIES: LIFE
 #####  2020/11/03(화)
 
 
-![](/{{site.baseurl}}/images/magnetic-excitation.png) 
+![]({{site.baseurl}}/images/magnetic-excitation.png) 
 
 normal metal 의 경우 외부 voltage 에 대해서 dI/dV 를 측정하여보면 V = IR 이기 때문에 constant 값을 보여준다.
 
