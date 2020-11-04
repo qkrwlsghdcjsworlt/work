@@ -1,0 +1,21 @@
+---
+LAYOUT: POST
+TITLE:   "1-Loss"
+DATE:   2020-11-04 10:45:00 +0900
+CATEGORIES: LIFE
+
+---
+
+
+
+#####  2020/11/04(수)
+
+
+Kramers pairs of Majorana corner states in a topological insulator bilaye
+[PhysRevB.102.195401](https://link.aps.org/doi/10.1103/PhysRevB.102.195401)
+
+에서 Majorana corner states 를 numerical 하게 구했음을 확인할 수 있다.
+
+
+
+
