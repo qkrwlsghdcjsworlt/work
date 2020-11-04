@@ -1,0 +1,20 @@
+---
+LAYOUT: POST
+TITLE:   "3-Jacobian"
+DATE:   2020-11-04 17:45:00 +0900
+CATEGORIES: LIFE
+
+---
+
+
+
+#####  2020/11/04(수)
+
+
+![]({{site.baseurl/images/jacobian.png}})
+
+
+MC 계산에서 Exp(-E/T) 와 더불어 Jacobian 이 들어가게 되는데 
+Exp(-E/T + log(|r^2 sin theta|)) 가 들어간다. 그 Jacobian 은 위 식으로 부터 나오는 것이다.
+
+
