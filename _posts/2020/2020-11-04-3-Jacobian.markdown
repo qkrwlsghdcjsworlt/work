@@ -11,7 +11,7 @@ CATEGORIES: LIFE
 #####  2020/11/04(수)
 
 
-![]({{site.baseurl/images/jacobian.png}})
+![]({{site.baseurl}}/images/jacobian.png)
 
 
 MC 계산에서 Exp(-E/T) 와 더불어 Jacobian 이 들어가게 되는데 
