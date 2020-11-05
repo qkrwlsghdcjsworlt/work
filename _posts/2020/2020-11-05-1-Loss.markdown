@@ -1,0 +1,18 @@
+---
+LAYOUT: POST
+TITLE:   "1-Loss"
+DATE:   2020-11-05 10:45:00 +0900
+CATEGORIES: LIFE
+
+---
+
+
+
+#####  2020/11/05(목)
+
+
+오전에 Loss 논문을 읽었는데,
+
+corner mode 를 얻기위한 minimal 모델을 잘 표현한거 같다.
+
+
