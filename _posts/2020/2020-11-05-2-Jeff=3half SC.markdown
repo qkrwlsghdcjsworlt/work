@@ -13,5 +13,10 @@ CATEGORIES: LIFE
 
 Jeff =3/2 를 기반 한 초전도성에 대한 박문집 박사님 talk 를 들었는데, 재미있었다.
 
+할 수 있는 질문은 초전도체가 unconventional 이라고 하셨는데 Tc/Delta 비율을 계산해 보셨냐? 이 비율이 conventional 초전도를 기술할 때 가지는 상수값과 비교해서 어떤 값을 주냐고 질문할 수 있을 거 같다.
+
+
+
+
 
 
