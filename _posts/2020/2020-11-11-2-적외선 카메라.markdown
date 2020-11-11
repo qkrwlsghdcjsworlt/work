@@ -20,5 +20,5 @@ Infrared filter 52mm
 
 생각해보자.
 
-![](/imgages/image001.jpg)
+![]({{site.baseurl}}/imgages/image001.jpg)
 
