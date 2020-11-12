@@ -1,0 +1,32 @@
+---
+LAYOUT: POST
+TITLE:   "2-미팅"
+DATE:   2020-11-12 13:00:00 +0900
+CATEGORIES: LIFE
+
+---
+
+
+
+#####  2020/11/12(목)
+
+
+교수님과 미팅을 했다. 두가지 주문을 하셨는데,
+
+첫번째는 field H = 0 에서 어떤 parameters 조합에서 실험 결과와 비슷한 결과를 줄 수 있냐를 확인해야 된다는 것.
+
+그게 지금의 Hamiltonian 으로 표현될 수도 있고, 다른 항들을 넣어야 될 수 도 있다.
+
+두번째는 실험처럼 H 를 키워나갔을 때, Gamma(2) -> Gamma(1) 상태로 바뀌느냐를 확인해봐야한다는 것이다.
+
+그리고 논문하나를 소개시켜주셨다.
+
+Tunable emergent heterostructures in a prototypical correlated metal
+
+이 논문인데, 물론 여기에 나오는 spin Hamiltonian은 내가 simulations 돌리 Hamiltonian 과 다르지만, 이것자체로 계산을 진행시켜볼 여지가 있다.
+
+확인해보자.
+
+
+
+
