@@ -1,0 +1,32 @@
+I"�<h5 id="20201112목">2020/11/12(목)</h5>
+
+<p>요즘 박태호 박사님과 excitonic insulator 에 대해서 토론을 많이 나누는데,</p>
+
+<p>오늘 듣게 된 사실이 재미있어서 기록으로 남겨둔다.</p>
+
+<p>m_e/ m_h = alpha 라는 변수로 두고 excitonic insulator gap 의 크기를 계산해보면</p>
+
+<p>m_h 가 커질수록 그러니까 alpha 의 값이 작아질 수록 excitonic insulator 의 gap 크기가 작아진다는 것이고,</p>
+
+<p>이것은 electron 과 hole 과의 interaction 이 커짐에도 gap 이 커지지가 않고, 
+gap 오히려 작아지게 만드는 요인이 될 수 있다는 해석을 하였다.</p>
+
+<p>이 말이 무슨 말인지 이해하기 위해서</p>
+
+<p>박태호 박사님께서 공유해주신 논문을 읽어보고 그 그림들을 reproduce 해 볼 수 있도록 해보자.</p>
+
+<p>Possibility of an excitonic insulator at the semiconductor-semimetal transition</p>
+
+<p>PRB 2006년 논문이다.</p>
+
+<p>그리고 이런 연구를 하게 된 이유는 TiSe2 의 특이성 때문이라고 한다.</p>
+
+<p>CDW 의 원인이 excitonic insulator 때문이라는 것이다.</p>
+
+<p>TaAs 와 TiSe 역시 CDW 를 가지고 있지만, excitonic insulator 라고는 하지 않는다고 한다.</p>
+
+<p>하지만 왜 TiSe2 은 위 물질과 비슷한 band width 를 가지고 있음에도 excitonic insulator 라고 하는지 궁금했다고 한다.</p>
+
+<p>베트남 학생의 interpretation 이 뭔가 그 실마리를 제공할 수 있지 않을까 궁금해지네..</p>
+
+:ET
