@@ -32,4 +32,11 @@ brew install Caskroom/cask/qt-creator
 'Preferences' - 'Qt version' - '방금 우리가 만든 Qt Versions를 선택'
 
 
+----
+
+python 설치
+
+![]({{site.baseurl}}/images/spirit.png)
+
+
 

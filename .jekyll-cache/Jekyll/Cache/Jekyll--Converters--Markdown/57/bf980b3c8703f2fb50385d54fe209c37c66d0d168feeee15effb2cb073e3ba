@@ -1,0 +1,34 @@
+I"�<h5 id="20201207월">2020/12/07(월)</h5>
+
+<p>spirit 을 설치하려면.</p>
+
+<p>Qt5 를 설치해야됨.</p>
+
+<p><a href="https://gist.github.com/sigmadream/45050b2efbbd64582487">github gist 참고</a></p>
+
+<hr />
+<ol>
+  <li>
+    <p>qt5 및 부속 프로그램 설치
+brew install qt5
+brew install Caskroom/cask/qt-creator</p>
+  </li>
+  <li>
+    <p>설정을 해야 한다.
+다음과 같은 삽질을 순서대로 실시합니다.</p>
+  </li>
+</ol>
+
+<p>‘Qt Creator’ - ‘Preferences’ - ‘Build &amp; Run’ - ‘Qt Versions’ - ‘Add’ - ‘Macintosh HD’ - ‘Command + Shift + . (숨김파일 보여주는 단축키)’ - ‘/usr/local/Cellar/qt5/bin/qmake’</p>
+
+<p>‘Preferences’ - ‘Kits’ - ‘Compiler’ - ‘Clang (x86 64bit)’</p>
+
+<p>‘Preferences’ - ‘Qt version’ - ‘방금 우리가 만든 Qt Versions를 선택’</p>
+
+<hr />
+
+<p>python 설치</p>
+
+<p><img src="/work/images/spirit.png" alt="" /></p>
+
+:ET
